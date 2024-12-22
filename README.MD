@@ -560,6 +560,11 @@ InkCanvasForClass 是基于 ChangSakura 的 Ink Canvas Artistry 项目二次开�
 </tr>
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>Github</b></td>
+    <td><a href="https://github.com/Awesome-Iwb/InkCanvasForClass/">Awesome-Iwb/InkCanvasForClass</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>Github(v.0610fix)</b></td>
     <td><a href="https://github.com/Awesome-Iwb/icc-0610fix/">Awesome-Iwb/icc-0610fix</a></td>
 </tr>
