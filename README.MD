@@ -525,22 +525,20 @@ ppInk is a user-friendly on-screen annotation software for Windows, compatible w
 ![banner](https://github.com/InkCanvas/InkCanvasForClass/raw/master/icc-github-illustrations.png)
 
 ![GNOME](https://img.shields.io/badge/GNOME-003E92)
-[![stars](https://img.shields.io/github/stars/InkCanvas/InkCanvasForClass?style=flat&color=red)](https://github.com/InkCanvas/InkCanvasForClass/stargazers)
-[![forks](https://img.shields.io/github/forks/InkCanvas/InkCanvasForClass?style=flat&color=blue)](https://github.com/InkCanvas/InkCanvasForClass/forks)
-[![Watchers](https://img.shields.io/github/watchers/InkCanvas/InkCanvasForClass?style=flat&color=green)](https://github.com/InkCanvas/InkCanvasForClass/watchers)
-[![Downloads](https://img.shields.io/github/downloads/InkCanvas/InkCanvasForClass/total?style=flat&logo=github)](https://github.com/InkCanvas/InkCanvasForClass/releases)<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/InkCanvas/InkCanvasForClass?query=is%3Aopen&label=issues&color=purple)](https://github.com/InkCanvas/InkCanvasForClass/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/InkCanvas/InkCanvasForClass?style=flat)](https://github.com/InkCanvas/InkCanvasForClass/discussions)
-[![Created At](https://img.shields.io/github/created-at/InkCanvas/InkCanvasForClass)](https://github.com/InkCanvas/InkCanvasForClass)
-[![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvas/InkCanvasForClass)](https://github.com/InkCanvas/InkCanvasForClass/commits/master)<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/InkCanvas/InkCanvasForClass)](https://github.com/InkCanvas/InkCanvasForClass)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/InkCanvas/InkCanvasForClass?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkMjPC90aXRsZT48cGF0aCBkPSJNMS4xOTQgNy41NDN2OC45MTNjMCAxLjEwMy41ODggMi4xMjIgMS41NDQgMi42NzRsNy43MTggNC40NTZhMy4wODYgMy4wODYgMCAwIDAgMy4wODggMGw3LjcxOC00LjQ1NmEzLjA4NyAzLjA4NyAwIDAgMCAxLjU0NC0yLjY3NFY3LjU0M2EzLjA4NCAzLjA4NCAwIDAgMC0xLjU0NC0yLjY3M0wxMy41NDQuNDE0YTMuMDg2IDMuMDg2IDAgMCAwLTMuMDg4IDBMMi43MzggNC44N2EzLjA4NSAzLjA4NSAwIDAgMC0xLjU0NCAyLjY3M1ptNS40MDMgMi45MTR2My4wODdhLjc3Ljc3IDAgMCAwIC43NzIuNzcyLjc3My43NzMgMCAwIDAgLjc3Mi0uNzcyLjc3My43NzMgMCAwIDEgMS4zMTctLjU0Ni43NzUuNzc1IDAgMCAxIC4yMjYuNTQ2IDIuMzE0IDIuMzE0IDAgMSAxLTQuNjMxIDB2LTMuMDg3YzAtLjYxNS4yNDQtMS4yMDMuNjc5LTEuNjM3YTIuMzEyIDIuMzEyIDAgMCAxIDMuMjc0IDBjLjQzNC40MzQuNjc4IDEuMDIzLjY3OCAxLjYzN2EuNzY5Ljc2OSAwIDAgMS0uMjI2LjU0NS43NjcuNzY3IDAgMCAxLTEuMDkxIDAgLjc3Ljc3IDAgMCAxLS4yMjYtLjU0NS43Ny43NyAwIDAgMC0uNzcyLS43NzIuNzcxLjc3MSAwIDAgMC0uNzcyLjc3MlptMTIuMzUgMy4wODdhLjc3Ljc3IDAgMCAxLS43NzIuNzcyaC0uNzcydi43NzJhLjc3My43NzMgMCAwIDEtMS41NDQgMHYtLjc3MmgtMS41NDR2Ljc3MmEuNzczLjc3MyAwIDAgMS0xLjMxNy41NDYuNzc1Ljc3NSAwIDAgMS0uMjI2LS41NDZ2LS43NzJIMTJhLjc3MS43NzEgMCAxIDEgMC0xLjU0NGguNzcydi0xLjU0M0gxMmEuNzcuNzcgMCAxIDEgMC0xLjU0NGguNzcydi0uNzcyYS43NzMuNzczIDAgMCAxIDEuMzE3LS41NDYuNzc1Ljc3NSAwIDAgMSAuMjI2LjU0NnYuNzcyaDEuNTQ0di0uNzcyYS43NzMuNzczIDAgMCAxIDEuNTQ0IDB2Ljc3MmguNzcyYS43NzIuNzcyIDAgMCAxIDAgMS41NDRoLS43NzJ2MS41NDNoLjc3MmEuNzc2Ljc3NiAwIDAgMSAuNzcyLjc3MlptLTMuMDg4LTIuMzE1aC0xLjU0NHYxLjU0M2gxLjU0NHYtMS41NDNaIi8%2BPC9zdmc%2B)](https://github.com/InkCanvas/InkCanvasForClass)
-![GitHub License](https://img.shields.io/github/license/InkCanvas/InkCanvasForClass?color=red)
+[![stars](https://img.shields.io/github/stars/Awesome-Iwb/icc-0610fix?style=flat&color=red)](https://github.com/Awesome-Iwb/icc-0610fix/stargazers)
+[![forks](https://img.shields.io/github/forks/Awesome-Iwb/icc-0610fix?style=flat&color=blue)](https://github.com/Awesome-Iwb/icc-0610fix/forks)
+[![Watchers](https://img.shields.io/github/watchers/Awesome-Iwb/icc-0610fix?style=flat&color=green)](https://github.com/Awesome-Iwb/icc-0610fix/watchers)
+[![Downloads](https://img.shields.io/github/downloads/Awesome-Iwb/icc-0610fix/total?style=flat&logo=github)](https://github.com/Awesome-Iwb/icc-0610fix/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/Awesome-Iwb/icc-0610fix?query=is%3Aopen&label=issues&color=purple)](https://github.com/Awesome-Iwb/icc-0610fix/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/Awesome-Iwb/icc-0610fix?style=flat)](https://github.com/Awesome-Iwb/icc-0610fix/discussions)
+[![Created At](https://img.shields.io/github/created-at/Awesome-Iwb/icc-0610fix)](https://github.com/Awesome-Iwb/icc-0610fix)
+[![Github Last Commit](https://img.shields.io/github/last-commit/Awesome-Iwb/icc-0610fix)](https://github.com/Awesome-Iwb/icc-0610fix/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/Awesome-Iwb/icc-0610fix)](https://github.com/Awesome-Iwb/icc-0610fix)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/Awesome-Iwb/icc-0610fix?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkMjPC90aXRsZT48cGF0aCBkPSJNMS4xOTQgNy41NDN2OC45MTNjMCAxLjEwMy41ODggMi4xMjIgMS41NDQgMi42NzRsNy43MTggNC40NTZhMy4wODYgMy4wODYgMCAwIDAgMy4wODggMGw3LjcxOC00LjQ1NmEzLjA4NyAzLjA4NyAwIDAgMCAxLjU0NC0yLjY3NFY3LjU0M2EzLjA4NCAzLjA4NCAwIDAgMC0xLjU0NC0yLjY3M0wxMy41NDQuNDE0YTMuMDg2IDMuMDg2IDAgMCAwLTMuMDg4IDBMMi43MzggNC44N2EzLjA4NSAzLjA4NSAwIDAgMC0xLjU0NCAyLjY3M1ptNS40MDMgMi45MTR2My4wODdhLjc3Ljc3IDAgMCAwIC43NzIuNzcyLjc3My43NzMgMCAwIDAgLjc3Mi0uNzcyLjc3My43NzMgMCAwIDEgMS4zMTctLjU0Ni43NzUuNzc1IDAgMCAxIC4yMjYuNTQ2IDIuMzE0IDIuMzE0IDAgMSAxLTQuNjMxIDB2LTMuMDg3YzAtLjYxNS4yNDQtMS4yMDMuNjc5LTEuNjM3YTIuMzEyIDIuMzEyIDAgMCAxIDMuMjc0IDBjLjQzNC40MzQuNjc4IDEuMDIzLjY3OCAxLjYzN2EuNzY5Ljc2OSAwIDAgMS0uMjI2LjU0NS43NjcuNzY3IDAgMCAxLTEuMDkxIDAgLjc3Ljc3IDAgMCAxLS4yMjYtLjU0NS43Ny43NyAwIDAgMC0uNzcyLS43NzIuNzcxLjc3MSAwIDAgMC0uNzcyLjc3MlptMTIuMzUgMy4wODdhLjc3Ljc3IDAgMCAxLS43NzIuNzcyaC0uNzcydi43NzJhLjc3My43NzMgMCAwIDEtMS41NDQgMHYtLjc3MmgtMS41NDR2Ljc3MmEuNzczLjc3MyAwIDAgMS0xLjMxNy41NDYuNzc1Ljc3NSAwIDAgMS0uMjI2LS41NDZ2LS43NzJIMTJhLjc3MS43NzEgMCAxIDEgMC0xLjU0NGguNzcydi0xLjU0M0gxMmEuNzcuNzcgMCAxIDEgMC0xLjU0NGguNzcydi0uNzcyYS43NzMuNzczIDAgMCAxIDEuMzE3LS41NDYuNzc1Ljc3NSAwIDAgMSAuMjI2LjU0NnYuNzcyaDEuNTQ0di0uNzcyYS43NzMuNzczIDAgMCAxIDEuNTQ0IDB2Ljc3MmguNzcyYS43NzIuNzcyIDAgMCAxIDAgMS41NDRoLS43NzJ2MS41NDNoLjc3MmEuNzc2Ljc3NiAwIDAgMSAuNzcyLjc3MlptLTMuMDg4LTIuMzE1aC0xLjU0NHYxLjU0M2gxLjU0NHYtMS41NDNaIi8%2BPC9zdmc%2B)](https://github.com/Awesome-Iwb/icc-0610fix)
+![GitHub License](https://img.shields.io/github/license/Awesome-Iwb/icc-0610fix?color=red)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20979119289-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/1KuTeoJbco)
 
 </div>
-
-> 该项目已经永久停止更新，安息吧，Dubi906w！
 
 Ink Canvas Artistry 的优化版本，重写了底层代码，优化了整体 UI 和程序性能，并带来了许多新功能（如鼠标手势，画面冻结，重制版形状绘制系统）。
 
@@ -555,23 +553,23 @@ InkCanvasForClass 是基于 ChangSakura 的 Ink Canvas Artistry 项目二次开�
 <table align="center">
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>Github(已归档)</b></td>
-    <td><a href="https://github.com/InkCanvas/InkCanvasForClass/">InkCanvas/InkCanvasForClass</a></td>
-</tr>
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>Github</b></td>
-    <td><a href="https://github.com/Awesome-Iwb/InkCanvasForClass/">Awesome-Iwb/InkCanvasForClass</a></td>
-</tr>
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>Github(v.0610fix)</b></td>
     <td><a href="https://github.com/Awesome-Iwb/icc-0610fix/">Awesome-Iwb/icc-0610fix</a></td>
 </tr>
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>开发者(已注销)</b></td>
+    <td><b>Github(latest)</b></td>
+    <td><a href="https://github.com/Awesome-Iwb/InkCanvasForClass/">Awesome-Iwb/InkCanvasForClass</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>原开发者(已注销)</b></td>
     <td><img src="https://github.com/ghost.png" width="20" height="20"/> <a href="https://github.com/kriastans/">Dubi906w</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>现开发者</b></td>
+    <td><img src="https://github.com/dubi906w.png" width="20" height="20"/> <a href="https://github.com/dubi906w/">Chency Lew</a></td>
 </tr>
 </table>
 
