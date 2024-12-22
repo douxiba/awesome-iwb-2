@@ -90,7 +90,7 @@
 | 🔴 [ppInk](#ppink) ![Github Last Commit](https://img.shields.io/github/last-commit/pubpub-zz/ppInk?label=updated) | <img src="https://github.com/pubpub-zz.png" width="20" height="20"/> `pubpub-zz` |
 | [Inkways](#-inkways-wip) ![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d) | <img src="https://github.com/iNKORE-NET.png" width="20" height="20"/> `iNKORE Studios` |
 | [Inkways Classic](#-inkways-classic) ![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d) | <img src="https://github.com/iNKORE-NET.png" width="20" height="20"/> `iNKORE Studios` |
-| ~~[InkCanvasForClass](#-inkcanvasforclass)~~ (停更) ![Github Last Commit](https://img.shields.io/github/last-commit/InkCanvas/InkCanvasForClass?label=updated) | <img src="https://github.com/ghost.png" width="20" height="20"/> ~~`Doubx690i`~~ (已注销) |
+| [InkCanvasForClass](#-inkcanvasforclass) ![Github Last Commit](https://img.shields.io/github/last-commit/Awesome-Iwb/icc-0610fix?label=updated) | <img src="https://github.com/dubi906w.png" width="20" height="20"/> `Chency Lew` |
 
 ### 📊 课表与桌面小工具
 
