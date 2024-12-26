@@ -90,7 +90,7 @@
 | 🔴 [ppInk](#ppink) ![Github Last Commit](https://img.shields.io/github/last-commit/pubpub-zz/ppInk?label=updated) | <img src="https://github.com/pubpub-zz.png" width="20" height="20"/> `pubpub-zz` |
 | [Inkways](#inkways-wip) ![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d) | <img src="https://github.com/iNKORE-NET.png" width="20" height="20"/> `iNKORE Studios` |
 | [Inkways Classic](#inkways-classic) ![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d) | <img src="https://github.com/iNKORE-NET.png" width="20" height="20"/> `iNKORE Studios` |
-| [InkCanvasForClass](#inkcanvasforclass) ![Github Last Commit](https://img.shields.io/github/last-commit/Awesome-Iwb/icc-0610fix?label=updated) | <img src="https://github.com/dubi906w.png" width="20" height="20"/> `Chency Lew` |
+| [InkCanvasForClass](#inkcanvasforclass) ![Github Last Commit](https://img.shields.io/github/last-commit/Awesome-Iwb/icc-0610fix?label=updated) | <img src="https://github.com/dubi906w.png" width="20" height="20"/> `Dubi906w` |
 
 ### 📊 课表与桌面小工具
 
@@ -542,7 +542,7 @@ ppInk is a user-friendly on-screen annotation software for Windows, compatible w
 
 Ink Canvas Artistry 的优化版本，重写了底层代码，优化了整体 UI 和程序性能，并带来了许多新功能（如鼠标手势，画面冻结，重制版形状绘制系统）。
 
-InkCanvasForClass 是基于 ChangSakura 的 Ink Canvas Artistry 项目二次开发而来。该项目着重于优化原项目的 UI 设计，使其更便于课堂使用，同时也在积极开发新功能，修理原项目的不合理之处。最近由于未知原因，该项目已经停止开发，但 `Awesome-Iwb` 和开发者商沟通后，开放了 `icc-0610fix` 仓库，修复 InkCanvasForClass 0610 版本的 Bug 并发布 Release。
+InkCanvasForClass 是基于 ChangSakura 的 Ink Canvas Artistry 项目二次开发而来。该项目着重于优化原项目的 UI 设计，使其更便于课堂使用，同时也在积极开发新功能，修理原项目的不合理之处。最近开放了 `icc-0610fix` 仓库，修复 InkCanvasForClass 0610 版本的 Bug 并发布 Release。
 
 <table align="center">
 <tr>
@@ -557,12 +557,7 @@ InkCanvasForClass 是基于 ChangSakura 的 Ink Canvas Artistry 项目二次开�
 </tr>
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>原开发者(已注销)</b></td>
-    <td><img src="https://github.com/ghost.png" width="20" height="20"/> <a href="https://github.com/kriastans/">Dubi906w</a></td>
-</tr>
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>现开发者</b></td>
+    <td><b>开发者</b></td>
     <td><img src="https://github.com/dubi906w.png" width="20" height="20"/> <a href="https://github.com/dubi906w/">Chency Lew</a></td>
 </tr>
 </table>
