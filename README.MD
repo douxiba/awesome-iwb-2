@@ -835,6 +835,8 @@ StickyHomeworks 是一款支持富文本的桌面作业贴工具。支持按科�
 
 ![banner](./banner/extraisland.png)
 
+![banner](/banner/extraisland.png)
+
 [![stars](https://img.shields.io/github/stars/LiPolymer/ExtraIsland?style=flat&color=red)](https://github.com/LiPolymer/ExtraIsland/stargazers)
 [![forks](https://img.shields.io/github/forks/LiPolymer/ExtraIsland?style=flat&color=blue)](https://github.com/LiPolymer/ExtraIsland/forks)
 [![Watchers](https://img.shields.io/github/watchers/LiPolymer/ExtraIsland?style=flat&color=green)](https://github.com/LiPolymer/ExtraIsland/watchers)
