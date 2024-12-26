@@ -243,6 +243,8 @@ Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动
 
 ### Ink Canvas Reborn
 
+![banner](./banner/ink-canvas-reborn.png)
+
 ![Hot!](https://img.shields.io/badge/%E9%9D%9E%E5%B8%B8%E6%8E%A8%E8%8D%90-orange)
 [![stars](https://img.shields.io/github/stars/Awesome-Iwb/Ink-Canvas-Reborn?style=flat&color=red)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/stargazers)
 [![forks](https://img.shields.io/github/forks/Awesome-Iwb/Ink-Canvas-Reborn?style=flat&color=blue)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/forks)
@@ -286,11 +288,12 @@ Ink Canvas Reborn 是 Ink Canvas 画板的重生版，是基于 Ink Canvas 的�
 <br/>
 <br/>
 
-<img src="https://github.com/Alan-CRL/Inkeys/raw/main/GitHubRes/logo.png?raw=true" width="56" height="56"/> 
+<img src="https://raw.githubusercontent.com/Alan-CRL/Inkeys/main/GithubRes/logo.png" width="56" height="56"/> 
 
 ### 智绘教 Inkeys
 
-![banner](https://github.com/Alan-CRL/Inkeys/raw/main/GitHubRes/cover2.png)
+![banner](https://raw.githubusercontent.com/Alan-CRL/Inkeys/main/GithubRes/cover1.png#gh-dark-mode-only)
+![banner](https://raw.githubusercontent.com/Alan-CRL/Inkeys/main/GithubRes/cover2.png#gh-light-mode-only)
 
 ![Hot!](https://img.shields.io/badge/%E9%9D%9E%E5%B8%B8%E6%8E%A8%E8%8D%90-orange)
 [![stars](https://img.shields.io/github/stars/Alan-CRL/Inkeys?style=flat&color=red)](https://github.com/Alan-CRL/Inkeys/stargazers)
