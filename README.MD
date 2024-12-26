@@ -564,7 +564,14 @@ InkCanvasForClass 是基于 ChangSakura 的 Ink Canvas Artistry 项目二次开�
 
 ## 📊 课表与桌面小工具
 
-### <img src="https://github.com/ClassIsland/ClassIsland/raw/master/ClassIsland/Assets/AppLogo_AppLogo.svg" width="28" height="28"/> ClassIsland
+<div align="center">
+
+<br/>
+<br/>
+
+<img src="https://github.com/ClassIsland/ClassIsland/raw/master/ClassIsland/Assets/AppLogo_AppLogo.svg" width="56" height="56"/> 
+
+### ClassIsland
 
 ![banner](https://github.com/user-attachments/assets/a815dd7d-8343-4da5-aee4-3f754aa297e4)
 
@@ -583,21 +590,40 @@ InkCanvasForClass 是基于 ChangSakura 的 Ink Canvas Artistry 项目二次开�
 ![GitHub License](https://img.shields.io/github/license/ClassIsland/ClassIsland?color=red)
 [![加入 QQ 群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20958840932-white?style=flat&logo=TencentQQ)](https://qm.qq.com/q/4NsDQKiAuQ)
 
+</div>
+
 ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具，可以在 Windows 屏幕上显示各种信息。本应用的名字灵感源于 iOS 灵动岛（Dynamic Island）功能。可显示当天的课表、当前进行课程的信息，在上下课等重要时间点发出提醒，自选搭配音效、强调特效和语音增强提醒。
 
 💬 **ChenCy 锐评**：非常好用，开学必装，支持多周轮换和临时课表，以及超高的自定义程度，CI 已经是目前最强大的桌面课表软件了，最近还上线了插件系统，可以通过自己开发插件来扩充 CI 的功能，非常推荐！
 
-<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/ClassIsland/ClassIsland/">ClassIsland/ClassIsland</a>
-<br/>
-<img src="images/github-icon.svg" width="16" height="16"><b> .NET 6 兼容版仓库</b>: <a href="https://github.com/ClassIsland/ClassIsland-net6/">ClassIsland/ClassIsland-net6</a>
-<br/>
-<img src="images/bilibili-icon.svg" width="16" height="16"><b> bilibili 宣传影片</b>: <a href="https://www.bilibili.com/video/BV1Lt421n7op/">https://www.bilibili.com/video/BV1Lt421n7op/</a>
-<br/>
-<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/ClassIsland/">ClassIsland</a>
-<br/>
-<img src="images/github-icon.svg" width="16" height="16"><b> 主要开发者</b>: <a href="https://github.com/HelloWRC/">HelloWRC</a>
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>Github</b></td>
+    <td><a href="https://github.com/ClassIsland/ClassIsland/">ClassIsland/ClassIsland</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>Github(.NET 6)</b></td>
+    <td><a href="https://github.com/ClassIsland/ClassIsland-net6/">ClassIsland/ClassIsland-net6</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/HelloWRC.png" width="20" height="20"/> <a href="https://github.com/HelloWRC/">HelloWRC</a></td>
+</tr>
+</table>
 
-### <img src="https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/raw/master/ZongziTEK_Blackboard_Sticker/%E9%BB%91%E6%9D%BF%E8%B4%B4.png?raw=true" width="28" height="28"/> ZongziTEK 黑板贴
+<div align="center">
+
+<br/>
+<br/>
+
+<img src="https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/raw/master/ZongziTEK_Blackboard_Sticker/%E9%BB%91%E6%9D%BF%E8%B4%B4.png?raw=true" width="56" height="56"/> 
+
+### ZongziTEK 黑板贴
+
+![banner](https://zztek.top/images/Sticker-Screenshot-Light.png)
 
 ![Hot!](https://img.shields.io/badge/%E9%9D%9E%E5%B8%B8%E6%8E%A8%E8%8D%90-orange)
 ![FDS](https://img.shields.io/badge/Fluent%20UI-003E92)
@@ -614,15 +640,33 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 ![GitHub License](https://img.shields.io/github/license/STBBRD/ZongziTEK-Blackboard-Sticker?color=red)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%201101582374-white?style=flat&logo=TencentQQ)](https://jq.qq.com/?_wv=1027&k=epb9KDPe)
 
+</div>
+
 用于白板一体机的桌面小部件，享受抬手即用的小黑板、高效的信息展示、便捷的课程管理和多项实用功能，满足班级的各种需求。
 
 💬 **ChenCy 锐评**：还行，如果有小黑板需求可以使用，自带的课程表功能个人感觉有点鸡肋，不过也还算好用的，官网也是完全学到了微软式中文。比较推荐（如果不用 CI 的话）
 
-<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/">STBBRD/ZongziTEK-Blackboard-Sticker</a>
-<br/>
-<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/STBBRD/">ZongziTEK</a>
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>Github</b></td>
+    <td><a href="https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker/">STBBRD/ZongziTEK-Blackboard-Sticker</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/STBBRD.png" width="20" height="20"/> <a href="https://github.com/STBBRD/">ZongziTEK</a></td>
+</tr>
+</table>
 
-### <img src="https://avatars.githubusercontent.com/u/183182916?s=48&v=4" width="28" height="28"/> Sticky-attention
+<div align="center">
+
+<br/>
+<br/>
+
+<img src="https://avatars.githubusercontent.com/u/183182916?s=48&v=4" width="56" height="56"/> 
+
+### Sticky-attention
 
 ![banner](https://github.com/Sticky-attention/Sticky-attention/raw/master/image/banner.jpg)
 
@@ -638,11 +682,22 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 [![GitHub Top Language](https://img.shields.io/github/languages/top/Sticky-attention/Sticky-attention?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkMjPC90aXRsZT48cGF0aCBkPSJNMS4xOTQgNy41NDN2OC45MTNjMCAxLjEwMy41ODggMi4xMjIgMS41NDQgMi42NzRsNy43MTggNC40NTZhMy4wODYgMy4wODYgMCAwIDAgMy4wODggMGw3LjcxOC00LjQ1NmEzLjA4NyAzLjA4NyAwIDAgMCAxLjU0NC0yLjY3NFY3LjU0M2EzLjA4NCAzLjA4NCAwIDAgMC0xLjU0NC0yLjY3M0wxMy41NDQuNDE0YTMuMDg2IDMuMDg2IDAgMCAwLTMuMDg4IDBMMi43MzggNC44N2EzLjA4NSAzLjA4NSAwIDAgMC0xLjU0NCAyLjY3M1ptNS40MDMgMi45MTR2My4wODdhLjc3Ljc3IDAgMCAwIC43NzIuNzcyLjc3My43NzMgMCAwIDAgLjc3Mi0uNzcyLjc3My43NzMgMCAwIDEgMS4zMTctLjU0Ni43NzUuNzc1IDAgMCAxIC4yMjYuNTQ2IDIuMzE0IDIuMzE0IDAgMSAxLTQuNjMxIDB2LTMuMDg3YzAtLjYxNS4yNDQtMS4yMDMuNjc5LTEuNjM3YTIuMzEyIDIuMzEyIDAgMCAxIDMuMjc0IDBjLjQzNC40MzQuNjc4IDEuMDIzLjY3OCAxLjYzN2EuNzY5Ljc2OSAwIDAgMS0uMjI2LjU0NS43NjcuNzY3IDAgMCAxLTEuMDkxIDAgLjc3Ljc3IDAgMCAxLS4yMjYtLjU0NS43Ny43NyAwIDAgMC0uNzcyLS43NzIuNzcxLjc3MSAwIDAgMC0uNzcyLjc3MlptMTIuMzUgMy4wODdhLjc3Ljc3IDAgMCAxLS43NzIuNzcyaC0uNzcydi43NzJhLjc3My43NzMgMCAwIDEtMS41NDQgMHYtLjc3MmgtMS41NDR2Ljc3MmEuNzczLjc3MyAwIDAgMS0xLjMxNy41NDYuNzc1Ljc3NSAwIDAgMS0uMjI2LS41NDZ2LS43NzJIMTJhLjc3MS43NzEgMCAxIDEgMC0xLjU0NGguNzcydi0xLjU0M0gxMmEuNzcuNzcgMCAxIDEgMC0xLjU0NGguNzcydi0uNzcyYS43NzMuNzczIDAgMCAxIDEuMzE3LS41NDYuNzc1Ljc3NSAwIDAgMSAuMjI2LjU0NnYuNzcyaDEuNTQ0di0uNzcyYS43NzMuNzczIDAgMCAxIDEuNTQ0IDB2Ljc3MmguNzcyYS43NzIuNzcyIDAgMCAxIDAgMS41NDRoLS43NzJ2MS41NDNoLjc3MmEuNzc2Ljc3NiAwIDAgMSAuNzcyLjc3MlptLTMuMDg4LTIuMzE1aC0xLjU0NHYxLjU0M2gxLjU0NHYtMS41NDNaIi8%2BPC9zdmc%2B)](https://github.com/Sticky-attention/Sticky-attention)
 ![GitHub License](https://img.shields.io/github/license/Sticky-attention/Sticky-attention?color=red)
 
+</div>
+
 StickyAttention 是一款适用于 Windows 系统教室一体机的作业显示工具，基于 [HelloWRC/StickyHomeworks](https://github.com/HelloWRC/StickyHomeworks/) 开发，可以展示各科作业信息，且支持富文本，按科目分类，导出作业截图等功能。后续将添加更多新内容，敬请期待！
 
-<img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/Sticky-attention/Sticky-attention/">Sticky-attention/Sticky-attention</a>
-<br/>
-<img src="images/github-icon.svg" width="16" height="16"><b> 开发者</b>: <a href="https://github.com/jizilin6732/">jizilin6732</a>
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>Github</b></td>
+    <td><a href="https://github.com/Sticky-attention/Sticky-attention/">Sticky-attention/Sticky-attention</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/jizilin6732.png" width="20" height="20"/> <a href="https://github.com/jizilin6732/">jizilin6732</a></td>
+</tr>
+</table>
 
 ### <img src="https://raw.githubusercontent.com/EnderWolf006/ElectronClassSchedule/main/image/icon.png" width="28" height="28"/> ElectronClassSchedule
 
