@@ -723,6 +723,8 @@ StickyHomeworks 是一款支持富文本的桌面作业贴工具。支持按科�
 
 ### <img src="./images/extraisland-icon.png" width="28" height="28"/> ExtraIsland
 
+![banner](/banner/extraisland.png)
+
 [![stars](https://img.shields.io/github/stars/LiPolymer/ExtraIsland?style=flat&color=red)](https://github.com/LiPolymer/ExtraIsland/stargazers)
 [![forks](https://img.shields.io/github/forks/LiPolymer/ExtraIsland?style=flat&color=blue)](https://github.com/LiPolymer/ExtraIsland/forks)
 [![Watchers](https://img.shields.io/github/watchers/LiPolymer/ExtraIsland?style=flat&color=green)](https://github.com/LiPolymer/ExtraIsland/watchers)
@@ -737,7 +739,9 @@ StickyHomeworks 是一款支持富文本的桌面作业贴工具。支持按科�
 
 ExtraIsland 是一个 ClassIsland 插件，为 ClassIsland 提供了一下小小的扩充功能，比如流畅时钟，更好的倒计时等。目前项目还在起步阶段。
 
-**流畅时钟组件** 带有比较 FLuent 的切换和闪动动画，而且支持关闭秒数显示、支持秒数小字体显示，也支持从 NTP 获取时间（当然也能禁用，直接获取系统时间），同时还有整点强调动画；**更高级的倒计日组件** 支持倒计日精确到秒，带有切换动画，前后文案可配置，也支持从 NTP 获取时间（当然也能禁用，直接获取系统时间）。
+**流畅时钟组件** 带有切换和闪动动画，而且支持关闭秒数显示、支持秒数小字体显示，也支持从 NTP 获取时间，同时还有整点强调动画；
+
+**更高级的倒计日组件** 支持倒计日精确到秒，带有切换动画，前后文案可配置，也支持从 NTP 获取时间。
 
 <img src="images/github-icon.svg" width="16" height="16"><b> Github 链接</b>: <a href="https://github.com/LiPolymer/ExtraIsland/">LiPolymer/ExtraIsland</a>
 <br/>
