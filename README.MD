@@ -60,6 +60,8 @@
 
 9. **该列表仅供参考，信息可能会更新不及时！**
 
+**最后更新日期：2024 年 1 月 6 日**（要放寒假了，这是寒假之前最后一次更新了）
+
 ## 👋 同类项目推荐
 
 [![Jursin/Awesome-Class-Softwares](https://github-readme-stats.vercel.app/api/pin/?username=Jursin&repo=Awesome-Class-Softwares&show_owner=true)](https://github.com/Jursin/Awesome-Class-Softwares)
