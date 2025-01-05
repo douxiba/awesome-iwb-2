@@ -120,7 +120,7 @@
 | 🥈 [考试看板 Next](#考试看板-Next) ![GitHub Last Commit](https://img.shields.io/github/last-commit/ProjectCampus-CH/dsz-exam-showboard-next?label=updated) | <img src="https://github.com/ProjectCampus-CH.png" width="20" height="20"/> `校园计划` |
 | [OpenLuckyRandom](#openluckyrandom) ![GitHub Last Commit](https://img.shields.io/github/last-commit/WhatDamon/OpenLuckyRandom?label=updated) | <img src="https://github.com/WhatDamon.png" width="20" height="20"/> `Damon Lu` |
 | [MythwareToolkit](#mythwaretoolkit) ![GitHub Last Commit](https://img.shields.io/github/last-commit/BengbuGuards/MythwareToolkit?label=updated) | <img src="https://github.com/BengbuGuards.png" width="20" height="20"/> `小流汗黄豆` |
-| 🥈 [ENAL 希沃易登](#-enal-希沃易登) ![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d) | `file.iceawa.com` |
+| 🥈 [ENAL 希沃易登](#enal-希沃易登) ![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d) | `file.iceawa.com` |
 | [ExCaller](#ex-caller) ![GitHub Last Commit](https://img.shields.io/github/last-commit/typed-sigterm/ex-caller?label=updated) | <img src="https://github.com/typed-sigterm.png" width="20" height="20"/> `Typed SIGTERM` |
 | [ClassNamePicker](#classnamepicker) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Chengzi600/ClassNamePicker?label=updated) | <img src="https://github.com/Chengzi600.png" width="20" height="20"/> `Chengzi600` |
 | [SeewoHUB](#seewohub) ![GitHub Last Commit](https://img.shields.io/github/last-commit/CNwenwen/SeewoHUB?label=updated) | <img src="https://github.com/CNwenwen.png" width="20" height="20"/> `Hyjthfhtself` |
@@ -1482,13 +1482,46 @@ DSZ 考试看板的复活版。**一款显示当前时间与考试详细信息�
 </tr>
 </table>
 
-### <img src="./images/ENAL.png" height="28"/> ENAL 希沃易登
+<div align="center">
 
-> 该软件没有开源仓库，我们正在尝试获取到该软件的更多信息。
+<br/>
+<br/>
+
+<img src="./images/ENAL.png" height="56"/> 
+
+### ENAL 希沃易登
+
+![Language](https://img.shields.io/badge/language-EPL-blue)
+![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d)
+
+</div>
+
+> 该软件为闭源软件，且开发者不打算开源。
 
 希沃白板的自动登录插件，通过替代 EasiAgent 来实现多账号自动免密登录。
 
-<b>下载链接</b>: <a href="https://file.iceawa.com/iceawa-onedrive/ENAL/Ver">https://file.iceawa.com/iceawa-onedrive/ENAL/Ver</a>
+**不过这个软件有点坑：**
+
+1. 作为 EasiAgent 的替代品，居然没有实现 `deleteData` 和 `saveData` 接口，这导致原版 EasiAgent 的 SSO 单点登录特性，到了 ENAL 这边就没办法用了。如果你对单点登录有需求的话，那还是别用 ENAL 了。
+
+2. 软件是用 **易语言** 开发的，因此 UI 的使用体验很奇怪，而且还会有自定义单点登录账户昵称后变乱码的 Bug。有时候会遇到无限重启的问题，反正我也不知道该怎么解决 🤷‍♂️。 **（这下释怀了，找到了不开源的原因了，因为没办法开源）**
+
+3. 有的时候使用了 **火绒安全软件** 中的 **网络修复** 工具后，可能会导致 ENAL 或 EasiAgent 都无法使用，那是因为 `local.id.seewo.com` 指向 `127.0.0.1` 的 Hosts 规则被火绒的工具给注释掉了，你需要手动修改 Hosts，让这个规则再次生效就可以了。
+
+4. ENAL 的请求不走系统代理。所以 Fiddler 记得套一层 mihomo TUN。
+
+5. **综上所述，你可以期待逗比画的饼：[EasiAuth](https://github.com/Awesome-Iwb/EasiAuth) ，该项目基于 WPF/C# 技术栈开发，代码全部开源，使用了最先进的融合接口，多个方法和希沃服务器做账号鉴权，并且提供了 API 接口供第三方软件调用，让第三方软件也可以快速接入 希沃账号的 账号密码登录、二维码登录、SSO登录、Token登录、快联登录。**
+
+<table align="center">
+<tr>
+    <td><b>下载地址</b></td>
+    <td><a href="https://file.iceawa.com/iceawa-onedrive/ENAL/Ver">file.iceawa.com/iceawa-onedrive/ENAL/Ver</a></td>
+</tr>
+<tr>
+    <td><b>开发者</b></td>
+    <td><img src="https://static.nlrdev.top/developer-avatar/xiaocuitang.webp" width="20" height="20"/> <a href="https://iceawa.com/">Xiaocuitang</a></td>
+</tr>
+</table>
 
 <div align="center">
 
