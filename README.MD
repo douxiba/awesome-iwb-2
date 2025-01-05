@@ -110,8 +110,8 @@
 | [Education Clock](#education-clock) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Return-Log/Education-Clock?label=updated) | <img src="https://github.com/Return-Log.png" width="20" height="20"/> `Log` |
 | ~~[灵动课表](#灵动课表)~~ (停更) | <img src="https://github.com/DuguSand.png" width="20" height="20"/> `DuguSand` |
 | [ClassBoardSharp](#classboardsharp) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Candlest/ClassBoardSharp?label=updated) | <img src="https://github.com/Candlest.png" width="20" height="20"/> `Candlest` |
-| 🔴 [班级热搜排行](#classboardsharp) ![GitHub Last Commit](https://img.shields.io/github/last-commit/SRInternet-Studio/Class_Hot_Search?label=updated) | <img src="https://github.com/SRInternet-Studio.png" width="20" height="20"/> `思锐工作室 SR-Studio` |
-| 🔴 [Ris_ClassTool](#classboardsharp) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Ris-Soft/Ris_ClassTool?label=updated) | <img src="https://github.com/Ris-Soft.png" width="20" height="20"/> `Ris-Soft` |
+| 🔴 [班级热搜排行](#class-hot-search-班级热搜排行) ![GitHub Last Commit](https://img.shields.io/github/last-commit/SRInternet-Studio/Class_Hot_Search?label=updated) | <img src="https://github.com/SRInternet-Studio.png" width="20" height="20"/> `思锐工作室 SR-Studio` |
+| 🔴 [Ris_ClassTool](#ris_classtool-瑞思课堂工具) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Ris-Soft/Ris_ClassTool?label=updated) | <img src="https://github.com/Ris-Soft.png" width="20" height="20"/> `Ris-Soft` |
 
 ### 🛠️ 辅助类软件
 
