@@ -100,7 +100,7 @@
 | 🥇 [ClassIsland](#classisland) ![GitHub Last Commit](https://img.shields.io/github/last-commit/ClassIsland/ClassIsland?label=updated) | <img src="https://github.com/HelloWRC.png" width="20" height="20"/> `HelloWRC` |
 | 🥇 [ZongziTEK 黑板贴](#zongzitek-黑板贴) ![GitHub Last Commit](https://img.shields.io/github/last-commit/STBBRD/ZongziTEK-Blackboard-Sticker?label=updated) | <img src="https://github.com/STBBRD.png" width="20" height="20"/> `ZongziTEK` |
 | 🌟 [Sticky-attention](#sticky-attention) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Sticky-attention/Sticky-attention?label=updated) | <img src="https://github.com/jizilin6732.png" width="20" height="20"/> `jizilin6732` |
-| ~~[ElectronClassSchedule](#-electronclassschedule)~~ (停更) | <img src="https://github.com/EnderWolf006.png" width="20" height="20"/> `EnderWolf006` |
+| ~~[ElectronClassSchedule](#electronclassschedule)~~ (停更) | <img src="https://github.com/EnderWolf006.png" width="20" height="20"/> `EnderWolf006` |
 | ~~[ClassTools](#classtools)~~ (停更) | <img src="https://github.com/clansty.png" width="20" height="20"/> `凌莞~(=^▽^=)` |
 | ~~[StickyHomeworks](#stickyhomeworks)~~ (停更) | <img src="https://github.com/HelloWRC.png" width="20" height="20"/> `HelloWRC` |
 | 🌟 [ExtraIsland](#extraisland) ![GitHub Last Commit](https://img.shields.io/github/last-commit/LiPolymer/ExtraIsland?label=updated) | <img src="https://github.com/LiPolymer.png" width="20" height="20"/> `LiPolymer` |
