@@ -85,7 +85,7 @@
 | - | - |
 | 🥈 [Ink Canvas](#ink-canvas) ![GitHub Last Commit](https://img.shields.io/github/last-commit/WXRIW/Ink-Canvas?label=updated) | <img src="https://github.com/WXRIW.png" width="20" height="20"/> `WXRIW` |
 | 🥇 [Ink Canvas Artistry](#ink-canvas-artistry) ![GitHub Last Commit](https://img.shields.io/github/last-commit/InkCanvas/Ink-Canvas-Artistry?label=updated) | <img src="https://github.com/ChangSakura.png" width="20" height="20"/> `ChangSakura` |
-| 🌟 [Ink Canvas Reborn](#ink-canvas-reborn) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Awesome-Iwb/Ink-Canvas-Reborn?label=updated) | <img src="https://github.com/dubi906w.png" width="20" height="20"/> `ChenCy Lew` |
+| 🌟 [Ink Canvas Reborn](#ink-canvas-reborn) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Awesome-Iwb/Ink-Canvas-Reborn?label=updated) | <img src="https://github.com/dubi906w.png" width="20" height="20"/> `Dubi906w` |
 | 🥈 [智绘教 Inkeys](#智绘教-inkeys) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Alan-CRL/Inkeys?label=updated) | <img src="https://github.com/Alan-CRL.png" width="20" height="20"/> `Alan-CRL` |
 | 🌟 [SketchNow](#sketchnow) ![GitHub Last Commit](https://img.shields.io/github/last-commit/SketchNow/SketchNow.WPF?label=updated) | <img src="https://github.com/realybin.png" width="20" height="20"/> `realybin` |
 | [ppInk](#ppink) ![GitHub Last Commit](https://img.shields.io/github/last-commit/pubpub-zz/ppInk?label=updated) | <img src="https://github.com/pubpub-zz.png" width="20" height="20"/> `pubpub-zz` |
@@ -298,7 +298,7 @@ Ink Canvas Reborn 是 Ink Canvas 画板的重生版，是基于 Ink Canvas 的�
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>开发者</b></td>
-    <td><img src="https://github.com/dubi906w.png" width="20" height="20"/> <a href="https://github.com/dubi906w/">ChenCy Lew</a></td>
+    <td><img src="https://github.com/dubi906w.png" width="20" height="20"/> <a href="https://github.com/dubi906w/">Dubi906w</a></td>
 </tr>
 </table>
 
