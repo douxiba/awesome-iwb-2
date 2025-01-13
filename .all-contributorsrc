@@ -44,6 +44,18 @@
       ]
     },
     {
+      "login": "Aris-Offline",
+      "name": "Aris",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65645068?v=4",
+      "profile": "https://github.com/Aris-Offline",
+      "contributions": [
+        "content",
+        "data",
+        "doc",
+        "maintenance"
+      ]
+    },
+    {
       "login": "typed-sigterm",
       "name": "Typed SIGTERM",
       "avatar_url": "https://avatars.githubusercontent.com/u/145281501?v=4",
