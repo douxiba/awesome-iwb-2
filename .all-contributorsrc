@@ -20,6 +20,17 @@
         "ideas",
         "maintenance"
       ]
+    },
+    {
+      "login": "LiPolymer",
+      "name": "LiPolymer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110595296?v=4",
+      "profile": "http://lipoly.ink",
+      "contributions": [
+        "content",
+        "data",
+        "doc"
+      ]
     }
   ]
 }
