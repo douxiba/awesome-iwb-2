@@ -30,7 +30,8 @@
 
 ## 🙏 感谢
 
-**作者：** `ChenCy Lew` `Aris`
+<!-- readme: collaborators,contributors -start -->
+<!-- readme: collaborators,contributors -end -->
 
 以及一切帮助我们完善资料和文档的贡献者们
 
