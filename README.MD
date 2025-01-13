@@ -37,6 +37,7 @@
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/dubi906w"><img src="https://avatars.githubusercontent.com/u/185512682?v=4?s=100" width="100px;" alt="Dubi906w"/><br /><sub><b>Dubi906w</b></sub></a><br /><a href="#content-dubi906w" title="Content">🖋</a> <a href="#data-dubi906w" title="Data">🔣</a> <a href="#doc-dubi906w" title="Documentation">📖</a> <a href="#ideas-dubi906w" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-dubi906w" title="Maintenance">🚧</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://lipoly.ink"><img src="https://avatars.githubusercontent.com/u/110595296?v=4?s=100" width="100px;" alt="LiPolymer"/><br /><sub><b>LiPolymer</b></sub></a><br /><a href="#content-LiPolymer" title="Content">🖋</a> <a href="#data-LiPolymer" title="Data">🔣</a> <a href="#doc-LiPolymer" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
