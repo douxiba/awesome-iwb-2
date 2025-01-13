@@ -1,4 +1,7 @@
 {
   "projectName": "Awesome-Iwb",
-  "projectOwner": "Awesome-Iwb"
+  "projectOwner": "Awesome-Iwb",
+  "files": [
+    "README.MD"
+  ]
 }
