@@ -1718,6 +1718,6 @@ DSZ 考试看板的复活版。**一款显示当前时间与考试详细信息�
 
 - <image src="https://github.com/ClassIsland.png" height="18"/> **[ClassIsland Hub](https://hub.classisland.tech/)** - 展示亿些 ClassIsland 交流群/频道里面的乐子。
 
-- <image src="https://tutorial.misaka.space/imgs/tutorial-logo-large.svg" height="18"/> **[电教委入门指南](https://tutorial.misaka.space/)** - 从小白到高手，轻松玩转班级一体机。
+- <image src="./images/misaka-space-icon.png" height="18"/> **[电教委入门指南](https://tutorial.misaka.space/)** - 从小白到高手，轻松玩转班级一体机。
 
-- <image src="https://tutorial.misaka.space/imgs/tutorial-logo-large.svg" height="18"/> **[seewoGeekWiki](https://wiki.misaka.space/)** - 希沃业绩售后冲击部官方 Wiki。
+- <image src="./images/misaka-space-icon.png" height="18"/> **[seewoGeekWiki](https://wiki.misaka.space/)** - 希沃业绩售后冲击部官方 Wiki。
