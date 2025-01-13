@@ -42,6 +42,7 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Aris-Offline"><img src="https://avatars.githubusercontent.com/u/65645068?v=4?s=100" width="100px;" alt="Aris"/><br /><sub><b>Aris</b></sub></a><br /><a href="#content-Aris-Offline" title="Content">🖋</a> <a href="#data-Aris-Offline" title="Data">🔣</a> <a href="#doc-Aris-Offline" title="Documentation">📖</a> <a href="#maintenance-Aris-Offline" title="Maintenance">🚧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://blog.typed-sigterm.me/"><img src="https://avatars.githubusercontent.com/u/145281501?v=4?s=100" width="100px;" alt="Typed SIGTERM"/><br /><sub><b>Typed SIGTERM</b></sub></a><br /><a href="#content-typed-sigterm" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Jursin"><img src="https://avatars.githubusercontent.com/u/127487914?v=4?s=100" width="100px;" alt="Jursin"/><br /><sub><b>Jursin</b></sub></a><br /><a href="#doc-Jursin" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.rzly.net"><img src="https://avatars.githubusercontent.com/u/60139353?v=4?s=100" width="100px;" alt="IUU6"/><br /><sub><b>IUU6</b></sub></a><br /><a href="#content-iuu6" title="Content">🖋</a> <a href="#doc-iuu6" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
