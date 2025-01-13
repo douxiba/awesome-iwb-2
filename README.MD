@@ -30,8 +30,14 @@
 
 ## 🙏 贡献者和特别感谢
 
-<!-- readme: collaborators,contributors -start -->
-<!-- readme: collaborators,contributors -end -->
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 以及一切帮助我们完善资料和文档的贡献者们。同时还得感谢所有 Awesome-Iwb 中列出的开发者们，正是你们，为教学一体机的软件生态做出了巨大贡献。
 
