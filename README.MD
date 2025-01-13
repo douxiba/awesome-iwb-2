@@ -28,12 +28,12 @@
 > [!WARNING]
 > 以下软件均为免费，如遇收费提示请注意甄别！
 
-## 🙏 感谢
+## 🙏 贡献者和特别感谢
 
 <!-- readme: collaborators,contributors -start -->
 <!-- readme: collaborators,contributors -end -->
 
-以及一切帮助我们完善资料和文档的贡献者们
+以及一切帮助我们完善资料和文档的贡献者们。同时还得感谢所有 Awesome-Iwb 中列出的开发者们，正是你们，为教学一体机的软件生态做出了巨大贡献。
 
 ## 👂 提醒
 
