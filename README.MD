@@ -88,7 +88,6 @@
 
 [![hello8693DSZ/awesome-whiteboard](https://github-readme-stats.vercel.app/api/pin/?username=hello8693DSZ&repo=awesome-whiteboard&show_owner=true)](https://github.com/hello8693DSZ/awesome-whiteboard)
 
-
 ## 📚 目录
 
 - 🥇 是指最推荐使用的、必装软件推荐，每个类别下至少有一个被标记的软件或项目。
@@ -1714,3 +1713,11 @@ DSZ 考试看板的复活版。**一款显示当前时间与考试详细信息�
 ## 📄 协议
 
 <p xmlns:cc="http://creativecommons.org/ns#" >本作品已获得 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0 许可<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
+
+## 🔗 友情链接
+
+- <image src="https://github.com/ClassIsland.png" height="18"/> **[ClassIsland Hub](https://hub.classisland.tech/)** - 展示亿些 ClassIsland 交流群/频道里面的乐子。
+
+- <image src="https://tutorial.misaka.space/imgs/tutorial-logo-large.svg" height="18"/> **[电教委入门指南](https://tutorial.misaka.space/)** - 从小白到高手，轻松玩转班级一体机。
+
+- <image src="https://tutorial.misaka.space/imgs/tutorial-logo-large.svg" height="18"/> **[seewoGeekWiki](https://wiki.misaka.space/)** - 希沃业绩售后冲击部官方 Wiki。
