@@ -13,6 +13,7 @@
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)<br/>
 ![GitHub last commit](https://img.shields.io/github/last-commit/Awesome-Iwb/Awesome-Iwb)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https://github.com/Awesome-Iwb/Awesome-Iwb&label=Visitors&countColor=%23263759&style=flat)
+![Lastest Update](https://img.shields.io/badge/%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0-2025%E5%B9%B41%E6%9C%8814%E6%97%A5-orange)
 
 ![Repobeats Analyzer](https://repobeats.axiom.co/api/embed/71f72cdd85b0b13b41e368b54f1f94f3d378c9fa.svg "Repobeats analytics image")
 
@@ -79,8 +80,6 @@
 *严禁上传含有色情，暴力，人口贩卖，毒品，政治等敏感内容，违者将被拉黑。*
 
 9. **该列表仅供参考，信息可能会更新不及时！**
-
-**最后更新日期：2025 年 1 月 9 日**
 
 ## 👋 同类项目推荐
 
