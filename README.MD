@@ -45,6 +45,9 @@
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Jursin"><img src="https://avatars.githubusercontent.com/u/127487914?v=4?s=100" width="100px;" alt="Jursin"/><br /><sub><b>Jursin</b></sub></a><br /><a href="#doc-Jursin" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.rzly.net"><img src="https://avatars.githubusercontent.com/u/60139353?v=4?s=100" width="100px;" alt="IUU6"/><br /><sub><b>IUU6</b></sub></a><br /><a href="#content-iuu6" title="Content">🖋</a> <a href="#doc-iuu6" title="Documentation">📖</a></td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/DryIce-cc"><img src="https://avatars.githubusercontent.com/u/165131008?v=4?s=100" width="100px;" alt="干冰DryIce"/><br /><sub><b>干冰DryIce</b></sub></a><br /><a href="#doc-DryIce-cc" title="Documentation">📖</a></td>
+    </tr>
   </tbody>
 </table>
 
