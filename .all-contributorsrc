@@ -82,6 +82,15 @@
         "content",
         "doc"
       ]
+    },
+    {
+      "login": "DryIce-cc",
+      "name": "干冰DryIce",
+      "avatar_url": "https://avatars.githubusercontent.com/u/165131008?v=4",
+      "profile": "https://github.com/DryIce-cc",
+      "contributions": [
+        "doc"
+      ]
     }
   ]
 }
