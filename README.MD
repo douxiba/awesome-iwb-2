@@ -88,7 +88,7 @@
 
 [![Jursin/Awesome-Class-Softwares](https://github-readme-stats.vercel.app/api/pin/?username=Jursin&repo=Awesome-Class-Softwares&show_owner=true)](https://github.com/Jursin/Awesome-Class-Softwares)
 
-[![hello8693DSZ/awesome-whiteboard](https://github-readme-stats.vercel.app/api/pin/?username=hello8693DSZ&repo=awesome-whiteboard&show_owner=true)](https://github.com/hello8693DSZ/awesome-whiteboard)
+[![hello8693/awesome-whiteboard](https://github-readme-stats.vercel.app/api/pin/?username=hello8693&repo=awesome-whiteboard&show_owner=true)](https://github.com/hello8693/awesome-whiteboard)
 
 ## 📚 目录
 
