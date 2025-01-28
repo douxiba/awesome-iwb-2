@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="128" src="./images/aiwb-0.25x.png">
+<img width="96" src="./images/aiwb-300w.png">
+
+<br/>
 
 # Awesome-Iwb
 
@@ -105,7 +107,7 @@
 
 - 🔴 是指最近几天内收录的新软件或新项目。
 
-### ✏️ 批注软件
+### ✏️ 屏幕批注与白板软件
 
 | 名称 | 开发者 |
 | - | - |
@@ -119,33 +121,33 @@
 | [Inkways Classic](#inkways-classic) ![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d) | <img src="https://github.com/iNKORE-NET.png" width="20" height="20"/> `iNKORE Studios` |
 | [InkCanvasForClass](#inkcanvasforclass) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Awesome-Iwb/icc-0610fix?label=updated) | <img src="https://github.com/dubi906w.png" width="20" height="20"/> `Dubi906w` |
 
-### 📊 课表与桌面小工具
+### 📊 课表与看板类软件
 
 | 名称 | 开发者 |
 | - | - |
 | 🥇 [ClassIsland](#classisland) ![GitHub Last Commit](https://img.shields.io/github/last-commit/ClassIsland/ClassIsland?label=updated) | <img src="https://github.com/HelloWRC.png" width="20" height="20"/> `HelloWRC` |
 | 🥇 [ZongziTEK 黑板贴](#zongzitek-黑板贴) ![GitHub Last Commit](https://img.shields.io/github/last-commit/STBBRD/ZongziTEK-Blackboard-Sticker?label=updated) | <img src="https://github.com/STBBRD.png" width="20" height="20"/> `ZongziTEK` |
 | 🌟 [Sticky-attention](#sticky-attention) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Sticky-attention/Sticky-attention?label=updated) | <img src="https://github.com/jizilin6732.png" width="20" height="20"/> `jizilin6732` |
-| ~~[ElectronClassSchedule](#electronclassschedule)~~ (停更) | <img src="https://github.com/EnderWolf006.png" width="20" height="20"/> `EnderWolf006` |
-| ~~[ClassTools](#classtools)~~ (停更) | <img src="https://github.com/clansty.png" width="20" height="20"/> `凌莞~(=^▽^=)` |
-| ~~[StickyHomeworks](#stickyhomeworks)~~ (停更) | <img src="https://github.com/HelloWRC.png" width="20" height="20"/> `HelloWRC` |
+| 🥈 [考试看板](#考试看板) ![GitHub Last Commit](https://img.shields.io/github/last-commit/ExamAware/dsz-exam-showboard?label=updated) | <img src="https://github.com/Hello8693.png" width="20" height="20"/> `Hello8693` |
 | 🌟 [ExtraIsland](#extraisland) ![GitHub Last Commit](https://img.shields.io/github/last-commit/LiPolymer/ExtraIsland?label=updated) | <img src="https://github.com/LiPolymer.png" width="20" height="20"/> `LiPolymer` |
-| ~~[HomeworkBoard](#homeworkboard)~~ (停更) | <img src="https://github.com/EnderWolf006.png" width="20" height="20"/> `EnderWolf006` |
 | 🥈 [Class Widgets](#class-widgets) ![GitHub Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/Class-Widgets?label=updated) | <img src="https://github.com/RinLit-233-shiroko.png" width="20" height="20"/> `RinLit` |
 | [Education Clock](#education-clock) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Return-Log/Education-Clock?label=updated) | <img src="https://github.com/Return-Log.png" width="20" height="20"/> `Log` |
-| ~~[灵动课表](#灵动课表)~~ (停更) | <img src="https://github.com/DuguSand.png" width="20" height="20"/> `DuguSand` |
 | [ClassBoardSharp](#classboardsharp) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Candlest/ClassBoardSharp?label=updated) | <img src="https://github.com/Candlest.png" width="20" height="20"/> `Candlest` |
 | 🔴 [班级热搜排行](#class-hot-search-班级热搜排行) ![GitHub Last Commit](https://img.shields.io/github/last-commit/SRInternet-Studio/Class_Hot_Search?label=updated) | <img src="https://github.com/SRInternet-Studio.png" width="20" height="20"/> `思锐工作室 SR-Studio` |
 | 🔴 [Ris_ClassTool](#ris_classtool-瑞思课堂工具) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Ris-Soft/Ris_ClassTool?label=updated) | <img src="https://github.com/Ris-Soft.png" width="20" height="20"/> `Ris-Soft` |
+| ~~[灵动课表](#灵动课表)~~ (停更) | <img src="https://github.com/DuguSand.png" width="20" height="20"/> `DuguSand` |
+| ~~[ElectronClassSchedule](#electronclassschedule)~~ (停更) | <img src="https://github.com/EnderWolf006.png" width="20" height="20"/> `EnderWolf006` |
+| ~~[ClassTools](#classtools)~~ (停更) | <img src="https://github.com/clansty.png" width="20" height="20"/> `凌莞~(=^▽^=)` |
+| ~~[StickyHomeworks](#stickyhomeworks)~~ (停更) | <img src="https://github.com/HelloWRC.png" width="20" height="20"/> `HelloWRC` |
+| ~~[HomeworkBoard](#homeworkboard)~~ (停更) | <img src="https://github.com/EnderWolf006.png" width="20" height="20"/> `EnderWolf006` |
 
-### 🛠️ 辅助类软件
+### 🛠️ 辅助类软件与实用工具
 
 | 名称 | 开发者 |
 | - | - |
 | [PPT 触屏辅助](#ppt-触屏辅助powerpoint-touch-assist) ![GitHub Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/PowerPoint-Touch-Assist?label=updated) | <img src="https://github.com/RinLit-233-shiroko.png" width="20" height="20"/> `RinLit` |
 | 🥇 [（希沃）定制启动器](#希沃定制启动器) ![GitHub Last Commit](https://img.shields.io/github/last-commit/SRInternet-Studio/Seewo-Custom_Start?label=updated) | <img src="https://github.com/SRInternet-Studio.png" width="20" height="20"/> `思锐工作室 SR-Studio` |
 | [全能班辅](#全能班辅) ![GitHub Last Commit](https://img.shields.io/github/last-commit/XeonMEMZ/qnbf5?label=updated) | <img src="https://github.com/XeonMEMZ.png" width="20" height="20"/> `XeonMEMZ` |
-| 🥈 [考试看板 Next](#考试看板-Next) ![GitHub Last Commit](https://img.shields.io/github/last-commit/ProjectCampus-CH/dsz-exam-showboard-next?label=updated) | <img src="https://github.com/ProjectCampus-CH.png" width="20" height="20"/> `校园计划` |
 | [OpenLuckyRandom](#openluckyrandom) ![GitHub Last Commit](https://img.shields.io/github/last-commit/WhatDamon/OpenLuckyRandom?label=updated) | <img src="https://github.com/WhatDamon.png" width="20" height="20"/> `Damon Lu` |
 | [MythwareToolkit](#mythwaretoolkit) ![GitHub Last Commit](https://img.shields.io/github/last-commit/BengbuGuards/MythwareToolkit?label=updated) | <img src="https://github.com/BengbuGuards.png" width="20" height="20"/> `小流汗黄豆` |
 | 🥈 [ENAL 希沃易登](#enal-希沃易登) ![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d) | <img src="https://static.nlrdev.top/developer-avatar/xiaocuitang.webp" width="20" height="20"/> `Xiaocuitang` |
@@ -173,7 +175,7 @@
 </details>
 
 
-## ✏️ 批注软件
+## ✏️ 屏幕批注与白板软件
 
 <div align="center">
 
@@ -612,7 +614,7 @@ InkCanvasForClass 是基于 ChangSakura 的 Ink Canvas Artistry 项目二次开�
 </tr>
 </table>
 
-## 📊 课表与桌面小工具
+## 📊 课表与看板类软件
 
 <div align="center">
 
@@ -754,118 +756,47 @@ StickyAttention 是一款适用于 Windows 系统教室一体机的作业显示�
 <br/>
 <br/>
 
-<img src="https://raw.githubusercontent.com/EnderWolf006/ElectronClassSchedule/main/image/icon.png" width="56" height="56"/> 
+<img src="images/kaoshikanban-icon.svg" height="56" width="56"/> 
 
-### ElectronClassSchedule
+### 考试看板
 
-![banner](https://github.com/EnderWolf006/ElectronClassSchedule/raw/main/image%2FREADME%2Fview.png)
+![banner](https://github.com/ProjectCampus-CH/exam-showboard-next/raw/master/.Screenshots/InfoPage.png)
 
-[![stars](https://img.shields.io/github/stars/EnderWolf006/ElectronClassSchedule?style=flat&color=red)](https://github.com/EnderWolf006/ElectronClassSchedule/stargazers)
-[![forks](https://img.shields.io/github/forks/EnderWolf006/ElectronClassSchedule?style=flat&color=blue)](https://github.com/EnderWolf006/ElectronClassSchedule/forks)
-[![Watchers](https://img.shields.io/github/watchers/EnderWolf006/ElectronClassSchedule?style=flat&color=green)](https://github.com/EnderWolf006/ElectronClassSchedule/watchers)
-[![Downloads](https://img.shields.io/github/downloads/EnderWolf006/ElectronClassSchedule/total?style=flat&logo=github)](https://github.com/EnderWolf006/ElectronClassSchedule/releases)<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/EnderWolf006/ElectronClassSchedule?query=is%3Aopen&label=issues&color=purple)](https://github.com/EnderWolf006/ElectronClassSchedule/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/EnderWolf006/ElectronClassSchedule?style=flat)](https://github.com/EnderWolf006/ElectronClassSchedule/discussions)
-[![Created At](https://img.shields.io/github/created-at/EnderWolf006/ElectronClassSchedule)](https://github.com/EnderWolf006/ElectronClassSchedule)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/EnderWolf006/ElectronClassSchedule)](https://github.com/EnderWolf006/ElectronClassSchedule/commits/master)<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/EnderWolf006/ElectronClassSchedule)](https://github.com/EnderWolf006/ElectronClassSchedule)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/EnderWolf006/ElectronClassSchedule?logo=javascript&logoColor=white)](https://github.com/EnderWolf006/ElectronClassSchedule)
-![GitHub License](https://img.shields.io/github/license/EnderWolf006/ElectronClassSchedule?color=red)
-[![加入 QQ 群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20914887202-white?style=flat&logo=qq)](https://qm.qq.com/q/zq9S3R6zMk)
+![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
+[![stars](https://img.shields.io/github/stars/ExamAware/dsz-exam-showboard?style=flat&color=red)](https://github.com/ExamAware/dsz-exam-showboard/stargazers)
+[![forks](https://img.shields.io/github/forks/ExamAware/dsz-exam-showboard?style=flat&color=blue)](https://github.com/ExamAware/dsz-exam-showboard/forks)
+[![Watchers](https://img.shields.io/github/watchers/ExamAware/dsz-exam-showboard?style=flat&color=green)](https://github.com/ExamAware/dsz-exam-showboard/watchers)
+[![Downloads](https://img.shields.io/github/downloads/ExamAware/dsz-exam-showboard/total?style=flat&logo=github)](https://github.com/ExamAware/dsz-exam-showboard/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/ExamAware/dsz-exam-showboard?query=is%3Aopen&label=issues&color=purple)](https://github.com/ExamAware/dsz-exam-showboard/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/ExamAware/dsz-exam-showboard?style=flat)](https://github.com/ExamAware/dsz-exam-showboard/discussions)
+[![Created At](https://img.shields.io/github/created-at/ExamAware/dsz-exam-showboard)](https://github.com/ExamAware/dsz-exam-showboard)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/ExamAware/dsz-exam-showboard)](https://github.com/ExamAware/dsz-exam-showboard/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/ExamAware/dsz-exam-showboard)](https://github.com/ExamAware/dsz-exam-showboard)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/ExamAware/dsz-exam-showboard)](https://github.com/ExamAware/dsz-exam-showboard)
+![GitHub License](https://img.shields.io/github/license/ExamAware/dsz-exam-showboard?color=red)
+[![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20901670561-white?style=flat&logo=qq)](https://qm.qq.com/q/zDiEipHsaI)
 
 </div>
 
-> 该项目已经停止更新。
+DSZ 考试看板。**一款显示当前时间与考试详细信息的看板类软件。**
 
-ElectronClassSchedule 具有显示当天课表，当前星期，天数倒计时，下课/上课倒计时等功能。支持动态调整课表，支持多周(最多四周)课表轮换，窗口置顶且可穿透。<br/>
-**软件由一位高三牲制作，含有大量屎山代码，望大家海涵。**
+**考试看板** 皆在提供一个简单明了的 UI 界面用于展示考试信息：可以展示考试名称、当前时间、当前科目名称、开始时间、结束时间、考试状态、考试结束前 15 分钟预警，右面可以展示所有考试列表及开始时间、结束时间和状态，后面会支持集控。
 
 <table align="center">
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>GitHub</b></td>
-    <td><a href="https://github.com/EnderWolf006/ElectronClassSchedule/">EnderWolf006/ElectronClassSchedule</a></td>
+    <td><a href="https://github.com/ExamAware/dsz-exam-showboard/">ExamAware/dsz-exam-showboard</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub(镜像)</b></td>
+    <td><a href="https://github.com/ProjectCampus-CH/dsz-exam-showboard-next/">ProjectCampus-CH/dsz-exam-showboard-next</a></td>
 </tr>
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>开发者</b></td>
-    <td><img src="https://github.com/EnderWolf006.png" width="20" height="20"/> <a href="https://github.com/EnderWolf006/">EnderWolf006</a></td>
-</tr>
-</table>
-
-<div align="center">
-
-<br/>
-<br/>
-
-### ClassTools
-
-[![stars](https://img.shields.io/github/stars/clansty/ClassTools?style=flat&color=red)](https://github.com/clansty/ClassTools/stargazers)
-[![forks](https://img.shields.io/github/forks/clansty/ClassTools?style=flat&color=blue)](https://github.com/clansty/ClassTools/forks)
-[![Watchers](https://img.shields.io/github/watchers/clansty/ClassTools?style=flat&color=green)](https://github.com/clansty/ClassTools/watchers)
-[![Downloads](https://img.shields.io/github/downloads/clansty/ClassTools/total?style=flat&logo=github)](https://github.com/clansty/ClassTools/releases)<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/clansty/ClassTools?query=is%3Aopen&label=issues&color=purple)](https://github.com/clansty/ClassTools/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/clansty/ClassTools?style=flat)](https://github.com/clansty/ClassTools/discussions)
-[![Created At](https://img.shields.io/github/created-at/clansty/ClassTools)](https://github.com/clansty/ClassTools)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/clansty/ClassTools)](https://github.com/clansty/ClassTools/commits/master)<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/clansty/ClassTools)](https://github.com/clansty/ClassTools)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/clansty/ClassTools)](https://github.com/clansty/ClassTools)
-![GitHub License](https://img.shields.io/github/license/clansty/ClassTools?color=red)
-
-</div>
-
-> 该项目已经停止更新。
-
-这是一个用在班级电脑上面的教室系统🎉，以动态壁纸方式呈现高考倒计时、作业、课程表、值日生等看板，并提供简单易用的设置界面。
-
-<table align="center">
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>GitHub</b></td>
-    <td><a href="https://github.com/clansty/ClassTools/">clansty/ClassTools</a></td>
-</tr>
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>开发者</b></td>
-    <td><img src="https://github.com/clansty.png" width="20" height="20"/> <a href="https://github.com/clansty/">凌莞~(=^▽^=)</a></td>
-</tr>
-</table>
-
-<div align="center">
-
-<br/>
-<br/>
-
-### StickyHomeworks
-
-[![stars](https://img.shields.io/github/stars/HelloWRC/StickyHomeworks?style=flat&color=red)](https://github.com/HelloWRC/StickyHomeworks/stargazers)
-[![forks](https://img.shields.io/github/forks/HelloWRC/StickyHomeworks?style=flat&color=blue)](https://github.com/HelloWRC/StickyHomeworks/forks)
-[![Watchers](https://img.shields.io/github/watchers/HelloWRC/StickyHomeworks?style=flat&color=green)](https://github.com/HelloWRC/StickyHomeworks/watchers)
-[![Downloads](https://img.shields.io/github/downloads/HelloWRC/StickyHomeworks/total?style=flat&logo=github)](https://github.com/HelloWRC/StickyHomeworks/releases)<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/HelloWRC/StickyHomeworks?query=is%3Aopen&label=issues&color=purple)](https://github.com/HelloWRC/StickyHomeworks/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/HelloWRC/StickyHomeworks?style=flat)](https://github.com/HelloWRC/StickyHomeworks/discussions)
-[![Created At](https://img.shields.io/github/created-at/HelloWRC/StickyHomeworks)](https://github.com/HelloWRC/StickyHomeworks)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/HelloWRC/StickyHomeworks)](https://github.com/HelloWRC/StickyHomeworks/commits/master)<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/HelloWRC/StickyHomeworks)](https://github.com/HelloWRC/StickyHomeworks)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/HelloWRC/StickyHomeworks?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkMjPC90aXRsZT48cGF0aCBkPSJNMS4xOTQgNy41NDN2OC45MTNjMCAxLjEwMy41ODggMi4xMjIgMS41NDQgMi42NzRsNy43MTggNC40NTZhMy4wODYgMy4wODYgMCAwIDAgMy4wODggMGw3LjcxOC00LjQ1NmEzLjA4NyAzLjA4NyAwIDAgMCAxLjU0NC0yLjY3NFY3LjU0M2EzLjA4NCAzLjA4NCAwIDAgMC0xLjU0NC0yLjY3M0wxMy41NDQuNDE0YTMuMDg2IDMuMDg2IDAgMCAwLTMuMDg4IDBMMi43MzggNC44N2EzLjA4NSAzLjA4NSAwIDAgMC0xLjU0NCAyLjY3M1ptNS40MDMgMi45MTR2My4wODdhLjc3Ljc3IDAgMCAwIC43NzIuNzcyLjc3My43NzMgMCAwIDAgLjc3Mi0uNzcyLjc3My43NzMgMCAwIDEgMS4zMTctLjU0Ni43NzUuNzc1IDAgMCAxIC4yMjYuNTQ2IDIuMzE0IDIuMzE0IDAgMSAxLTQuNjMxIDB2LTMuMDg3YzAtLjYxNS4yNDQtMS4yMDMuNjc5LTEuNjM3YTIuMzEyIDIuMzEyIDAgMCAxIDMuMjc0IDBjLjQzNC40MzQuNjc4IDEuMDIzLjY3OCAxLjYzN2EuNzY5Ljc2OSAwIDAgMS0uMjI2LjU0NS43NjcuNzY3IDAgMCAxLTEuMDkxIDAgLjc3Ljc3IDAgMCAxLS4yMjYtLjU0NS43Ny43NyAwIDAgMC0uNzcyLS43NzIuNzcxLjc3MSAwIDAgMC0uNzcyLjc3MlptMTIuMzUgMy4wODdhLjc3Ljc3IDAgMCAxLS43NzIuNzcyaC0uNzcydi43NzJhLjc3My43NzMgMCAwIDEtMS41NDQgMHYtLjc3MmgtMS41NDR2Ljc3MmEuNzczLjc3MyAwIDAgMS0xLjMxNy41NDYuNzc1Ljc3NSAwIDAgMS0uMjI2LS41NDZ2LS43NzJIMTJhLjc3MS43NzEgMCAxIDEgMC0xLjU0NGguNzcydi0xLjU0M0gxMmEuNzcuNzcgMCAxIDEgMC0xLjU0NGguNzcydi0uNzcyYS43NzMuNzczIDAgMCAxIDEuMzE3LS41NDYuNzc1Ljc3NSAwIDAgMSAuMjI2LjU0NnYuNzcyaDEuNTQ0di0uNzcyYS43NzMuNzczIDAgMCAxIDEuNTQ0IDB2Ljc3MmguNzcyYS43NzIuNzcyIDAgMCAxIDAgMS41NDRoLS43NzJ2MS41NDNoLjc3MmEuNzc2Ljc3NiAwIDAgMSAuNzcyLjc3MlptLTMuMDg4LTIuMzE1aC0xLjU0NHYxLjU0M2gxLjU0NHYtMS41NDNaIi8%2BPC9zdmc%2B)](https://github.com/HelloWRC/StickyHomeworks)
-![GitHub License](https://img.shields.io/github/license/HelloWRC/StickyHomeworks?color=red)
-
-</div>
-
-> 该项目已经停止更新，并由 `jizilin6732` 接手。
-
-StickyHomeworks 是一款支持富文本的桌面作业贴工具。支持按科目分组作业、为作业添加标签、自动清理过期作业、导出作业截图等功能。
-
-<table align="center">
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>GitHub</b></td>
-    <td><a href="https://github.com/HelloWRC/StickyHomeworks/">HelloWRC/StickyHomeworks</a></td>
-</tr>
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>开发者</b></td>
-    <td><img src="https://github.com/HelloWRC.png" width="20" height="20"/> <a href="https://github.com/HelloWRC/">HelloWRC</a></td>
+    <td><img src="https://github.com/Hello8693.png" width="20" height="20"/> <a href="https://github.com/Hello8693/">Hello8693</a></td>
 </tr>
 </table>
 
@@ -915,44 +846,6 @@ ExtraIsland 是一个 ClassIsland 插件，为 ClassIsland 提供了一些小小
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>开发者</b></td>
     <td><img src="https://github.com/LiPolymer.png" width="20" height="20"/> <a href="https://github.com/LiPolymer/">LiPolymer</a></td>
-</tr>
-</table>
-
-<div align="center">
-
-<br/>
-<br/>
-
-### HomeworkBoard
-
-[![stars](https://img.shields.io/github/stars/EnderWolf006/HomeworkBoard?style=flat&color=red)](https://github.com/EnderWolf006/HomeworkBoard/stargazers)
-[![forks](https://img.shields.io/github/forks/EnderWolf006/HomeworkBoard?style=flat&color=blue)](https://github.com/EnderWolf006/HomeworkBoard/forks)
-[![Watchers](https://img.shields.io/github/watchers/EnderWolf006/HomeworkBoard?style=flat&color=green)](https://github.com/EnderWolf006/HomeworkBoard/watchers)
-[![Downloads](https://img.shields.io/github/downloads/EnderWolf006/HomeworkBoard/total?style=flat&logo=github)](https://github.com/EnderWolf006/HomeworkBoard/releases)<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/EnderWolf006/HomeworkBoard?query=is%3Aopen&label=issues&color=purple)](https://github.com/EnderWolf006/HomeworkBoard/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/EnderWolf006/HomeworkBoard?style=flat)](https://github.com/EnderWolf006/HomeworkBoard/discussions)
-[![Created At](https://img.shields.io/github/created-at/EnderWolf006/HomeworkBoard)](https://github.com/EnderWolf006/HomeworkBoard)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/EnderWolf006/HomeworkBoard)](https://github.com/EnderWolf006/HomeworkBoard/commits/master)<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/EnderWolf006/HomeworkBoard)](https://github.com/EnderWolf006/HomeworkBoard)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/EnderWolf006/HomeworkBoard)](https://github.com/EnderWolf006/HomeworkBoard)
-![GitHub License](https://img.shields.io/github/license/EnderWolf006/HomeworkBoard?color=red)
-
-</div>
-
-> 该项目已经停止更新。
-
-作业板，可以在班级内记录并排版清晰地展示作业、快捷记录出勤情况(无此需求可以去掉这一板块)，可以使用微软手写输入法或拼音(如有实体键盘)快速录入作业
-
-<table align="center">
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>GitHub</b></td>
-    <td><a href="https://github.com/EnderWolf006/HomeworkBoard/">EnderWolf006/HomeworkBoard</a></td>
-</tr>
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>开发者</b></td>
-    <td><img src="https://github.com/EnderWolf006.png" width="20" height="20"/> <a href="https://github.com/EnderWolf006/">EnderWolf006</a></td>
 </tr>
 </table>
 
@@ -1041,44 +934,6 @@ Education Clock 是一个实用的班级信息看板。是一款适合学校使�
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>开发者</b></td>
     <td><img src="https://github.com/Return-Log.png" width="20" height="20"/> <a href="https://github.com/Return-Log/">Return-Log</a></td>
-</tr>
-</table>
-
-<div align="center">
-
-<br/>
-<br/>
-
-### 灵动课表
-
-[![stars](https://img.shields.io/github/stars/DuguSand/class_form?style=flat&color=red)](https://github.com/DuguSand/class_form/stargazers)
-[![forks](https://img.shields.io/github/forks/DuguSand/class_form?style=flat&color=blue)](https://github.com/DuguSand/class_form/forks)
-[![Watchers](https://img.shields.io/github/watchers/DuguSand/class_form?style=flat&color=green)](https://github.com/DuguSand/class_form/watchers)
-[![Downloads](https://img.shields.io/github/downloads/DuguSand/class_form/total?style=flat&logo=github)](https://github.com/DuguSand/class_form/releases)<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/DuguSand/class_form?query=is%3Aopen&label=issues&color=purple)](https://github.com/DuguSand/class_form/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/DuguSand/class_form?style=flat)](https://github.com/DuguSand/class_form/discussions)
-[![Created At](https://img.shields.io/github/created-at/DuguSand/class_form)](https://github.com/DuguSand/class_form)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/DuguSand/class_form)](https://github.com/DuguSand/class_form/commits/master)<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/DuguSand/class_form)](https://github.com/DuguSand/class_form)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/DuguSand/class_form)](https://github.com/DuguSand/class_form)
-![GitHub License](https://img.shields.io/github/license/DuguSand/class_form?color=red)
-
-</div>
-
-> 该项目已经停止更新，而且知名的课表软件 [`ClassIsland`](#classisland) 的开发就是被该项目所激励的，该项目不建议使用。
-
-一个桌面课表软件。根据当日星期几显示配置文件中对应的课表，支持分隔符来规划课表内容。
-
-<table align="center">
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>GitHub</b></td>
-    <td><a href="https://github.com/DuguSand/class_form/">DuguSand/class_form</a></td>
-</tr>
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>开发者</b></td>
-    <td><img src="https://github.com/DuguSand.png" width="20" height="20"/> <a href="https://github.com/DuguSand/">DuguSand</a></td>
 </tr>
 </table>
 
@@ -1230,7 +1085,205 @@ ClassBoard 是一款高自由度的，用于显示教学信息的壁纸软件，
 </tr>
 </table>
 
-## 🛠️ 辅助类软件
+
+<div align="center">
+
+<br/>
+<br/>
+
+### 灵动课表
+
+[![stars](https://img.shields.io/github/stars/DuguSand/class_form?style=flat&color=red)](https://github.com/DuguSand/class_form/stargazers)
+[![forks](https://img.shields.io/github/forks/DuguSand/class_form?style=flat&color=blue)](https://github.com/DuguSand/class_form/forks)
+[![Watchers](https://img.shields.io/github/watchers/DuguSand/class_form?style=flat&color=green)](https://github.com/DuguSand/class_form/watchers)
+[![Downloads](https://img.shields.io/github/downloads/DuguSand/class_form/total?style=flat&logo=github)](https://github.com/DuguSand/class_form/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/DuguSand/class_form?query=is%3Aopen&label=issues&color=purple)](https://github.com/DuguSand/class_form/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/DuguSand/class_form?style=flat)](https://github.com/DuguSand/class_form/discussions)
+[![Created At](https://img.shields.io/github/created-at/DuguSand/class_form)](https://github.com/DuguSand/class_form)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/DuguSand/class_form)](https://github.com/DuguSand/class_form/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/DuguSand/class_form)](https://github.com/DuguSand/class_form)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/DuguSand/class_form)](https://github.com/DuguSand/class_form)
+![GitHub License](https://img.shields.io/github/license/DuguSand/class_form?color=red)
+
+</div>
+
+> 该项目已经停止更新，而且知名的课表软件 [`ClassIsland`](#classisland) 的开发就是被该项目所激励的，该项目不建议使用。
+
+一个桌面课表软件。根据当日星期几显示配置文件中对应的课表，支持分隔符来规划课表内容。
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/DuguSand/class_form/">DuguSand/class_form</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/DuguSand.png" width="20" height="20"/> <a href="https://github.com/DuguSand/">DuguSand</a></td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+<br/>
+
+<img src="https://raw.githubusercontent.com/EnderWolf006/ElectronClassSchedule/main/image/icon.png" width="56" height="56"/> 
+
+### ElectronClassSchedule
+
+![banner](https://github.com/EnderWolf006/ElectronClassSchedule/raw/main/image%2FREADME%2Fview.png)
+
+[![stars](https://img.shields.io/github/stars/EnderWolf006/ElectronClassSchedule?style=flat&color=red)](https://github.com/EnderWolf006/ElectronClassSchedule/stargazers)
+[![forks](https://img.shields.io/github/forks/EnderWolf006/ElectronClassSchedule?style=flat&color=blue)](https://github.com/EnderWolf006/ElectronClassSchedule/forks)
+[![Watchers](https://img.shields.io/github/watchers/EnderWolf006/ElectronClassSchedule?style=flat&color=green)](https://github.com/EnderWolf006/ElectronClassSchedule/watchers)
+[![Downloads](https://img.shields.io/github/downloads/EnderWolf006/ElectronClassSchedule/total?style=flat&logo=github)](https://github.com/EnderWolf006/ElectronClassSchedule/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/EnderWolf006/ElectronClassSchedule?query=is%3Aopen&label=issues&color=purple)](https://github.com/EnderWolf006/ElectronClassSchedule/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/EnderWolf006/ElectronClassSchedule?style=flat)](https://github.com/EnderWolf006/ElectronClassSchedule/discussions)
+[![Created At](https://img.shields.io/github/created-at/EnderWolf006/ElectronClassSchedule)](https://github.com/EnderWolf006/ElectronClassSchedule)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/EnderWolf006/ElectronClassSchedule)](https://github.com/EnderWolf006/ElectronClassSchedule/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/EnderWolf006/ElectronClassSchedule)](https://github.com/EnderWolf006/ElectronClassSchedule)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/EnderWolf006/ElectronClassSchedule?logo=javascript&logoColor=white)](https://github.com/EnderWolf006/ElectronClassSchedule)
+![GitHub License](https://img.shields.io/github/license/EnderWolf006/ElectronClassSchedule?color=red)
+[![加入 QQ 群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20914887202-white?style=flat&logo=qq)](https://qm.qq.com/q/zq9S3R6zMk)
+
+</div>
+
+> 该项目已经停止更新。
+
+ElectronClassSchedule 具有显示当天课表，当前星期，天数倒计时，下课/上课倒计时等功能。支持动态调整课表，支持多周(最多四周)课表轮换，窗口置顶且可穿透。<br/>
+**软件由一位高三牲制作，含有大量屎山代码，望大家海涵。**
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/EnderWolf006/ElectronClassSchedule/">EnderWolf006/ElectronClassSchedule</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/EnderWolf006.png" width="20" height="20"/> <a href="https://github.com/EnderWolf006/">EnderWolf006</a></td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+<br/>
+
+### ClassTools
+
+[![stars](https://img.shields.io/github/stars/clansty/ClassTools?style=flat&color=red)](https://github.com/clansty/ClassTools/stargazers)
+[![forks](https://img.shields.io/github/forks/clansty/ClassTools?style=flat&color=blue)](https://github.com/clansty/ClassTools/forks)
+[![Watchers](https://img.shields.io/github/watchers/clansty/ClassTools?style=flat&color=green)](https://github.com/clansty/ClassTools/watchers)
+[![Downloads](https://img.shields.io/github/downloads/clansty/ClassTools/total?style=flat&logo=github)](https://github.com/clansty/ClassTools/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/clansty/ClassTools?query=is%3Aopen&label=issues&color=purple)](https://github.com/clansty/ClassTools/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/clansty/ClassTools?style=flat)](https://github.com/clansty/ClassTools/discussions)
+[![Created At](https://img.shields.io/github/created-at/clansty/ClassTools)](https://github.com/clansty/ClassTools)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/clansty/ClassTools)](https://github.com/clansty/ClassTools/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/clansty/ClassTools)](https://github.com/clansty/ClassTools)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/clansty/ClassTools)](https://github.com/clansty/ClassTools)
+![GitHub License](https://img.shields.io/github/license/clansty/ClassTools?color=red)
+
+</div>
+
+> 该项目已经停止更新。
+
+这是一个用在班级电脑上面的教室系统🎉，以动态壁纸方式呈现高考倒计时、作业、课程表、值日生等看板，并提供简单易用的设置界面。
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/clansty/ClassTools/">clansty/ClassTools</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/clansty.png" width="20" height="20"/> <a href="https://github.com/clansty/">凌莞~(=^▽^=)</a></td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+<br/>
+
+### StickyHomeworks
+
+[![stars](https://img.shields.io/github/stars/HelloWRC/StickyHomeworks?style=flat&color=red)](https://github.com/HelloWRC/StickyHomeworks/stargazers)
+[![forks](https://img.shields.io/github/forks/HelloWRC/StickyHomeworks?style=flat&color=blue)](https://github.com/HelloWRC/StickyHomeworks/forks)
+[![Watchers](https://img.shields.io/github/watchers/HelloWRC/StickyHomeworks?style=flat&color=green)](https://github.com/HelloWRC/StickyHomeworks/watchers)
+[![Downloads](https://img.shields.io/github/downloads/HelloWRC/StickyHomeworks/total?style=flat&logo=github)](https://github.com/HelloWRC/StickyHomeworks/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/HelloWRC/StickyHomeworks?query=is%3Aopen&label=issues&color=purple)](https://github.com/HelloWRC/StickyHomeworks/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/HelloWRC/StickyHomeworks?style=flat)](https://github.com/HelloWRC/StickyHomeworks/discussions)
+[![Created At](https://img.shields.io/github/created-at/HelloWRC/StickyHomeworks)](https://github.com/HelloWRC/StickyHomeworks)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HelloWRC/StickyHomeworks)](https://github.com/HelloWRC/StickyHomeworks/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/HelloWRC/StickyHomeworks)](https://github.com/HelloWRC/StickyHomeworks)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/HelloWRC/StickyHomeworks?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkMjPC90aXRsZT48cGF0aCBkPSJNMS4xOTQgNy41NDN2OC45MTNjMCAxLjEwMy41ODggMi4xMjIgMS41NDQgMi42NzRsNy43MTggNC40NTZhMy4wODYgMy4wODYgMCAwIDAgMy4wODggMGw3LjcxOC00LjQ1NmEzLjA4NyAzLjA4NyAwIDAgMCAxLjU0NC0yLjY3NFY3LjU0M2EzLjA4NCAzLjA4NCAwIDAgMC0xLjU0NC0yLjY3M0wxMy41NDQuNDE0YTMuMDg2IDMuMDg2IDAgMCAwLTMuMDg4IDBMMi43MzggNC44N2EzLjA4NSAzLjA4NSAwIDAgMC0xLjU0NCAyLjY3M1ptNS40MDMgMi45MTR2My4wODdhLjc3Ljc3IDAgMCAwIC43NzIuNzcyLjc3My43NzMgMCAwIDAgLjc3Mi0uNzcyLjc3My43NzMgMCAwIDEgMS4zMTctLjU0Ni43NzUuNzc1IDAgMCAxIC4yMjYuNTQ2IDIuMzE0IDIuMzE0IDAgMSAxLTQuNjMxIDB2LTMuMDg3YzAtLjYxNS4yNDQtMS4yMDMuNjc5LTEuNjM3YTIuMzEyIDIuMzEyIDAgMCAxIDMuMjc0IDBjLjQzNC40MzQuNjc4IDEuMDIzLjY3OCAxLjYzN2EuNzY5Ljc2OSAwIDAgMS0uMjI2LjU0NS43NjcuNzY3IDAgMCAxLTEuMDkxIDAgLjc3Ljc3IDAgMCAxLS4yMjYtLjU0NS43Ny43NyAwIDAgMC0uNzcyLS43NzIuNzcxLjc3MSAwIDAgMC0uNzcyLjc3MlptMTIuMzUgMy4wODdhLjc3Ljc3IDAgMCAxLS43NzIuNzcyaC0uNzcydi43NzJhLjc3My43NzMgMCAwIDEtMS41NDQgMHYtLjc3MmgtMS41NDR2Ljc3MmEuNzczLjc3MyAwIDAgMS0xLjMxNy41NDYuNzc1Ljc3NSAwIDAgMS0uMjI2LS41NDZ2LS43NzJIMTJhLjc3MS43NzEgMCAxIDEgMC0xLjU0NGguNzcydi0xLjU0M0gxMmEuNzcuNzcgMCAxIDEgMC0xLjU0NGguNzcydi0uNzcyYS43NzMuNzczIDAgMCAxIDEuMzE3LS41NDYuNzc1Ljc3NSAwIDAgMSAuMjI2LjU0NnYuNzcyaDEuNTQ0di0uNzcyYS43NzMuNzczIDAgMCAxIDEuNTQ0IDB2Ljc3MmguNzcyYS43NzIuNzcyIDAgMCAxIDAgMS41NDRoLS43NzJ2MS41NDNoLjc3MmEuNzc2Ljc3NiAwIDAgMSAuNzcyLjc3MlptLTMuMDg4LTIuMzE1aC0xLjU0NHYxLjU0M2gxLjU0NHYtMS41NDNaIi8%2BPC9zdmc%2B)](https://github.com/HelloWRC/StickyHomeworks)
+![GitHub License](https://img.shields.io/github/license/HelloWRC/StickyHomeworks?color=red)
+
+</div>
+
+> 该项目已经停止更新，并由 `jizilin6732` 接手。
+
+StickyHomeworks 是一款支持富文本的桌面作业贴工具。支持按科目分组作业、为作业添加标签、自动清理过期作业、导出作业截图等功能。
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/HelloWRC/StickyHomeworks/">HelloWRC/StickyHomeworks</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/HelloWRC.png" width="20" height="20"/> <a href="https://github.com/HelloWRC/">HelloWRC</a></td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+<br/>
+
+### HomeworkBoard
+
+[![stars](https://img.shields.io/github/stars/EnderWolf006/HomeworkBoard?style=flat&color=red)](https://github.com/EnderWolf006/HomeworkBoard/stargazers)
+[![forks](https://img.shields.io/github/forks/EnderWolf006/HomeworkBoard?style=flat&color=blue)](https://github.com/EnderWolf006/HomeworkBoard/forks)
+[![Watchers](https://img.shields.io/github/watchers/EnderWolf006/HomeworkBoard?style=flat&color=green)](https://github.com/EnderWolf006/HomeworkBoard/watchers)
+[![Downloads](https://img.shields.io/github/downloads/EnderWolf006/HomeworkBoard/total?style=flat&logo=github)](https://github.com/EnderWolf006/HomeworkBoard/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/EnderWolf006/HomeworkBoard?query=is%3Aopen&label=issues&color=purple)](https://github.com/EnderWolf006/HomeworkBoard/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/EnderWolf006/HomeworkBoard?style=flat)](https://github.com/EnderWolf006/HomeworkBoard/discussions)
+[![Created At](https://img.shields.io/github/created-at/EnderWolf006/HomeworkBoard)](https://github.com/EnderWolf006/HomeworkBoard)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/EnderWolf006/HomeworkBoard)](https://github.com/EnderWolf006/HomeworkBoard/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/EnderWolf006/HomeworkBoard)](https://github.com/EnderWolf006/HomeworkBoard)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/EnderWolf006/HomeworkBoard)](https://github.com/EnderWolf006/HomeworkBoard)
+![GitHub License](https://img.shields.io/github/license/EnderWolf006/HomeworkBoard?color=red)
+
+</div>
+
+> 该项目已经停止更新。
+
+作业板，可以在班级内记录并排版清晰地展示作业、快捷记录出勤情况(无此需求可以去掉这一板块)，可以使用微软手写输入法或拼音(如有实体键盘)快速录入作业
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/EnderWolf006/HomeworkBoard/">EnderWolf006/HomeworkBoard</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/EnderWolf006.png" width="20" height="20"/> <a href="https://github.com/EnderWolf006/">EnderWolf006</a></td>
+</tr>
+</table>
+
+## 🛠️ 辅助类软件与实用工具
+
 <div align="center">
 
 <br/>
@@ -1370,50 +1423,6 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>开发者</b></td>
     <td><img src="https://github.com/XeonMEMZ.png" width="20" height="20"/> <a href="https://github.com/XeonMEMZ/">XeonMEMZ</a></td>
-</tr>
-</table>
-
-<div align="center">
-
-<br/>
-<br/>
-
-<img src="images/kaoshikanban-icon.svg" height="56" width="56"/> 
-
-### 考试看板 Next
-
-![banner](https://github.com/ProjectCampus-CH/exam-showboard-next/raw/master/.Screenshots/InfoPage.png)
-
-![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
-[![stars](https://img.shields.io/github/stars/MKStoler4096/dsz-exam-showboard-next?style=flat&color=red)](https://github.com/MKStoler4096/dsz-exam-showboard-next/stargazers)
-[![forks](https://img.shields.io/github/forks/MKStoler4096/dsz-exam-showboard-next?style=flat&color=blue)](https://github.com/MKStoler4096/dsz-exam-showboard-next/forks)
-[![Watchers](https://img.shields.io/github/watchers/MKStoler4096/dsz-exam-showboard-next?style=flat&color=green)](https://github.com/MKStoler4096/dsz-exam-showboard-next/watchers)
-[![Downloads](https://img.shields.io/github/downloads/MKStoler4096/dsz-exam-showboard-next/total?style=flat&logo=github)](https://github.com/MKStoler4096/dsz-exam-showboard-next/releases)<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/MKStoler4096/dsz-exam-showboard-next?query=is%3Aopen&label=issues&color=purple)](https://github.com/MKStoler4096/dsz-exam-showboard-next/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/MKStoler4096/dsz-exam-showboard-next?style=flat)](https://github.com/MKStoler4096/dsz-exam-showboard-next/discussions)
-[![Created At](https://img.shields.io/github/created-at/MKStoler4096/dsz-exam-showboard-next)](https://github.com/MKStoler4096/dsz-exam-showboard-next)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/MKStoler4096/dsz-exam-showboard-next)](https://github.com/MKStoler4096/dsz-exam-showboard-next/commits/master)<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/MKStoler4096/dsz-exam-showboard-next)](https://github.com/MKStoler4096/dsz-exam-showboard-next)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/MKStoler4096/dsz-exam-showboard-next)](https://github.com/MKStoler4096/dsz-exam-showboard-next)
-![GitHub License](https://img.shields.io/github/license/MKStoler4096/dsz-exam-showboard-next?color=red)
-[![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20901670561-white?style=flat&logo=qq)](https://qm.qq.com/q/zDiEipHsaI)
-
-</div>
-
-DSZ 考试看板的复活版。**一款显示当前时间与考试详细信息的看板类软件。**
-
-**考试看板** 皆在提供一个简单明了的 UI 界面用于展示考试信息：可以展示考试名称、当前时间、当前科目名称、开始时间、结束时间、考试状态、考试结束前 15 分钟预警，右面可以展示所有考试列表及开始时间、结束时间和状态，后面会支持集控。
-
-<table align="center">
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>GitHub</b></td>
-    <td><a href="https://github.com/ProjectCampus-CH/dsz-exam-showboard-next/">ProjectCampus-CH/dsz-exam-showboard-next</a></td>
-</tr>
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>开发者</b></td>
-    <td><img src="https://github.com/ProjectCampus-CH.png" width="20" height="20"/> <a href="https://github.com/ProjectCampus-CH/">校园计划</a></td>
 </tr>
 </table>
 
@@ -1707,7 +1716,7 @@ DSZ 考试看板的复活版。**一款显示当前时间与考试详细信息�
 </tr>
 </table>
 
-## 🌟 Stars 历史
+## 🌟 Stars 历史图表
 
 <div align="center">
 
