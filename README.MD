@@ -15,7 +15,7 @@
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)<br/>
 ![GitHub last commit](https://img.shields.io/github/last-commit/Awesome-Iwb/Awesome-Iwb)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https://github.com/Awesome-Iwb/Awesome-Iwb&label=Visitors&countColor=%23263759&style=flat)
-![Lastest Update](https://img.shields.io/badge/%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0-2025%E5%B9%B41%E6%9C%8814%E6%97%A5-orange)
+![Lastest Update](https://img.shields.io/badge/%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0-2025%E5%B9%B41%E6%9C%8828%E6%97%A5-orange)
 
 ![Repobeats Analyzer](https://repobeats.axiom.co/api/embed/71f72cdd85b0b13b41e368b54f1f94f3d378c9fa.svg "Repobeats analytics image")
 
@@ -133,8 +133,11 @@
 | 🥈 [Class Widgets](#class-widgets) ![GitHub Last Commit](https://img.shields.io/github/last-commit/RinLit-233-shiroko/Class-Widgets?label=updated) | <img src="https://github.com/RinLit-233-shiroko.png" width="20" height="20"/> `RinLit` |
 | [Education Clock](#education-clock) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Return-Log/Education-Clock?label=updated) | <img src="https://github.com/Return-Log.png" width="20" height="20"/> `Log` |
 | [ClassBoardSharp](#classboardsharp) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Candlest/ClassBoardSharp?label=updated) | <img src="https://github.com/Candlest.png" width="20" height="20"/> `Candlest` |
-| 🔴 [班级热搜排行](#class-hot-search-班级热搜排行) ![GitHub Last Commit](https://img.shields.io/github/last-commit/SRInternet-Studio/Class_Hot_Search?label=updated) | <img src="https://github.com/SRInternet-Studio.png" width="20" height="20"/> `思锐工作室 SR-Studio` |
-| 🔴 [Ris_ClassTool](#ris_classtool-瑞思课堂工具) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Ris-Soft/Ris_ClassTool?label=updated) | <img src="https://github.com/Ris-Soft.png" width="20" height="20"/> `Ris-Soft` |
+| [班级热搜排行](#class-hot-search-班级热搜排行) ![GitHub Last Commit](https://img.shields.io/github/last-commit/SRInternet-Studio/Class_Hot_Search?label=updated) | <img src="https://github.com/SRInternet-Studio.png" width="20" height="20"/> `思锐工作室 SR-Studio` |
+| [Ris_ClassTool](#ris_classtool-瑞思课堂工具) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Ris-Soft/Ris_ClassTool?label=updated) | <img src="https://github.com/Ris-Soft.png" width="20" height="20"/> `Ris-Soft` |
+| [极序](#极序) ![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d) | 极序 |
+| [TimerIn](#timerin) ![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d) | <img src="https://github.com/SRInternet-Studio.png" width="20" height="20"/> `思锐工作室 SR-Studio` |
+| ~~[CountBoard](#countboard)~~ (停更) | <img src="https://github.com/Gaoyongxian666.png" width="20" height="20"/> `gaoyongxian` |
 | ~~[灵动课表](#灵动课表)~~ (停更) | <img src="https://github.com/DuguSand.png" width="20" height="20"/> `DuguSand` |
 | ~~[ElectronClassSchedule](#electronclassschedule)~~ (停更) | <img src="https://github.com/EnderWolf006.png" width="20" height="20"/> `EnderWolf006` |
 | ~~[ClassTools](#classtools)~~ (停更) | <img src="https://github.com/clansty.png" width="20" height="20"/> `凌莞~(=^▽^=)` |
@@ -155,6 +158,10 @@
 | [ClassNamePicker](#classnamepicker) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Chengzi600/ClassNamePicker?label=updated) | <img src="https://github.com/Chengzi600.png" width="20" height="20"/> `Chengzi600` |
 | [SeewoHUB](#seewohub) ![GitHub Last Commit](https://img.shields.io/github/last-commit/CNwenwen/SeewoHUB?label=updated) | <img src="https://github.com/CNwenwen.png" width="20" height="20"/> `Hyjthfhtself` |
 | [SectionIstool](#sectionistool) ![GitHub Last Commit](https://img.shields.io/github/last-commit/SectionIstool/SectionIstool?label=updated) | <img src="https://github.com/lzy98276.png" width="20" height="20"/> `黎泽懿` |
+| [CountDownControl](#countdowncontrol) ![GitHub Last Commit](https://img.shields.io/github/last-commit/cjhdevact/CountDownControl?label=updated) | <img src="https://github.com/cjhdevact.png" width="20" height="20"/> `CJH` |
+| [LockTime](#locktime) ![GitHub Last Commit](https://img.shields.io/github/last-commit/cjhdevact/LockTime?label=updated) | <img src="https://github.com/cjhdevact.png" width="20" height="20"/> `CJH` |
+| [UsefulControl](#usefulcontrol) ![GitHub Last Commit](https://img.shields.io/github/last-commit/cjhdevact/UsefulControl?label=updated) | <img src="https://github.com/cjhdevact.png" width="20" height="20"/> `CJH` |
+
 
 <br/>
 
@@ -490,9 +497,9 @@ ppInk is a user-friendly on-screen annotation software for Windows, compatible w
 
 ### Inkways (WIP)
 
+![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d)
 ![Design](https://img.shields.io/badge/iNKO%20Design%20System-9648E9)
-![Type](https://img.shields.io/badge/Type-Closed_Source-green)
-![Price](https://img.shields.io/badge/Price-Freemium-green)
+![Price](https://img.shields.io/badge/price-freemium-green)
 ![Platforms](https://img.shields.io/badge/win%20%7C%20mac%20%7C%20linux%20%7C%20android%20%7C%20ios%20%7C%20web-brightgreen?label=supports
 )<br/>
 [![Discord](https://img.shields.io/discord/1092738458805608561?style=social&label=Discord&logo=discord)](https://discord.gg/m6NPNVk4bs)
@@ -533,9 +540,9 @@ ppInk is a user-friendly on-screen annotation software for Windows, compatible w
 
 ![banner](banner/inkways-classic.png)
 
+![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d)
 ![Design](https://img.shields.io/badge/Fluent%20Design%20System-003E92)
-![Type](https://img.shields.io/badge/Type-Closed_Source-green)
-![Price](https://img.shields.io/badge/Price-Free-green)
+![Price](https://img.shields.io/badge/price-free-green)
 ![Platforms](https://img.shields.io/badge/win-green?label=supports
 )<br/>
 [![Discord](https://img.shields.io/discord/1092738458805608561?style=social&label=Discord&logo=discord)](https://discord.gg/m6NPNVk4bs)
@@ -1046,7 +1053,8 @@ ClassBoard 是一款高自由度的，用于显示教学信息的壁纸软件，
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/Ris-Soft/Ris_ClassTool)](https://github.com/Ris-Soft/Ris_ClassTool/commits/master)<br/>
 [![GitHub Language Count](https://img.shields.io/github/languages/count/Ris-Soft/Ris_ClassTool)](https://github.com/Ris-Soft/Ris_ClassTool)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/Ris-Soft/Ris_ClassTool)](https://github.com/Ris-Soft/Ris_ClassTool)
-![GitHub License](https://img.shields.io/github/license/Ris-Soft/Ris_ClassTool?color=red)<br/>
+![GitHub License](https://img.shields.io/github/license/Ris-Soft/Ris_ClassTool?color=red)
+[![加入 QQ 群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20939571490-white?style=flat&logo=qq)](https://qm.qq.com/q/QQYclmUL4e)
 
 </div>
 
@@ -1085,6 +1093,114 @@ ClassBoard 是一款高自由度的，用于显示教学信息的壁纸软件，
 </tr>
 </table>
 
+<div align="center">
+
+<br/>
+<br/>
+
+<img src="https://norkm.com/web/favicon.ico" width="56" height="56"/> 
+
+### 极序
+
+![banner](https://www.norkm.com/markdownImage/4ddbc1177ac038138fbdf72007985658.png)
+
+![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d)
+![Price](https://img.shields.io/badge/price-free-green)
+![Platforms](https://img.shields.io/badge/win%20%7C%20harmony--os%20%7C%20android%20%7C%20ios-brightgreen?label=supports)<br/>
+
+</div>
+
+**（Windows 版本）** 强大的桌面工具集合。适用于 Windows 10、11 系统的电脑或平板 （ 不支持 Windows 10 以下的操作系统 ）。
+
+支持电脑桌面笔记、番茄专注、待办、便签、日程、倒数日等十几款桌面组件，部分组件功能还可与极序手机版搭配使用，极大帮助工作学习效率的提升，更有丰富的窗口样式设置，轻松融入各种桌面壁纸。
+
+极序新版本添加了 `桌面课程表` 功能。课程设置过程很简单和直观，支持课程导入导出为xls表格文档，这样可以很快进行课表切换，支持垂直和水平两种桌面组件排列方式， **和 `ClassIsland` 等软件区别之处，在于其课程表设置页面更加简单直观，但是缺少单双周轮换等功能。**
+
+<table align="center">
+<tr>
+    <td><img src="https://norkm.com/web/favicon.ico" width="18" height="18"></td>
+    <td><b>官网</b></td>
+    <td><a href="https://norkm.com/">https://norkm.com/</a></td>
+</tr>
+<tr>
+    <td></td>
+    <td><b>开发者QQ</b></td>
+    <td>2518354833</td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+<br/>
+
+<img src="./images/timerin.png" width="56" height="56"/> 
+
+### TimerIn
+
+![banner](./banner/timerin-banner.png)
+
+
+![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d)
+![Price](https://img.shields.io/badge/price-free-green)
+[![加入 QQ 群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20983497968-white?style=flat&logo=qq)](https://qm.qq.com/q/f3QGDkdp6M)
+
+</div>
+
+TimerIn 是由 思锐工作室 开发的一款 桌面时钟小工具软件。支持全屏/横幅提醒，提供了多样的提醒方式，用途广泛；应用会在桌面上显示一个日程窗口，通过多样的规则，在软件内设置日程代办，并以丰富的形式，在预定的时间，有效提醒自己。还可添加个性化的小组件，与桌面完美融合。
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>官网</b></td>
+    <td><a href="https://timerin.sr-studio.top/">https://timerin.sr-studio.top/</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/SRInternet-Studio.png" width="20" height="20"/> <a href="https://github.com/SRInternet-Studio/">思锐工作室 SR-Studio</a></td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+<br/>
+
+### CountBoard
+
+![banner](https://pic.imgdb.cn/item/61a889432ab3f51d9190ca1b.pngg) 
+
+[![stars](https://img.shields.io/github/stars/Gaoyongxian666/CountBoard?style=flat&color=red)](https://github.com/Gaoyongxian666/CountBoard/stargazers)
+[![forks](https://img.shields.io/github/forks/Gaoyongxian666/CountBoard?style=flat&color=blue)](https://github.com/Gaoyongxian666/CountBoard/forks)
+[![Watchers](https://img.shields.io/github/watchers/Gaoyongxian666/CountBoard?style=flat&color=green)](https://github.com/Gaoyongxian666/CountBoard/watchers)
+[![Downloads](https://img.shields.io/github/downloads/Gaoyongxian666/CountBoard/total?style=flat&logo=github)](https://github.com/Gaoyongxian666/CountBoard/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/Gaoyongxian666/CountBoard?query=is%3Aopen&label=issues&color=purple)](https://github.com/Gaoyongxian666/CountBoard/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/Gaoyongxian666/CountBoard?style=flat)](https://github.com/Gaoyongxian666/CountBoard/discussions)
+[![Created At](https://img.shields.io/github/created-at/Gaoyongxian666/CountBoard)](https://github.com/Gaoyongxian666/CountBoard)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/Gaoyongxian666/CountBoard)](https://github.com/Gaoyongxian666/CountBoard/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/Gaoyongxian666/CountBoard)](https://github.com/Gaoyongxian666/CountBoard)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/Gaoyongxian666/CountBoard)](https://github.com/Gaoyongxian666/CountBoard)
+![GitHub License](https://img.shields.io/github/license/Gaoyongxian666/CountBoard?color=red)
+
+</div>
+
+> 该项目已经停止更新。**自带的开机自启无法使用。**
+
+CountBoard 是一个基于 Tkinter 开源的桌面日程倒计时应用。支持亚克力和毛玻璃 Aero 效果，支持定时提醒和间隔提醒，也支持将计时窗口嵌入到桌面。
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/Gaoyongxian666/CountBoard/">Gaoyongxian666/CountBoard</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/Gaoyongxian666.png" width="20" height="20"/> <a href="https://github.com/Gaoyongxian666/">gaoyongxian</a></td>
+</tr>
+</table>
 
 <div align="center">
 
