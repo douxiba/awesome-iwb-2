@@ -1832,6 +1832,129 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
 </tr>
 </table>
 
+<div align="center">
+
+<br/>
+<br/>
+
+<img src="./images/countdowncontrol-icon.png" height="56" width="56"/> 
+
+### CountDownControl
+
+![banner](https://github.com/cjhdevact/CountDownControl/raw/main/Assets/MainUI.png)
+
+![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
+[![stars](https://img.shields.io/github/stars/cjhdevact/CountDownControl?style=flat&color=red)](https://github.com/cjhdevact/CountDownControl/stargazers)
+[![forks](https://img.shields.io/github/forks/cjhdevact/CountDownControl?style=flat&color=blue)](https://github.com/cjhdevact/CountDownControl/forks)
+[![Watchers](https://img.shields.io/github/watchers/cjhdevact/CountDownControl?style=flat&color=green)](https://github.com/cjhdevact/CountDownControl/watchers)
+[![Downloads](https://img.shields.io/github/downloads/cjhdevact/CountDownControl/total?style=flat&logo=github)](https://github.com/cjhdevact/CountDownControl/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/cjhdevact/CountDownControl?query=is%3Aopen&label=issues&color=purple)](https://github.com/cjhdevact/CountDownControl/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/cjhdevact/CountDownControl?style=flat)](https://github.com/cjhdevact/CountDownControl/discussions)
+[![Created At](https://img.shields.io/github/created-at/cjhdevact/CountDownControl)](https://github.com/cjhdevact/CountDownControl)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/cjhdevact/CountDownControl)](https://github.com/cjhdevact/CountDownControl/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/cjhdevact/CountDownControl)](https://github.com/cjhdevact/CountDownControl)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/cjhdevact/CountDownControl)](https://github.com/cjhdevact/CountDownControl)
+![GitHub License](https://img.shields.io/github/license/cjhdevact/CountDownControl?color=red)
+
+</div>
+
+这是一个支持高度自定义的倒计时小工具。本软件可以安装在大屏上（例如教学大屏），也可以安装在普通电脑上。支持最基础的倒计日功能，可支持自定义倒计时显示文字，内置多种主题可供切换。
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/cjhdevact/CountDownControl/">cjhdevact/CountDownControl</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/cjhdevact.png" width="20" height="20"/> <a href="https://github.com/cjhdevact/">CJH</a></td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+<br/>
+
+<img src="./images/countdowncontrol-icon.png" height="56" width="56"/> 
+
+### LockTime
+
+![banner](https://github.com/cjhdevact/LockTime/raw/main/Assets/MainUI.png)
+
+![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
+[![stars](https://img.shields.io/github/stars/cjhdevact/LockTime?style=flat&color=red)](https://github.com/cjhdevact/LockTime/stargazers)
+[![forks](https://img.shields.io/github/forks/cjhdevact/LockTime?style=flat&color=blue)](https://github.com/cjhdevact/LockTime/forks)
+[![Watchers](https://img.shields.io/github/watchers/cjhdevact/LockTime?style=flat&color=green)](https://github.com/cjhdevact/LockTime/watchers)
+[![Downloads](https://img.shields.io/github/downloads/cjhdevact/LockTime/total?style=flat&logo=github)](https://github.com/cjhdevact/LockTime/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/cjhdevact/LockTime?query=is%3Aopen&label=issues&color=purple)](https://github.com/cjhdevact/LockTime/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/cjhdevact/LockTime?style=flat)](https://github.com/cjhdevact/LockTime/discussions)
+[![Created At](https://img.shields.io/github/created-at/cjhdevact/LockTime)](https://github.com/cjhdevact/LockTime)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/cjhdevact/LockTime)](https://github.com/cjhdevact/LockTime/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/cjhdevact/LockTime)](https://github.com/cjhdevact/LockTime)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/cjhdevact/LockTime)](https://github.com/cjhdevact/LockTime)
+![GitHub License](https://img.shields.io/github/license/cjhdevact/LockTime?color=red)
+
+</div>
+
+一个具有深/浅色主题，云母/亚克力背景（需要系统支持），Fluent UI 2界面的 **时钟锁屏（屏保）** ，支持 Windows 7 及以上版本系统，可以作为屏保使用，也可以自习时在教学白板上使用。支持改变时间的位置，避免因屏幕被遮挡而导致时间被遮挡问题（支持通过参数启动）。支持自定义显示格式、字体、大小、颜色等。
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/cjhdevact/LockTime/">cjhdevact/LockTime</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/cjhdevact.png" width="20" height="20"/> <a href="https://github.com/cjhdevact/">CJH</a></td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+<br/>
+
+<img src="./images/usefulcontrol-icon.png" height="56" width="56"/> 
+
+### UsefulControl
+
+![banner](https://github.com/cjhdevact/UsefulControl/raw/main/Assets/uimain.png)
+
+![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
+[![stars](https://img.shields.io/github/stars/cjhdevact/UsefulControl?style=flat&color=red)](https://github.com/cjhdevact/UsefulControl/stargazers)
+[![forks](https://img.shields.io/github/forks/cjhdevact/UsefulControl?style=flat&color=blue)](https://github.com/cjhdevact/UsefulControl/forks)
+[![Watchers](https://img.shields.io/github/watchers/cjhdevact/UsefulControl?style=flat&color=green)](https://github.com/cjhdevact/UsefulControl/watchers)
+[![Downloads](https://img.shields.io/github/downloads/cjhdevact/UsefulControl/total?style=flat&logo=github)](https://github.com/cjhdevact/UsefulControl/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/cjhdevact/UsefulControl?query=is%3Aopen&label=issues&color=purple)](https://github.com/cjhdevact/UsefulControl/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/cjhdevact/UsefulControl?style=flat)](https://github.com/cjhdevact/UsefulControl/discussions)
+[![Created At](https://img.shields.io/github/created-at/cjhdevact/UsefulControl)](https://github.com/cjhdevact/UsefulControl)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/cjhdevact/UsefulControl)](https://github.com/cjhdevact/UsefulControl/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/cjhdevact/UsefulControl)](https://github.com/cjhdevact/UsefulControl)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/cjhdevact/UsefulControl)](https://github.com/cjhdevact/UsefulControl)
+![GitHub License](https://img.shields.io/github/license/cjhdevact/UsefulControl?color=red)
+
+</div>
+
+这是一个为大屏类电脑（如希沃）编写的实用工具，可以理解为一堆工具的整合包。本软件可以安装在大屏上（例如教学大屏），也可以安装在普通电脑上。
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/cjhdevact/UsefulControl/">cjhdevact/UsefulControl</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/cjhdevact.png" width="20" height="20"/> <a href="https://github.com/cjhdevact/">CJH</a></td>
+</tr>
+</table>
+
 ## 🌟 Stars 历史图表
 
 <div align="center">
