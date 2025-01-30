@@ -467,7 +467,7 @@ SketchNow 基本上算是 Ink Canvas 的后继者了，虽然明面上和 Ink Ca
 ![Ink Canvas](https://img.shields.io/badge/Ink_Canvas-white)
 ![白板软件](https://img.shields.io/badge/白板软件-white)
 
-💬 **Dubi906w 锐评**：又一个新开的基于 InkCanvas 控件的项目，希望后面能够继续发展吧，争取能够干爆 Ink Canvas，虽然目前功能还不是很多，有一些Bug等待被修复，还没有中文支持，不过前途是一片光明啊。
+💬 **Dubi906w 锐评**：又一个新开的基于 InkCanvas 控件的项目，希望后面能够继续发展吧，争取能够干爆 Ink Canvas，虽然目前功能还不是很多，有一些Bug等待被修复，但前途是一片光明啊。
 
 <table align="center">
 <tr>
