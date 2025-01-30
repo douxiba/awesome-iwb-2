@@ -2122,6 +2122,17 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
 
 - <image src="./images/misaka-space-icon.png" height="18"/> **[seewoGeekWiki](https://wiki.misaka.space/)** - 希沃业绩售后冲击部官方 Wiki。
 
+## 🫓 大饼们
+
+1. 上传蓝奏云、Telegram 和 MediaFire 的网盘 Releases 备份。（）
+2. 在gitlab，gitcode上创建镜像仓库。
+3. 补全各个项目的官方网站，QQ群，宣传视频链接。
+4. 为部分项目单独创建页面。
+5. 为部分开发者单独创建页面，存放其相关联的其他项目和存储库。
+6. 添加新项目。
+7. 让aiwb自动化（实现aiwb-cli，让aiwb的README从源数据自动化生成与排序）。
+8. 实现项目和开发者活跃度指数。
+
 ## Copyright
 
 Copyright 2025 HARKOTEK Studio. All right reserved.
