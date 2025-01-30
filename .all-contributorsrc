@@ -91,6 +91,16 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "alovelydoge",
+      "name": "alovelydoge",
+      "avatar_url": "https://avatars.githubusercontent.com/u/156295679?v=4",
+      "profile": "https://github.com/alovelydoge",
+      "contributions": [
+        "doc",
+        "bug"
+      ]
     }
   ]
 }
