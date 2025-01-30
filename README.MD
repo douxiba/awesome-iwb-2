@@ -215,9 +215,15 @@ Ink Canvas 画板是一款轻量级画板软件，基于 WPF/C#，其针对希�
 
 学校从传统投影仪换成了希沃白板，由于自带的“希沃白板”软件太难用，也没有同类好用的画板软件，所以开发了该画板。（IC 已死，有事也别烧纸，等重制版吧）
 
-🏷 **关键词**：`屏幕批注`, `屏幕画板`, `桌面批注`, `随机抽选`, `白板软件`, `点名器`, `形状识别`
+🏷 **关键词**：<br/>
+![屏幕批注](https://img.shields.io/badge/屏幕批注-white)
+![屏幕画板](https://img.shields.io/badge/屏幕画板-white)
+![桌面批注](https://img.shields.io/badge/桌面批注-white)
+![Ink Canvas](https://img.shields.io/badge/Ink_Canvas-white)
+![白板软件](https://img.shields.io/badge/白板软件-white)
+![形状识别](https://img.shields.io/badge/形状识别-white)
 
-💬 **ChenCy 锐评**：某种意义上来说，如果你想要一个纯粹的屏幕画板，IC 可以是你的选择之一，同时它的诞生，也才有了后面 ICA 和 ICC 的诞生。如果要在教室里面使用不是很合适。
+💬 **Dubi906w 锐评**：某种意义上来说，如果你想要一个纯粹的屏幕画板，IC 可以是你的选择之一，同时它的诞生，也才有了后面 ICA 和 ICC 的诞生。如果要在教室里面使用不是很合适。
 
 <table align="center">
 <tr>
@@ -273,9 +279,18 @@ Ink Canvas 画板是一款轻量级画板软件，基于 WPF/C#，其针对希�
 
 Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动查杀、荧光笔、图片插入等功能），并优化了使用体验，使其更适合课堂授课使用。目前暂时停更（可能得等到开发者大一放假了再说）。
 
-🏷 **关键词**：`屏幕批注`, `屏幕画板`, `桌面批注`, `随机抽选`, `白板软件`, `点名器`, `ICA`, `自动收纳`, `荧光笔`, `PPT批注`, `形状识别`
+🏷 **关键词**：<br/>
+![屏幕批注](https://img.shields.io/badge/屏幕批注-white)
+![屏幕画板](https://img.shields.io/badge/屏幕画板-white)
+![桌面批注](https://img.shields.io/badge/桌面批注-white)
+![Ink Canvas](https://img.shields.io/badge/Ink_Canvas-white)
+![白板软件](https://img.shields.io/badge/白板软件-white)
+![形状识别](https://img.shields.io/badge/形状识别-white)
+![自动收纳](https://img.shields.io/badge/自动收纳-white)
+![荧光笔](https://img.shields.io/badge/荧光笔-white)
+![PPT批注](https://img.shields.io/badge/PPT批注-white)
 
-💬 **ChenCy 锐评**：非常推荐，除掉 ICC，是唯一用着比较舒服的屏幕批注软件，自动收纳有点小问题（2024 年 9 月 21 日，希沃白板 5 和希沃系软件的 Popup 弹窗会出 Bug），图片插入还是测试版，不过依旧还是好用！
+💬 **Dubi906w 锐评**：非常推荐，除掉 ICC，是唯一用着比较舒服的屏幕批注软件，自动收纳有点小问题（2024 年 9 月 21 日，希沃白板 5 和希沃系软件的 Popup 弹窗会出 Bug），图片插入还是测试版，不过依旧还是好用！
 
 <table align="center">
 <tr>
@@ -319,7 +334,17 @@ Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动
 
 Ink Canvas Reborn 是 Ink Canvas 画板的重生版，是基于 Ink Canvas 的设计理念和 UI 设计完全重构的一个项目，不基于任何先前项目的代码。相较于原版，ICR 提供了更加流畅高性能的体验、更易用的工具栏优化、以及部分新功能的合入。
 
-💬 **ChenCy 锐评**：又出了一个 Ink Canvas 家族的重制版，不知道这次，他能否经受住时间的考验呢？反正我对此是很看好的。
+🏷 **关键词**：<br/>
+![屏幕批注](https://img.shields.io/badge/屏幕批注-white)
+![屏幕画板](https://img.shields.io/badge/屏幕画板-white)
+![桌面批注](https://img.shields.io/badge/桌面批注-white)
+![白板软件](https://img.shields.io/badge/白板软件-white)
+![形状识别](https://img.shields.io/badge/形状识别-white)
+![荧光笔](https://img.shields.io/badge/荧光笔-white)
+![Ink Canvas](https://img.shields.io/badge/Ink_Canvas-white)
+![PPT批注](https://img.shields.io/badge/PPT批注-white)
+
+💬 **Dubi906w 锐评**：又出了一个 Ink Canvas 家族的重制版，不知道这次，他能否经受住时间的考验呢？反正我对此是很看好的。**（2025 年 1 月 30 日 最新消息，项目移交给另外一位大佬了，期待后续开发）**
 
 <table align="center">
 <tr>
@@ -335,7 +360,7 @@ Ink Canvas Reborn 是 Ink Canvas 画板的重生版，是基于 Ink Canvas 的�
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>开发者</b></td>
-    <td><img src="https://github.com/dubi906w.png" width="20" height="20"/> <a href="https://github.com/dubi906w/">Dubi906w</a></td>
+    <td><img src="https://github.com/sxchojdesu87.png" width="20" height="20"/> <a href="https://github.com/sxchojdesu87/">SxChojDesu87</a></td>
 </tr>
 </table>
 
@@ -371,9 +396,17 @@ Ink Canvas Reborn 是 Ink Canvas 画板的重生版，是基于 Ink Canvas 的�
 
 Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示变得简单，让教学授课变得高效，适用于触摸设备和 PC 端。
 
-🏷 **关键词**：`屏幕批注`, `屏幕画板`, `桌面批注`, `手抖修正`, `多指书写`, `强制置顶`, `桌面画板悬浮窗拦截`, `批注浮窗拦截`
+🏷 **关键词**：<br/>
+![屏幕批注](https://img.shields.io/badge/屏幕批注-white)
+![C++](https://img.shields.io/badge/C++-white)
+![EasyX](https://img.shields.io/badge/EasyX-white)
+![多指书写](https://img.shields.io/badge/多指书写-white)
+![屏幕画板](https://img.shields.io/badge/屏幕画板-white)
+![桌面批注](https://img.shields.io/badge/桌面批注-white)
+![荧光笔](https://img.shields.io/badge/荧光笔-white)
+![PPT批注](https://img.shields.io/badge/PPT批注-white)
 
-💬 **ChenCy 锐评**：用下来总体体验是不错的，自带了屏幕冻结这个好功能，还有桌面画板悬浮窗拦截，以及各种强制置顶，多虚拟桌面 Pin，多显示器适配等，这些功能都很不错，甚至有些都是被 ICC 给借鉴过去了的功能，比较推荐使用。最近出了内测版本，用 **Fluent Design System** 重构了设置页面，非常好看（有需要可以加入他们的 QQ 群了解更多，2024 年 12 月 4 日更新）
+💬 **Dubi906w 锐评**：用下来总体体验是不错的，自带了屏幕冻结这个好功能，还有桌面画板悬浮窗拦截，以及各种强制置顶，多虚拟桌面 Pin，多显示器适配等，这些功能都很不错，甚至有些都是被 ICC 给借鉴过去了的功能，比较推荐使用。最近出了内测版本，用 **Fluent Design System** 重构了设置页面，非常好看（有需要可以加入他们的 QQ 群了解更多，2024 年 12 月 4 日更新）
 
 <table align="center">
 <tr>
@@ -425,13 +458,16 @@ SketchNow 是一款现代 Windows 绘图工具，可让您在屏幕上的任何�
 
 SketchNow 基本上算是 Ink Canvas 的后继者了，虽然明面上和 Ink Canvas 家族没有关系，但实际上底层还是使用的是 WPF 的 InkCanvas 控件。只不过比 IC 家族好太多了（人家用的是 MVVM！）。
 
-~~目前虽然还没有中文支持~~ **（2025年1月9日更新：v1.0.0已经发布，终于支持了了中文）** ，不过开发者是大学生，因此空闲时间也比较多，开发的效率也比较高，最近也比较活跃。据悉，SketchNow 后续版本将提供插件、墨迹分析等高级功能。
+~~目前虽然还没有中文支持~~ **（2025年1月9日更新：v1.0.0已经发布，终于支持了了中文）** ，不过开发者空闲时间比较多，开发的效率也比较高，最近也比较活跃。据悉，SketchNow 后续版本将提供插件、墨迹分析等高级功能。
 
-> 你们大学生👨‍🎓也是被使唤上了好吧🤓☝️
+🏷 **关键词**：<br/>
+![屏幕批注](https://img.shields.io/badge/屏幕批注-white)
+![屏幕画板](https://img.shields.io/badge/屏幕画板-white)
+![桌面批注](https://img.shields.io/badge/桌面批注-white)
+![Ink Canvas](https://img.shields.io/badge/Ink_Canvas-white)
+![白板软件](https://img.shields.io/badge/白板软件-white)
 
-🏷 **关键词**：`屏幕批注`, `屏幕画板`, `桌面批注`
-
-💬 **ChenCy 锐评**：又一个新开的基于 InkCanvas 控件的项目，希望后面能够继续发展吧，争取能够干爆 Ink Canvas，虽然目前功能还不是很多，有一些Bug等待被修复，还没有中文支持，不过前途是一片光明啊。
+💬 **Dubi906w 锐评**：又一个新开的基于 InkCanvas 控件的项目，希望后面能够继续发展吧，争取能够干爆 Ink Canvas，虽然目前功能还不是很多，有一些Bug等待被修复，还没有中文支持，不过前途是一片光明啊。
 
 <table align="center">
 <tr>
@@ -475,7 +511,17 @@ ppInk is a user-friendly on-screen annotation software for Windows, compatible w
 
 源自 gInk 它提供了许多新功能，这些功能自由地从其他应用程序（如 Epic Pen）中汲取灵感，使其更易于使用，功能更强大。ppInk/gInk 的设计秉承了简洁的理念，确保在演示过程中不会分散演示者或观众的注意力。ppInk 允许您选择不同的笔进行绘图，每支笔都有可配置的属性，而不必调整颜色、透明度和笔尖宽度、笔触等单个设置。
 
-💬 **ChenCy 锐评**：这个项目应该算是目前来说，**Windows 平台下，开源桌面批注软件里面最强大的一个了** ，当然缺点也很多，比如 UI 非常丑，其次是墨迹过多会造成卡顿。而且他的 UI 并不适合触摸屏使用，所以我并不推荐在学校的一体机上面使用 ppInk，不过抛开国内教室的特色条件来说，ppInk 作为一个桌面绘图软件，已经完全可用，甚至算够好用了。
+🏷 **关键词**：<br/>
+![屏幕批注](https://img.shields.io/badge/屏幕批注-white)
+![屏幕画板](https://img.shields.io/badge/屏幕画板-white)
+![桌面批注](https://img.shields.io/badge/桌面批注-white)
+![WinForm](https://img.shields.io/badge/WinForm-white)
+![桌面放大镜](https://img.shields.io/badge/桌面放大镜-white)
+![印章功能](https://img.shields.io/badge/印章功能-white)
+![直播](https://img.shields.io/badge/直播-white)
+![OBS支持](https://img.shields.io/badge/OBS支持-white)
+
+💬 **Dubi906w 锐评**：这个项目应该算是目前来说，**Windows 平台下，开源桌面批注软件里面最强大的一个了** ，当然缺点也很多，比如 UI 非常丑，其次是墨迹过多会造成卡顿。而且他的 UI 并不适合触摸屏使用，所以我并不推荐在学校的一体机上面使用 ppInk，不过抛开国内教室的特色条件来说，ppInk 作为一个桌面绘图软件，已经完全可用，甚至算够好用了。
 
 <table align="center">
 <tr>
@@ -516,7 +562,7 @@ ppInk is a user-friendly on-screen annotation software for Windows, compatible w
 
 跨平台且易用的，集笔记，办公，教育等场景于一体的完整墨迹套件。(Coming s∞n)
 
-💬 **ChenCy 锐评**：期待我有生之年能看到 iNKORE Corp 开在新加坡，去当码农。
+💬 **Dubi906w 锐评**：期待我有生之年能看到 iNKORE Corp 开在新加坡，去当码农。
 
 <table align="center">
 <tr>
@@ -557,7 +603,7 @@ ppInk is a user-friendly on-screen annotation software for Windows, compatible w
 
 🏷 **关键词**：`Fluent Design System` `多插件` `多功能套件` `笔记`
 
-💬 **ChenCy 锐评**：总体不如 Ink Canvas 系列，可以尝试一下，UI 设计比较好看，但是有部分功能还未完善，希望有生之年能看见 Inkways Vanilla 出来。
+💬 **Dubi906w 锐评**：总体不如 Ink Canvas 系列，可以尝试一下，UI 设计比较好看，但是有部分功能还未完善，希望有生之年能看见 Inkways Vanilla 出来。
 
 💬 **Aris 锐评**：u1s1 尝鲜可以，但是不建议在学校长期使用，还不如等 Inkways Vanilla。
 
@@ -604,6 +650,20 @@ ppInk is a user-friendly on-screen annotation software for Windows, compatible w
 Ink Canvas Artistry 的优化版本，重写了底层代码，优化了整体 UI 和程序性能，并带来了许多新功能（如鼠标手势，画面冻结，重制版形状绘制系统）。
 
 InkCanvasForClass 是基于 ChangSakura 的 Ink Canvas Artistry 项目二次开发而来。该项目着重于优化原项目的 UI 设计，使其更便于课堂使用，同时也在积极开发新功能，修理原项目的不合理之处。最近开放了 `icc-0610fix` 仓库，修复 InkCanvasForClass 0610 版本的 Bug 并发布 Release。
+
+🏷 **关键词**：<br/>
+![屏幕批注](https://img.shields.io/badge/屏幕批注-white)
+![屏幕画板](https://img.shields.io/badge/屏幕画板-white)
+![桌面批注](https://img.shields.io/badge/桌面批注-white)
+![PPT批注](https://img.shields.io/badge/PPT批注-white)
+![白板软件](https://img.shields.io/badge/白板软件-white)
+![自动收纳](https://img.shields.io/badge/自动收纳-white)
+![边缘手势屏蔽](https://img.shields.io/badge/边缘手势屏蔽-white)
+![Ink Canvas](https://img.shields.io/badge/Ink_Canvas-white)
+
+💬 **Dubi906w 锐评**：那你还是很有生活啊。哪个大佬来修修 icc 的屎山！
+
+🧨 **祝各位 2025 年（蛇年越🐍越多）新年快乐**：快过年了，不要再讨论什么课表软件，icc，希沃破解，电教之类的了。你带你的ClassIsland和Class-Widgets回到家并不能给你带来任何实质性作用，朋友们兜里掏出一大把钱吃喝玩乐，你默默的在家里摆弄你的歌词岛插件，还有啥CI插件，黑板贴二开。亲戚朋友吃饭问你收获了什么，你说我写了个CW的一键替代CI的插件，搞了个破解希沃管家破密码的工具，还给Aiwb交了几个PR，亲戚们懵逼了，你还在心里默默嘲笑他们，笑他们不懂你的CI插件开发，IC二开，也笑他们用个屏幕批注还在用希沃白板自带的屏幕批注，课表还在黑板上手写。你父母的同事都在说自己的子女一年的收获，儿子买了个房，女儿买了个车，姑娘升职加薪了，你的父母默默无言，说我的儿子写了个icc，说是班上的电脑更好用了。
 
 <table align="center">
 <tr>
@@ -655,7 +715,18 @@ InkCanvasForClass 是基于 ChangSakura 的 Ink Canvas Artistry 项目二次开�
 
 ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具，可以在 Windows 屏幕上显示各种信息。本应用的名字灵感源于 iOS 灵动岛（Dynamic Island）功能。可显示当天的课表、当前进行课程的信息，在上下课等重要时间点发出提醒，自选搭配音效、强调特效和语音增强提醒。
 
-💬 **ChenCy 锐评**：非常好用，开学必装，支持多周轮换和临时课表，以及超高的自定义程度，CI 已经是目前最强大的桌面课表软件了，最近还上线了插件系统，可以通过自己开发插件来扩充 CI 的功能，非常推荐！
+🏷 **关键词**：<br/>
+![课程表](https://img.shields.io/badge/课程表-white)
+![HelloWRC](https://img.shields.io/badge/HelloWRC-white)
+![微软草](https://img.shields.io/badge/微软草-white)
+![上下课提醒](https://img.shields.io/badge/上下课提醒-white)
+![插件支持](https://img.shields.io/badge/插件支持-white)
+![单双周支持](https://img.shields.io/badge/单双周支持-white)
+![多行支持](https://img.shields.io/badge/多行支持-white)
+![提醒特效](https://img.shields.io/badge/提醒特效-white)
+![自动化](https://img.shields.io/badge/自动化-white)
+
+💬 **Dubi906w 锐评**：~~**非常好用，由你好微软草开发的课是地，使我开学必装**~~，支持多周轮换和临时课表，以及超高的自定义程度，CI 已经是目前最强大的桌面课表软件了，最近还上线了插件系统，可以通过自己开发插件来扩充 CI 的功能，非常推荐！
 
 <table align="center">
 <tr>
@@ -705,7 +776,16 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 
 用于白板一体机的桌面小部件，享受抬手即用的小黑板、高效的信息展示、便捷的课程管理和多项实用功能，满足班级的各种需求。
 
-💬 **ChenCy 锐评**：还行，如果有小黑板需求可以使用，自带的课程表功能个人感觉有点鸡肋，不过也还算好用的，官网也是完全学到了微软式中文。比较推荐（如果不用 CI 的话）
+🏷 **关键词**：<br/>
+![课程表](https://img.shields.io/badge/课程表-white)
+![黑板贴](https://img.shields.io/badge/黑板贴-white)
+![粽子科技](https://img.shields.io/badge/粽子科技-white)
+![上下课提醒](https://img.shields.io/badge/上下课提醒-white)
+![天气提醒](https://img.shields.io/badge/天气提醒-white)
+![快速黑板](https://img.shields.io/badge/快速黑板-white)
+![启动台](https://img.shields.io/badge/启动台-white)
+
+💬 **Dubi906w 锐评**：还行，如果有小黑板需求可以使用，自带的课程表功能个人感觉有点鸡肋，不过也还算好用的，官网也是完全学到了微软式中文。比较推荐（如果不用 CI 的话）
 
 <table align="center">
 <tr>
@@ -731,6 +811,7 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 
 ![banner](https://github.com/Sticky-attention/Sticky-attention/raw/master/image/banner.jpg)
 
+![MDS](https://img.shields.io/badge/MD2%20UI-003E92)
 [![stars](https://img.shields.io/github/stars/Sticky-attention/Sticky-attention?style=flat&color=red)](https://github.com/Sticky-attention/Sticky-attention/stargazers)
 [![forks](https://img.shields.io/github/forks/Sticky-attention/Sticky-attention?style=flat&color=blue)](https://github.com/Sticky-attention/Sticky-attention/forks)
 [![Watchers](https://img.shields.io/github/watchers/Sticky-attention/Sticky-attention?style=flat&color=green)](https://github.com/Sticky-attention/Sticky-attention/watchers)
@@ -746,6 +827,14 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 </div>
 
 StickyAttention 是一款适用于 Windows 系统教室一体机的作业显示工具，基于 [HelloWRC/StickyHomeworks](https://github.com/HelloWRC/StickyHomeworks/) 开发，可以展示各科作业信息，且支持富文本，按科目分类，导出作业截图等功能。后续将添加更多新内容，敬请期待！
+
+🏷 **关键词**：<br/>
+![作业展示](https://img.shields.io/badge/作业展示-white)
+![作业看板](https://img.shields.io/badge/作业看板-white)
+![桌面小工具](https://img.shields.io/badge/桌面小工具-white)
+![富文本支持](https://img.shields.io/badge/富文本支持-white)
+
+💬 **Dubi906w 锐评**：之前在教室下过一次，不过当时用的时候不知道什么原因，很卡顿，现在不知道怎么样了，不过作为微软草的作业贴的后继者，还是希望这个项目能够持续发展下去吧。目前看来，如果你有 **文本格式的作业展示需求** 的话，最推荐这个，如果你需要展示手写版作业的话，还是用 **[粽子黑板贴](#zongzitek-黑板贴)** 吧！
 
 <table align="center">
 <tr>
@@ -771,7 +860,8 @@ StickyAttention 是一款适用于 Windows 系统教室一体机的作业显示�
 
 ![banner](https://github.com/ProjectCampus-CH/exam-showboard-next/raw/master/.Screenshots/InfoPage.png)
 
-![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
+![Hot!](https://img.shields.io/badge/%E9%9D%9E%E5%B8%B8%E6%8E%A8%E8%8D%90-orange)
+![MDS](https://img.shields.io/badge/MD2%20UI-003E92)
 [![stars](https://img.shields.io/github/stars/ExamAware/dsz-exam-showboard?style=flat&color=red)](https://github.com/ExamAware/dsz-exam-showboard/stargazers)
 [![forks](https://img.shields.io/github/forks/ExamAware/dsz-exam-showboard?style=flat&color=blue)](https://github.com/ExamAware/dsz-exam-showboard/forks)
 [![Watchers](https://img.shields.io/github/watchers/ExamAware/dsz-exam-showboard?style=flat&color=green)](https://github.com/ExamAware/dsz-exam-showboard/watchers)
@@ -790,6 +880,15 @@ StickyAttention 是一款适用于 Windows 系统教室一体机的作业显示�
 DSZ 考试看板。**一款显示当前时间与考试详细信息的看板类软件。**
 
 **考试看板** 皆在提供一个简单明了的 UI 界面用于展示考试信息：可以展示考试名称、当前时间、当前科目名称、开始时间、结束时间、考试状态、考试结束前 15 分钟预警，右面可以展示所有考试列表及开始时间、结束时间和状态，后面会支持集控。
+
+🏷 **关键词**：<br/>
+![考试看板](https://img.shields.io/badge/考试看板-white)
+![考试倒计时](https://img.shields.io/badge/考试倒计时-white)
+![Electron](https://img.shields.io/badge/Electron-white)
+![多平台支持](https://img.shields.io/badge/多平台支持-white)
+![移动端支持](https://img.shields.io/badge/移动端支持-white)
+
+💬 **Dubi906w 锐评**：应该是唯一一个全平台都支持的软件？支持安卓、iOS、Windows、macOS 和 Linux 设备（不过说实话，到底是谁会在 iOS 设备上面用考试看板啊！）至于好不好用，我只能说我用过，还行，但是我们学校没有 **考试看板** 的使用需求。
 
 <table align="center">
 <tr>
@@ -840,6 +939,18 @@ ExtraIsland 是一个 ClassIsland 插件，为 ClassIsland 提供了一些小小
 
 **更高级的倒计日组件** 支持倒计日精确到秒，带有切换动画，前后文案可配置，也支持从 NTP 获取时间。
 
+🏷 **关键词**：<br/>
+![ClassIsland](https://img.shields.io/badge/ClassIsland-white)
+![CI插件](https://img.shields.io/badge/CI插件-white)
+![微软草插件](https://img.shields.io/badge/微软草插件-white)
+![值日生](https://img.shields.io/badge/值日生-white)
+![动画时钟](https://img.shields.io/badge/动画时钟-white)
+![倒计日](https://img.shields.io/badge/倒计日-white)
+![每日古诗](https://img.shields.io/badge/每日古诗-white)
+![一言插件](https://img.shields.io/badge/一言插件-white)
+
+💬 **Dubi906w 锐评**：目前 ClassIsland 功能最全的插件，非它莫属。
+
 <table align="center">
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
@@ -870,6 +981,7 @@ ExtraIsland 是一个 ClassIsland 插件，为 ClassIsland 提供了一些小小
 ![banner](https://github.com/Class-Widgets/Class-Widgets/blob/main/img/Banner.png?raw=true)
 
 ![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
+![FDS](https://img.shields.io/badge/Fluent%20UI-003E92)
 [![stars](https://img.shields.io/github/stars/RinLit-233-shiroko/Class-Widgets?style=flat&color=red)](https://github.com/RinLit-233-shiroko/Class-Widgets/stargazers)
 [![forks](https://img.shields.io/github/forks/RinLit-233-shiroko/Class-Widgets?style=flat&color=blue)](https://github.com/RinLit-233-shiroko/Class-Widgets/forks)
 [![Watchers](https://img.shields.io/github/watchers/RinLit-233-shiroko/Class-Widgets?style=flat&color=green)](https://github.com/RinLit-233-shiroko/Class-Widgets/watchers)
@@ -885,9 +997,23 @@ ExtraIsland 是一个 ClassIsland 插件，为 ClassIsland 提供了一些小小
 
 </div>
 
-Class Widgets 是一款能够显示当前课程的桌面组件应用程序。其提供了易用课程表编辑和美观的桌面组件。
+`Class Widgets` 是一款能够显示实时教学进度的桌面组件应用。其提供了美观的桌面组件和高度的自定义选项，助力于思考和探索未来中科技与教学的结合。
 
-💬 **ChenCy 锐评**：看到 UI 上有能和 CI 抗衡的也是比较欣慰了，不过目前来说还需要更多优化，部分功能还不是太完善，还有作为一个Qt写的软件，总感觉用起来有点小别扭（应该是Qt的特性）。不过开发与更新速度也挺快，比较期待，但是目前来说我肯定是不会正式在教学环境使用的。
+在 `Class Widgets` 中，提供了基于 Python 的插件系统和“插件广场”；你可以在“插件广场”中安装您需要的插件。以及彰显个性的主题系统，让你搭建出独一无二的 `Class Widgets`。
+
+`Class Widgets` 提供了强大的通知系统，能够在上下课等时间点推出提醒；此外，插件也可调用通知接口，使其更加实用。`Class Widgets` 致力于提供高度的自定义选项，使每位用户能构建出独一无二的桌面课表。`Class Widgets` 采用了由微软推出的 Fluent Design 设计语言，使界面更加简洁、舒适和流畅，且使用了 QFluentWidgets UI库。
+
+🏷 **关键词**：<br/>
+![桌面小组件](https://img.shields.io/badge/桌面小组件-white)
+![课程浮窗](https://img.shields.io/badge/课程浮窗-white)
+![RinLit](https://img.shields.io/badge/RinLit-white)
+![CICW一家亲](https://img.shields.io/badge/CICW一家亲-white)
+![PyQt](https://img.shields.io/badge/PyQt-white)
+![多平台支持](https://img.shields.io/badge/多平台支持-white)
+![上下课提醒](https://img.shields.io/badge/上下课提醒-white)
+![单双周支持](https://img.shields.io/badge/单双周支持-white)
+
+💬 **Dubi906w 锐评**：**~~非常好 RinLit 小南梁，让我爱上 课堂组件。~~** 看到 UI 上有能和 CI 抗衡的也是比较欣慰了，不过目前来说还需要更多优化，部分功能还不是太完善，还有作为一个Qt写的软件，总感觉用起来有点小别扭（应该是Qt的特性）。不过开发与更新速度也挺快，比较期待，~~但是目前来说我肯定是不会正式在教学环境使用的~~**（真心动了，等软件显示缩放功能出来了马上换，不换早晚被撅 😋）**。
 
 <table align="center">
 <tr>
@@ -933,6 +1059,15 @@ Class Widgets 是一款能够显示当前课程的桌面组件应用程序。其
 
 Education Clock 是一个实用的班级信息看板。是一款适合学校使用的桌面时钟软件，该软件具有：倒计时 、桌面时钟、课程表、天气预报、自动新闻联播、定时关机、消息通知栏、随机点名等功能。
 
+🏷 **关键词**：<br/>
+![桌面小组件](https://img.shields.io/badge/桌面小组件-white)
+![课程表](https://img.shields.io/badge/课程表-white)
+![倒计日](https://img.shields.io/badge/倒计日-white)
+![天气预报](https://img.shields.io/badge/天气预报-white)
+![PyQt](https://img.shields.io/badge/PyQt-white)
+![公告板](https://img.shields.io/badge/公告板-white)
+![桌面时钟软件](https://img.shields.io/badge/桌面时钟软件-white)
+
 <table align="center">
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
@@ -976,7 +1111,14 @@ Education Clock 是一个实用的班级信息看板。是一款适合学校使�
 
 ClassBoard 是一款高自由度的，用于显示教学信息的壁纸软件，功能包括高考倒计时、公告栏、以及能够提示当前课程的课程表。ClassBoard 以兼容性为核心（支持希沃老设备），兼顾自由性和可用性（自定义程度高，但是能够做到开箱即用），力求成为一款易用且好用的一体机壁纸软件。
 
-💬 **ChenCy 锐评**：很小众的项目，和 `clansty/ClassTools` 有点类似。
+🏷 **关键词**：<br/>
+![桌面小组件](https://img.shields.io/badge/桌面小组件-white)
+![课程表](https://img.shields.io/badge/课程表-white)
+![倒计日](https://img.shields.io/badge/倒计日-white)
+![作业发布](https://img.shields.io/badge/作业发布-white)
+![动态壁纸](https://img.shields.io/badge/动态壁纸-white)
+
+💬 **Dubi906w 锐评**：很小众的项目，和 `clansty/ClassTools` 有点类似。
 
 <table align="center">
 <tr>
@@ -1002,6 +1144,7 @@ ClassBoard 是一款高自由度的，用于显示教学信息的壁纸软件，
 
 ![banner](https://github.com/user-attachments/assets/5a7b2281-339a-47a9-b926-8f33936255d4)
 
+![MDS](https://img.shields.io/badge/MD3%20UI-003E92)
 [![stars](https://img.shields.io/github/stars/SRInternet-Studio/Class_Hot_Search?style=flat&color=red)](https://github.com/SRInternet-Studio/Class_Hot_Search/stargazers)
 [![forks](https://img.shields.io/github/forks/SRInternet-Studio/Class_Hot_Search?style=flat&color=blue)](https://github.com/SRInternet-Studio/Class_Hot_Search/forks)
 [![Watchers](https://img.shields.io/github/watchers/SRInternet-Studio/Class_Hot_Search?style=flat&color=green)](https://github.com/SRInternet-Studio/Class_Hot_Search/watchers)
@@ -1014,7 +1157,6 @@ ClassBoard 是一款高自由度的，用于显示教学信息的壁纸软件，
 [![GitHub Top Language](https://img.shields.io/github/languages/top/SRInternet-Studio/Class_Hot_Search)](https://github.com/SRInternet-Studio/Class_Hot_Search)
 ![GitHub License](https://img.shields.io/github/license/SRInternet-Studio/Class_Hot_Search?color=red)
 [![加入 QQ 群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20983497968-white?style=flat&logo=qq)](https://qm.qq.com/q/f3QGDkdp6M)
-
 
 </div>
 
@@ -1472,7 +1614,7 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
 
 定制启动器，旨在让大多数软件的启动方式更加绚丽多彩。为 **希沃白板** 系列量身定做，其他程序也可以使用！🥳
 
-💬 **ChenCy 锐评**：如标题所述，如果只是想让希沃白板的 Splash Screen 变得高端大气上档次一些的话，我觉得还是不错的，部分小问题无伤大雅。
+💬 **Dubi906w 锐评**：如标题所述，如果只是想让希沃白板的 Splash Screen 变得高端大气上档次一些的话，我觉得还是不错的，部分小问题无伤大雅。
 
 <table align="center">
 <tr>
