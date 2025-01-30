@@ -1163,6 +1163,12 @@ ClassBoard 是一款高自由度的，用于显示教学信息的壁纸软件，
 
 **班级热搜排行榜** 是一款适用于班级多媒体大屏等场景，展示不同事件热度并支持投票的互动小工具。通过创新的热点的形式记录事件，以及投票的方式来提升不同事件的优先级，班级热搜能活跃氛围，更增进同学情谊。通过高自由度和流畅的交互设计以及 Material Design 3 先进的设计和动画风格，该软件对纯触摸交互也具有良好的兼容性。
 
+🏷 **关键词**：<br/>
+![桌面小组件](https://img.shields.io/badge/桌面小组件-white)
+![班级热搜](https://img.shields.io/badge/班级热搜-white)
+![热搜排行榜](https://img.shields.io/badge/热搜排行榜-white)
+![投票工具](https://img.shields.io/badge/投票工具-white)
+
 <table align="center">
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
@@ -1225,6 +1231,17 @@ ClassBoard 是一款高自由度的，用于显示教学信息的壁纸软件，
 
 - 📆 **灵活调休安排：** 支持按日期调休，适应各种教学计划变动。
 
+🏷 **关键词**：<br/>
+![桌面小组件](https://img.shields.io/badge/桌面小组件-white)
+![课程表](https://img.shields.io/badge/课程表-white)
+![倒计日](https://img.shields.io/badge/倒计日-white)
+![投票工具](https://img.shields.io/badge/投票工具-white)
+![侧边栏](https://img.shields.io/badge/侧边栏-white)
+![PPT批注](https://img.shields.io/badge/PPT批注-white)
+![自动任务](https://img.shields.io/badge/自动任务-white)
+![学科文件夹](https://img.shields.io/badge/学科文件夹-white)
+![Electron](https://img.shields.io/badge/Electron-white)
+
 <table align="center">
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
@@ -1261,6 +1278,17 @@ ClassBoard 是一款高自由度的，用于显示教学信息的壁纸软件，
 
 极序新版本添加了 `桌面课程表` 功能。课程设置过程很简单和直观，支持课程导入导出为xls表格文档，这样可以很快进行课表切换，支持垂直和水平两种桌面组件排列方式， **和 `ClassIsland` 等软件区别之处，在于其课程表设置页面更加简单直观，但是缺少单双周轮换等功能。**
 
+🏷 **关键词**：<br/>
+![桌面小组件](https://img.shields.io/badge/桌面小组件-white)
+![课程表](https://img.shields.io/badge/课程表-white)
+![倒计日](https://img.shields.io/badge/倒计日-white)
+![桌面笔记](https://img.shields.io/badge/桌面笔记-white)
+![桌面待办](https://img.shields.io/badge/桌面待办-white)
+![每日一句](https://img.shields.io/badge/每日一句-white)
+![番茄时钟](https://img.shields.io/badge/番茄时钟-white)
+![桌面便签](https://img.shields.io/badge/桌面便签-white)
+![周期倒数日](https://img.shields.io/badge/周期倒数日-white)
+
 <table align="center">
 <tr>
     <td><img src="https://norkm.com/web/favicon.ico" width="18" height="18"></td>
@@ -1285,7 +1313,6 @@ ClassBoard 是一款高自由度的，用于显示教学信息的壁纸软件，
 
 ![banner](./banner/timerin-banner.png)
 
-
 ![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d)
 ![Price](https://img.shields.io/badge/price-free-green)
 [![加入 QQ 群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20983497968-white?style=flat&logo=qq)](https://qm.qq.com/q/f3QGDkdp6M)
@@ -1293,6 +1320,13 @@ ClassBoard 是一款高自由度的，用于显示教学信息的壁纸软件，
 </div>
 
 TimerIn 是由 思锐工作室 开发的一款 桌面时钟小工具软件。支持全屏/横幅提醒，提供了多样的提醒方式，用途广泛；应用会在桌面上显示一个日程窗口，通过多样的规则，在软件内设置日程代办，并以丰富的形式，在预定的时间，有效提醒自己。还可添加个性化的小组件，与桌面完美融合。
+
+🏷 **关键词**：<br/>
+![桌面小组件](https://img.shields.io/badge/桌面小组件-white)
+![倒计日](https://img.shields.io/badge/倒计日-white)
+![全屏提醒](https://img.shields.io/badge/全屏提醒-white)
+![放学提醒](https://img.shields.io/badge/放学提醒-white)
+![日程待办](https://img.shields.io/badge/日程待办-white)
 
 <table align="center">
 <tr>
