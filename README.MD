@@ -394,13 +394,13 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 <a href="https://www.123pan.com/s/duk9-n4dAd.html">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./images/download/123yunpan-dark.svg">
-      <img alt="github" src="./images/download/123yunpan-light.svg" height="48">
+      <img alt="123pan" src="./images/download/123yunpan-light.svg" height="48">
     </picture>
 </a>
 <a href="https://t.me/s/awesomeiwb?q=%23Inkeys">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./images/download/telegram-dark.svg">
-      <img alt="github" src="./images/download/telegram-light.svg" height="48">
+      <img alt="telegram" src="./images/download/telegram-light.svg" height="48">
     </picture>
 </a>
 
