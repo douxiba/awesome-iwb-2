@@ -379,10 +379,17 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 
 💬 **Dubi906w 锐评**：用下来总体体验是不错的，自带了屏幕冻结这个好功能，还有桌面画板悬浮窗拦截，以及各种强制置顶，多虚拟桌面 Pin，多显示器适配等，这些功能都很不错，甚至有些都是被 ICC 给借鉴过去了的功能，比较推荐使用。最近出了内测版本，用 **Fluent Design System** 重构了设置页面，非常好看（有需要可以加入他们的 QQ 群了解更多，2024 年 12 月 4 日更新）
 
+⬇️ **下载方式：** `20250128a`（发布时间 2025 年 1 月 29 日）<br>
 <a href="https://github.com/Alan-CRL/Inkeys/releases/tag/20250128a">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./images/download/github-dark.svg">
       <img alt="github" src="./images/download/github-light.svg" height="48">
+    </picture>
+</a>
+<a href="https://www.123pan.com/s/duk9-n4dAd.html">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./images/download/123yunpan-dark.svg">
+      <img alt="github" src="./images/download/123yunpan-light.svg" height="48">
     </picture>
 </a>
 
@@ -391,6 +398,11 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
     <td><img src="images/bilibili-icon.svg" width="18" height="18"></td>
     <td><b>B站宣传视频</b></td>
     <td><a href="https://www.bilibili.com/video/BV1Tz421z72e/">BV1Tz421z72e</a></td>
+</tr>
+<tr>
+    <td><img src="https://raw.githubusercontent.com/Alan-CRL/Inkeys/main/GithubRes/logo.png" width="18" height="18"></td>
+    <td><b>官网</b></td>
+    <td><a href="https://www.inkeys.top/">https://www.inkeys.top/</a></td>
 </tr>
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
