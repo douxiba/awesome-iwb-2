@@ -6,7 +6,7 @@
 
 # Awesome-Iwb
 
-适用于希沃、鸿合、京东方、东方中原等品牌的教学一体机、教学触摸屏和红外教学白板的 Windows 平台实用软件推荐合集。**为广大电教倾情撰写。**
+适用于教学一体机、教学触摸屏和红外教学白板的 Windows 平台实用软件推荐合集。**为广大电教倾情撰写。**
 
 **🌟 每一个好的项目都值得被更多的人发现 🌟**
 
@@ -33,36 +33,6 @@
 
 > [!IMPORTANT]
 > Awesome-Iwb-Web 正在开发，期待您的贡献。Aiwb 网页版相较于本仓库来说，为每个软件提供了更详细的信息，同时提供了软件短评、软件长评、插件镜像源、配置文件转换、快速下载等高级功能，还有更直观的 UI 设计。
-
-## 🙏 贡献者和特别感谢
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/dubi906w"><img src="https://avatars.githubusercontent.com/u/185512682?v=4?s=100" width="100px;" alt="Dubi906w"/><br /><sub><b>Dubi906w</b></sub></a><br /><a href="#content-dubi906w" title="Content">🖋</a> <a href="#data-dubi906w" title="Data">🔣</a> <a href="#doc-dubi906w" title="Documentation">📖</a> <a href="#ideas-dubi906w" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-dubi906w" title="Maintenance">🚧</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://lipoly.ink"><img src="https://avatars.githubusercontent.com/u/110595296?v=4?s=100" width="100px;" alt="LiPolymer"/><br /><sub><b>LiPolymer</b></sub></a><br /><a href="#content-LiPolymer" title="Content">🖋</a> <a href="#data-LiPolymer" title="Data">🔣</a> <a href="#doc-LiPolymer" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/unDefFtr"><img src="https://avatars.githubusercontent.com/u/83688818?v=4?s=100" width="100px;" alt="谭麒峰"/><br /><sub><b>谭麒峰</b></sub></a><br /><a href="#content-unDefFtr" title="Content">🖋</a> <a href="#data-unDefFtr" title="Data">🔣</a> <a href="#doc-unDefFtr" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Aris-Offline"><img src="https://avatars.githubusercontent.com/u/65645068?v=4?s=100" width="100px;" alt="Aris"/><br /><sub><b>Aris</b></sub></a><br /><a href="#content-Aris-Offline" title="Content">🖋</a> <a href="#data-Aris-Offline" title="Data">🔣</a> <a href="#doc-Aris-Offline" title="Documentation">📖</a> <a href="#maintenance-Aris-Offline" title="Maintenance">🚧</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://blog.typed-sigterm.me/"><img src="https://avatars.githubusercontent.com/u/145281501?v=4?s=100" width="100px;" alt="Typed SIGTERM"/><br /><sub><b>Typed SIGTERM</b></sub></a><br /><a href="#content-typed-sigterm" title="Content">🖋</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Jursin"><img src="https://avatars.githubusercontent.com/u/127487914?v=4?s=100" width="100px;" alt="Jursin"/><br /><sub><b>Jursin</b></sub></a><br /><a href="#doc-Jursin" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.rzly.net"><img src="https://avatars.githubusercontent.com/u/60139353?v=4?s=100" width="100px;" alt="IUU6"/><br /><sub><b>IUU6</b></sub></a><br /><a href="#content-iuu6" title="Content">🖋</a> <a href="#doc-iuu6" title="Documentation">📖</a></td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/DryIce-cc"><img src="https://avatars.githubusercontent.com/u/165131008?v=4?s=100" width="100px;" alt="干冰DryIce"/><br /><sub><b>干冰DryIce</b></sub></a><br /><a href="#doc-DryIce-cc" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/alovelydoge"><img src="https://avatars.githubusercontent.com/u/156295679?v=4?s=100" width="100px;" alt="alovelydoge"/><br /><sub><b>alovelydoge</b></sub></a><br /><a href="#doc-alovelydoge" title="Documentation">📖</a> <a href="#bug-alovelydoge" title="Bug reports">🐛</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-以及一切帮助我们完善资料和文档的贡献者们。同时还得感谢所有 Awesome-Iwb 中列出的开发者们，正是你们，为教学一体机的软件生态做出了巨大贡献。
 
 ## 👂 提醒
 
@@ -408,6 +378,13 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 ![PPT批注](https://img.shields.io/badge/PPT批注-white)
 
 💬 **Dubi906w 锐评**：用下来总体体验是不错的，自带了屏幕冻结这个好功能，还有桌面画板悬浮窗拦截，以及各种强制置顶，多虚拟桌面 Pin，多显示器适配等，这些功能都很不错，甚至有些都是被 ICC 给借鉴过去了的功能，比较推荐使用。最近出了内测版本，用 **Fluent Design System** 重构了设置页面，非常好看（有需要可以加入他们的 QQ 群了解更多，2024 年 12 月 4 日更新）
+
+<a href="https://github.com/Alan-CRL/Inkeys/releases/tag/20250128a">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./images/download/github-dark.svg">
+      <img alt="github" src="./images/download/github-light.svg" height="48">
+    </picture>
+</a>
 
 <table align="center">
 <tr>
@@ -1368,6 +1345,14 @@ TimerIn 是由 思锐工作室 开发的一款 桌面时钟小工具软件。支
 
 CountBoard 是一个基于 Tkinter 开源的桌面日程倒计时应用。支持亚克力和毛玻璃 Aero 效果，支持定时提醒和间隔提醒，也支持将计时窗口嵌入到桌面。
 
+🏷 **关键词**：<br/>
+![桌面小组件](https://img.shields.io/badge/桌面小组件-white)
+![倒计日](https://img.shields.io/badge/倒计日-white)
+![定时提醒](https://img.shields.io/badge/定时提醒-white)
+![间隔提醒](https://img.shields.io/badge/间隔提醒-white)
+![Python](https://img.shields.io/badge/Python-white)
+![Tkinter](https://img.shields.io/badge/Tkinter-white)
+
 <table align="center">
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
@@ -1405,6 +1390,10 @@ CountBoard 是一个基于 Tkinter 开源的桌面日程倒计时应用。支持
 > 该项目已经停止更新，而且知名的课表软件 [`ClassIsland`](#classisland) 的开发就是被该项目所激励的，该项目不建议使用。
 
 一个桌面课表软件。根据当日星期几显示配置文件中对应的课表，支持分隔符来规划课表内容。
+
+🏷 **关键词**：<br/>
+![桌面课程表](https://img.shields.io/badge/桌面小组件-white)
+![ClassIsland](https://img.shields.io/badge/ClassIsland-white)
 
 <table align="center">
 <tr>
@@ -1445,10 +1434,16 @@ CountBoard 是一个基于 Tkinter 开源的桌面日程倒计时应用。支持
 
 </div>
 
-> 该项目已经停止更新。
+> **该项目已经停止更新。** 开发者正在开发 [V2](https://github.com/EnderWolf006/ElectronClassSchedule/tree/ECS2.0) 版本，如有需要可前去插眼观望。Awesome-Iwb 会等到 [V2](https://github.com/EnderWolf006/ElectronClassSchedule/tree/ECS2.0) 版本发展到一定程度后添加进来。
 
 ElectronClassSchedule 具有显示当天课表，当前星期，天数倒计时，下课/上课倒计时等功能。支持动态调整课表，支持多周(最多四周)课表轮换，窗口置顶且可穿透。<br/>
 **软件由一位高三牲制作，含有大量屎山代码，望大家海涵。**
+
+🏷 **关键词**：<br/>
+![桌面课程表](https://img.shields.io/badge/桌面小组件-white)
+![课程表](https://img.shields.io/badge/课程表-white)
+![单双周轮换](https://img.shields.io/badge/单双周轮换-white)
+![Electron](https://img.shields.io/badge/Electron-white)
 
 <table align="center">
 <tr>
@@ -1470,6 +1465,8 @@ ElectronClassSchedule 具有显示当天课表，当前星期，天数倒计时�
 
 ### ClassTools
 
+![banner](https://github.com/clansty/ClassTools/raw/main/introduction/wallpaper.png)
+
 [![stars](https://img.shields.io/github/stars/clansty/ClassTools?style=flat&color=red)](https://github.com/clansty/ClassTools/stargazers)
 [![forks](https://img.shields.io/github/forks/clansty/ClassTools?style=flat&color=blue)](https://github.com/clansty/ClassTools/forks)
 [![Watchers](https://img.shields.io/github/watchers/clansty/ClassTools?style=flat&color=green)](https://github.com/clansty/ClassTools/watchers)
@@ -1487,6 +1484,15 @@ ElectronClassSchedule 具有显示当天课表，当前星期，天数倒计时�
 > 该项目已经停止更新。
 
 这是一个用在班级电脑上面的教室系统🎉，以动态壁纸方式呈现高考倒计时、作业、课程表、值日生等看板，并提供简单易用的设置界面。
+
+🏷 **关键词**：<br/>
+![动态壁纸](https://img.shields.io/badge/动态壁纸-white)
+![桌面课程表](https://img.shields.io/badge/桌面课程表-white)
+![天气预报](https://img.shields.io/badge/天气预报-white)
+![作业看板](https://img.shields.io/badge/作业看板-white)
+![一言](https://img.shields.io/badge/一言-white)
+![每日金句](https://img.shields.io/badge/每日金句-white)
+![Electron](https://img.shields.io/badge/Electron-white)
 
 <table align="center">
 <tr>
@@ -2133,6 +2139,36 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
     <td><img src="https://github.com/cjhdevact.png" width="20" height="20"/> <a href="https://github.com/cjhdevact/">CJH</a></td>
 </tr>
 </table>
+
+## 🙏 贡献者和特别感谢
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/dubi906w"><img src="https://avatars.githubusercontent.com/u/185512682?v=4?s=100" width="100px;" alt="Dubi906w"/><br /><sub><b>Dubi906w</b></sub></a><br /><a href="#content-dubi906w" title="Content">🖋</a> <a href="#data-dubi906w" title="Data">🔣</a> <a href="#doc-dubi906w" title="Documentation">📖</a> <a href="#ideas-dubi906w" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-dubi906w" title="Maintenance">🚧</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://lipoly.ink"><img src="https://avatars.githubusercontent.com/u/110595296?v=4?s=100" width="100px;" alt="LiPolymer"/><br /><sub><b>LiPolymer</b></sub></a><br /><a href="#content-LiPolymer" title="Content">🖋</a> <a href="#data-LiPolymer" title="Data">🔣</a> <a href="#doc-LiPolymer" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/unDefFtr"><img src="https://avatars.githubusercontent.com/u/83688818?v=4?s=100" width="100px;" alt="谭麒峰"/><br /><sub><b>谭麒峰</b></sub></a><br /><a href="#content-unDefFtr" title="Content">🖋</a> <a href="#data-unDefFtr" title="Data">🔣</a> <a href="#doc-unDefFtr" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Aris-Offline"><img src="https://avatars.githubusercontent.com/u/65645068?v=4?s=100" width="100px;" alt="Aris"/><br /><sub><b>Aris</b></sub></a><br /><a href="#content-Aris-Offline" title="Content">🖋</a> <a href="#data-Aris-Offline" title="Data">🔣</a> <a href="#doc-Aris-Offline" title="Documentation">📖</a> <a href="#maintenance-Aris-Offline" title="Maintenance">🚧</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://blog.typed-sigterm.me/"><img src="https://avatars.githubusercontent.com/u/145281501?v=4?s=100" width="100px;" alt="Typed SIGTERM"/><br /><sub><b>Typed SIGTERM</b></sub></a><br /><a href="#content-typed-sigterm" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Jursin"><img src="https://avatars.githubusercontent.com/u/127487914?v=4?s=100" width="100px;" alt="Jursin"/><br /><sub><b>Jursin</b></sub></a><br /><a href="#doc-Jursin" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.rzly.net"><img src="https://avatars.githubusercontent.com/u/60139353?v=4?s=100" width="100px;" alt="IUU6"/><br /><sub><b>IUU6</b></sub></a><br /><a href="#content-iuu6" title="Content">🖋</a> <a href="#doc-iuu6" title="Documentation">📖</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/DryIce-cc"><img src="https://avatars.githubusercontent.com/u/165131008?v=4?s=100" width="100px;" alt="干冰DryIce"/><br /><sub><b>干冰DryIce</b></sub></a><br /><a href="#doc-DryIce-cc" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/alovelydoge"><img src="https://avatars.githubusercontent.com/u/156295679?v=4?s=100" width="100px;" alt="alovelydoge"/><br /><sub><b>alovelydoge</b></sub></a><br /><a href="#doc-alovelydoge" title="Documentation">📖</a> <a href="#bug-alovelydoge" title="Bug reports">🐛</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+以及一切帮助我们完善资料和文档的贡献者们。同时还得感谢所有 Awesome-Iwb 中列出的开发者们，正是你们，为教学一体机的软件生态做出了巨大贡献。
 
 ## 🌟 Stars 历史图表
 
