@@ -147,7 +147,7 @@
 | [seewo_jailbreak](https://github.com/CatMe0w/seewo_jailbreak/) ![GitHub Last Commit](https://img.shields.io/github/last-commit/CatMe0w/seewo_jailbreak?label=updated) | <img src="https://github.com/CatMe0w.png" width="20" height="20"/> `CatMe0w` |
 | [SeewoMonitorSystem](https://github.com/DengHanxu/SeewoMonitorSystem/) ![GitHub Last Commit](https://img.shields.io/github/last-commit/DengHanxu/SeewoMonitorSystem?label=updated) | <img src="https://github.com/DengHanxu.png" width="20" height="20"/> `DengHanxu` |
 | [BanSeewo](https://github.com/DengHanxu/BanSeewo/) ![GitHub Last Commit](https://img.shields.io/github/last-commit/DengHanxu/BanSeewo?label=updated) | <img src="https://github.com/DengHanxu.png" width="20" height="20"/> `DengHanxu` |
-| [希沃管家密码V2破解(seewoaprt)](https://github.com/gohj99/seewoaprt/) ![GitHub Last Commit](https://img.shields.io/github/last-commit/gohj99/seewoaprt?label=updated) | <img src="https://github.com/gohj99.png" width="20" height="20"/> `gohj99` |
+| [希沃管家密码 V2 破解(seewoaprt)](https://github.com/gohj99/seewoaprt/) ![GitHub Last Commit](https://img.shields.io/github/last-commit/gohj99/seewoaprt?label=updated) | <img src="https://github.com/gohj99.png" width="20" height="20"/> `gohj99` |
 | [Seewo-Activation-Code-Calculator](https://github.com/Farbitrarily/Seewo-Activation-Code-Calculator/) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Farbitrarily/Seewo-Activation-Code-Calculator?label=updated) | <img src="https://github.com/Farbitrarily.png" width="20" height="20"/> `Farbitrarily` |
 
 > 该类别下的项目不会在 Awesome-Iwb 中展示，点击名称中的超链接可直接跳转到对应的 Github 仓库地址。
@@ -459,7 +459,7 @@ SketchNow 是一款现代 Windows 绘图工具，可让您在屏幕上的任何�
 
 SketchNow 基本上算是 Ink Canvas 的后继者了，虽然明面上和 Ink Canvas 家族没有关系，但实际上底层还是使用的是 WPF 的 InkCanvas 控件。只不过比 IC 家族好太多了（人家用的是 MVVM！）。
 
-~~目前虽然还没有中文支持~~ **（2025年1月9日更新：v1.0.0已经发布，终于支持了了中文）** ，不过开发者空闲时间比较多，开发的效率也比较高，最近也比较活跃。据悉，SketchNow 后续版本将提供插件、墨迹分析等高级功能。
+~~目前虽然还没有中文支持~~ **（2025 年 1 月 9 日更新：v1.0.0 已经发布，终于支持了了中文）** ，不过开发者空闲时间比较多，开发的效率也比较高，最近也比较活跃。据悉，SketchNow 后续版本将提供插件、墨迹分析等高级功能。
 
 🏷 **关键词**：<br/>
 ![屏幕批注](https://img.shields.io/badge/屏幕批注-white)
@@ -468,7 +468,7 @@ SketchNow 基本上算是 Ink Canvas 的后继者了，虽然明面上和 Ink Ca
 ![Ink Canvas](https://img.shields.io/badge/Ink_Canvas-white)
 ![白板软件](https://img.shields.io/badge/白板软件-white)
 
-💬 **Dubi906w 锐评**：又一个新开的基于 InkCanvas 控件的项目，希望后面能够继续发展吧，争取能够干爆 Ink Canvas，虽然目前功能还不是很多，有一些Bug等待被修复，但前途是一片光明啊。
+💬 **Dubi906w 锐评**：又一个新开的基于 InkCanvas 控件的项目，希望后面能够继续发展吧，争取能够干爆 Ink Canvas，虽然目前功能还不是很多，有一些 Bug 等待被修复，但前途是一片光明啊。
 
 <table align="center">
 <tr>
@@ -664,7 +664,7 @@ InkCanvasForClass 是基于 ChangSakura 的 Ink Canvas Artistry 项目二次开�
 
 💬 **Dubi906w 锐评**：那你还是很有生活啊。哪个大佬来修修 icc 的屎山！
 
-🧨 **祝各位 2025 年（蛇年越🐍越多）新年快乐**：快过年了，不要再讨论什么课表软件，icc，希沃破解，电教之类的了。你带你的ClassIsland和Class-Widgets回到家并不能给你带来任何实质性作用，朋友们兜里掏出一大把钱吃喝玩乐，你默默的在家里摆弄你的歌词岛插件，还有啥CI插件，黑板贴二开。亲戚朋友吃饭问你收获了什么，你说我写了个CW的一键替代CI的插件，搞了个破解希沃管家破密码的工具，还给Aiwb交了几个PR，亲戚们懵逼了，你还在心里默默嘲笑他们，笑他们不懂你的CI插件开发，IC二开，也笑他们用个屏幕批注还在用希沃白板自带的屏幕批注，课表还在黑板上手写。你父母的同事都在说自己的子女一年的收获，儿子买了个房，女儿买了个车，姑娘升职加薪了，你的父母默默无言，说我的儿子写了个icc，说是班上的电脑更好用了。
+🧨 **祝各位 2025 年（蛇年越🐍越多）新年快乐**：快过年了，不要再讨论什么课表软件，icc，希沃破解，电教之类的了。你带你的 ClassIsland 和 Class-Widgets 回到家并不能给你带来任何实质性作用，朋友们兜里掏出一大把钱吃喝玩乐，你默默的在家里摆弄你的歌词岛插件，还有啥 CI 插件，黑板贴二开。亲戚朋友吃饭问你收获了什么，你说我写了个 CW 的一键替代 CI 的插件，搞了个破解希沃管家破密码的工具，还给 Aiwb 交了几个 PR，亲戚们懵逼了，你还在心里默默嘲笑他们，笑他们不懂你的 CI 插件开发，IC 二开，也笑他们用个屏幕批注还在用希沃白板自带的屏幕批注，课表还在黑板上手写。你父母的同事都在说自己的子女一年的收获，儿子买了个房，女儿买了个车，姑娘升职加薪了，你的父母默默无言，说我的儿子写了个 icc，说是班上的电脑更好用了。
 
 <table align="center">
 <tr>
@@ -1002,7 +1002,7 @@ ExtraIsland 是一个 ClassIsland 插件，为 ClassIsland 提供了一些小小
 
 在 `Class Widgets` 中，提供了基于 Python 的插件系统和“插件广场”；你可以在“插件广场”中安装您需要的插件。以及彰显个性的主题系统，让你搭建出独一无二的 `Class Widgets`。
 
-`Class Widgets` 提供了强大的通知系统，能够在上下课等时间点推出提醒；此外，插件也可调用通知接口，使其更加实用。`Class Widgets` 致力于提供高度的自定义选项，使每位用户能构建出独一无二的桌面课表。`Class Widgets` 采用了由微软推出的 Fluent Design 设计语言，使界面更加简洁、舒适和流畅，且使用了 QFluentWidgets UI库。
+`Class Widgets` 提供了强大的通知系统，能够在上下课等时间点推出提醒；此外，插件也可调用通知接口，使其更加实用。`Class Widgets` 致力于提供高度的自定义选项，使每位用户能构建出独一无二的桌面课表。`Class Widgets` 采用了由微软推出的 Fluent Design 设计语言，使界面更加简洁、舒适和流畅，且使用了 QFluentWidgets UI 库。
 
 🏷 **关键词**：<br/>
 ![桌面小组件](https://img.shields.io/badge/桌面小组件-white)
@@ -1014,7 +1014,7 @@ ExtraIsland 是一个 ClassIsland 插件，为 ClassIsland 提供了一些小小
 ![上下课提醒](https://img.shields.io/badge/上下课提醒-white)
 ![单双周支持](https://img.shields.io/badge/单双周支持-white)
 
-💬 **Dubi906w 锐评**：**~~非常好 RinLit 小南梁，让我爱上 课堂组件。~~** 看到 UI 上有能和 CI 抗衡的也是比较欣慰了，不过目前来说还需要更多优化，部分功能还不是太完善，还有作为一个Qt写的软件，总感觉用起来有点小别扭（应该是Qt的特性）。不过开发与更新速度也挺快，比较期待，~~但是目前来说我肯定是不会正式在教学环境使用的~~**（真心动了，等软件显示缩放功能出来了马上换，不换早晚被撅 😋）**。
+💬 **Dubi906w 锐评**：**~~非常好 RinLit 小南梁，让我爱上 课堂组件。~~** 看到 UI 上有能和 CI 抗衡的也是比较欣慰了，不过目前来说还需要更多优化，部分功能还不是太完善，还有作为一个 Qt 写的软件，总感觉用起来有点小别扭（应该是 Qt 的特性）。不过开发与更新速度也挺快，比较期待，~~但是目前来说我肯定是不会正式在教学环境使用的~~**（真心动了，等软件显示缩放功能出来了马上换，不换早晚被撅 😋）**。
 
 <table align="center">
 <tr>
@@ -1211,7 +1211,7 @@ ClassBoard 是一款高自由度的，用于显示教学信息的壁纸软件，
 
 —— 让每堂课都充满活力，让每个学生都能享受到科技带来的教育革新。
 
-**瑞思课堂工具** 基于 `Electron` 开发，是一款 Windows 平台下的，为教学一体机设计开发的一款多功能看板软件，内置了课程表、倒计时等信息看板与侧边栏、专注模式、自动任务、PPT翻页辅助、随机点名等实用功能。
+**瑞思课堂工具** 基于 `Electron` 开发，是一款 Windows 平台下的，为教学一体机设计开发的一款多功能看板软件，内置了课程表、倒计时等信息看板与侧边栏、专注模式、自动任务、PPT 翻页辅助、随机点名等实用功能。
 
 - 📅 **课表一目了然：** 在上方清晰展示每日课表，让教学安排井然有序。
 
@@ -1276,7 +1276,7 @@ ClassBoard 是一款高自由度的，用于显示教学信息的壁纸软件，
 
 支持电脑桌面笔记、番茄专注、待办、便签、日程、倒数日等十几款桌面组件，部分组件功能还可与极序手机版搭配使用，极大帮助工作学习效率的提升，更有丰富的窗口样式设置，轻松融入各种桌面壁纸。
 
-极序新版本添加了 `桌面课程表` 功能。课程设置过程很简单和直观，支持课程导入导出为xls表格文档，这样可以很快进行课表切换，支持垂直和水平两种桌面组件排列方式， **和 `ClassIsland` 等软件区别之处，在于其课程表设置页面更加简单直观，但是缺少单双周轮换等功能。**
+极序新版本添加了 `桌面课程表` 功能。课程设置过程很简单和直观，支持课程导入导出为 xls 表格文档，这样可以很快进行课表切换，支持垂直和水平两种桌面组件排列方式， **和 `ClassIsland` 等软件区别之处，在于其课程表设置页面更加简单直观，但是缺少单双周轮换等功能。**
 
 🏷 **关键词**：<br/>
 ![桌面小组件](https://img.shields.io/badge/桌面小组件-white)
@@ -1871,7 +1871,7 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
 
 4. ENAL 的请求不走系统代理。所以 Fiddler 记得套一层 mihomo TUN。
 
-5. **综上所述，你可以期待逗比画的饼：[EasiAuth](https://github.com/Awesome-Iwb/EasiAuth) ，该项目基于 WPF/C# 技术栈开发，代码全部开源，使用了最先进的融合接口，多个方法和希沃服务器做账号鉴权，并且提供了 API 接口供第三方软件调用，让第三方软件也可以快速接入 希沃账号的 账号密码登录、二维码登录、SSO登录、Token登录、快联登录。**
+5. **综上所述，你可以期待逗比画的饼：[EasiAuth](https://github.com/Awesome-Iwb/EasiAuth) ，该项目基于 WPF/C# 技术栈开发，代码全部开源，使用了最先进的融合接口，多个方法和希沃服务器做账号鉴权，并且提供了 API 接口供第三方软件调用，让第三方软件也可以快速接入 希沃账号的 账号密码登录、二维码登录、SSO 登录、Token 登录、快联登录。**
 
 <table align="center">
 <tr>
@@ -2107,7 +2107,7 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
 
 </div>
 
-一个具有深/浅色主题，云母/亚克力背景（需要系统支持），Fluent UI 2界面的 **时钟锁屏（屏保）** ，支持 Windows 7 及以上版本系统，可以作为屏保使用，也可以自习时在教学白板上使用。支持改变时间的位置，避免因屏幕被遮挡而导致时间被遮挡问题（支持通过参数启动）。支持自定义显示格式、字体、大小、颜色等。
+一个具有深/浅色主题，云母/亚克力背景（需要系统支持），Fluent UI 2 界面的 **时钟锁屏（屏保）** ，支持 Windows 7 及以上版本系统，可以作为屏保使用，也可以自习时在教学白板上使用。支持改变时间的位置，避免因屏幕被遮挡而导致时间被遮挡问题（支持通过参数启动）。支持自定义显示格式、字体、大小、颜色等。
 
 <table align="center">
 <tr>
@@ -2218,12 +2218,12 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
 ## 🫓 大饼们
 
 1. 上传蓝奏云、Telegram 和 MediaFire 的网盘 Releases 备份。（）
-2. 在gitlab，gitcode上创建镜像仓库。
-3. 补全各个项目的官方网站，QQ群，宣传视频链接。
+2. 在 gitlab，gitcode 上创建镜像仓库。
+3. 补全各个项目的官方网站，QQ 群，宣传视频链接。
 4. 为部分项目单独创建页面。
 5. 为部分开发者单独创建页面，存放其相关联的其他项目和存储库。
 6. 添加新项目。
-7. 让aiwb自动化（实现aiwb-cli，让aiwb的README从源数据自动化生成与排序）。
+7. 让 aiwb 自动化（实现 aiwb-cli，让 aiwb 的 README 从源数据自动化生成与排序）。
 8. 实现项目和开发者活跃度指数。
 
 ## Copyright
