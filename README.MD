@@ -91,7 +91,7 @@
 | 🌟 [SketchNow](#sketchnow) ![GitHub Last Commit](https://img.shields.io/github/last-commit/SketchNow/SketchNow.WPF?label=updated) | <img src="https://github.com/realybin.png" width="20" height="20"/> `realybin` |
 | [ppInk](#ppink) ![GitHub Last Commit](https://img.shields.io/github/last-commit/pubpub-zz/ppInk?label=updated) | <img src="https://github.com/pubpub-zz.png" width="20" height="20"/> `pubpub-zz` |
 | [Inkways](#inkways-wip) ![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d) | <img src="https://github.com/iNKORE-NET.png" width="20" height="20"/> `iNKORE Studios` |
-| [Inkways Classic](#inkways-classic) ![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d) | <img src="https://github.com/iNKORE-NET.png" width="20" height="20"/> `iNKORE Studios` |
+| [Inkways Legacy](#inkways-legacy) ![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d) | <img src="https://github.com/iNKORE-NET.png" width="20" height="20"/> `iNKORE Studios` |
 | [InkCanvasForClass](#inkcanvasforclass) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Awesome-Iwb/icc-0610fix?label=updated) | <img src="https://github.com/dubi906w.png" width="20" height="20"/> `Dubi906w` |
 
 ### 📊 课表与看板类软件
@@ -559,9 +559,11 @@ ppInk is a user-friendly on-screen annotation software for Windows, compatible w
 
 > [!note]
 >
-> 本软件仍在~~画饼~~开发阶段，如有需要请先使用 Inkways Classic，或加入社区以获取最新消息。
+> 本软件仍在~~画饼~~开发阶段，如有需要请先使用 Inkways Legacy，或加入社区以获取最新消息。
 
-跨平台且易用的，集笔记，办公，教育等场景于一体的完整墨迹套件。(Coming s∞n)
+Inkways 是一款由 iNKORE Studios 开发的集成式墨迹套件，你可以将它用于记录笔记，文稿演示，批注演示文稿，视频展台等。Inkways 旨在将 Ink，Presentation，Flow 等核心概念融合在一起并无缝带入到生活和工作流程的各个角落。
+
+更多信息可以在 <https://docs.inkore.net/announcements/2024/03/12/inkways-vanilla-is-on-the-way/> 查看。
 
 💬 **Dubi906w 锐评**：期待我有生之年能看到 iNKORE Corp 开在新加坡，去当码农。
 
