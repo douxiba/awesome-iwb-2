@@ -585,7 +585,7 @@ ppInk is a user-friendly on-screen annotation software for Windows, compatible w
 
 <img src="images/inkways-classic-icon.png" width="56" height="56"/> 
 
-### Inkways Classic
+### Inkways Legacy
 
 ![banner](banner/inkways-classic.png)
 
@@ -604,9 +604,9 @@ ppInk is a user-friendly on-screen annotation software for Windows, compatible w
 
 🏷 **关键词**：`Fluent Design System` `多插件` `多功能套件` `笔记`
 
-💬 **Dubi906w 锐评**：总体不如 Ink Canvas 系列，可以尝试一下，UI 设计比较好看，但是有部分功能还未完善，希望有生之年能看见 Inkways Vanilla 出来。
+💬 **Dubi906w 锐评**：总体不如 Ink Canvas 系列，可以尝试一下，UI 设计比较好看，但是有部分功能还未完善，希望有生之年能看见新版 Inkways 出来。
 
-💬 **Aris 锐评**：u1s1 尝鲜可以，但是不建议在学校长期使用，还不如等 Inkways Vanilla。
+💬 **Aris 锐评**：u1s1 尝鲜可以，但是不建议在学校长期使用，还不如等新版 Inkways。
 
 <table align="center">
 <tr>
