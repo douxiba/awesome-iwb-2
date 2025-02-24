@@ -76,7 +76,7 @@
 
 ## 📚 目录
 
-> **目前已经收录 40 个可用项目。**
+> **目前已经收录 42 个可用项目。**
 
 - 🥇 是指最推荐使用的、必装软件推荐，每个类别下至少有一个被标记的软件或项目。
 
@@ -99,6 +99,7 @@
 | [Inkways](#inkways-wip) ![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d) | <img src="https://github.com/iNKORE-NET.png" width="20" height="20"/> `iNKORE Studios` |
 | [Inkways Legacy](#inkways-legacy) ![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d) | <img src="https://github.com/iNKORE-NET.png" width="20" height="20"/> `iNKORE Studios` |
 | [InkCanvasForClass](#inkcanvasforclass) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Awesome-Iwb/icc-0610fix?label=updated) | <img src="https://github.com/aloisp28.png" width="20" height="20"/> `Dubi906w` |
+| 🔴 [LemonxNote](#lemonxnote-柠檬白板) ![GitHub Last Commit](https://img.shields.io/github/last-commit/lh11117/LemonxNote?label=updated) | <img src="https://github.com/lh11117.png" width="20" height="20"/> `linchh11117` |
 
 ### 📊 课表与看板类软件
 
@@ -116,6 +117,7 @@
 | [Ris_ClassTool](#ris_classtool-瑞思课堂工具) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Ris-Soft/Ris_ClassTool?label=updated) | <img src="https://github.com/Ris-Soft.png" width="20" height="20"/> `Ris-Soft` |
 | [极序](#极序) ![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d) | 极序 |
 | [TimerIn](#timerin) ![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d) | <img src="https://github.com/SRInternet-Studio.png" width="20" height="20"/> `思锐工作室 SR-Studio` |
+| 🔴 [ExamSchedule](#examschedule) ![GitHub Last Commit](https://img.shields.io/github/last-commit/ExamAware/ExamSchedule?label=updated) | <img src="https://github.com/MKStoler1024.png" width="20" height="20"/> `MKStoler1024` |
 | ~~[CountBoard](#countboard)~~ (停更) | <img src="https://github.com/Gaoyongxian666.png" width="20" height="20"/> `gaoyongxian` |
 | ~~[灵动课表](#灵动课表)~~ (停更) | <img src="https://github.com/DuguSand.png" width="20" height="20"/> `DuguSand` |
 | ~~[ElectronClassSchedule](#electronclassschedule)~~ (停更) | <img src="https://github.com/EnderWolf006.png" width="20" height="20"/> `EnderWolf006` |
@@ -690,6 +692,45 @@ InkCanvasForClass 是基于 ChangSakura 的 Ink Canvas Artistry 项目二次开�
 </tr>
 </table>
 
+<div align="center">
+
+<br/>
+<br/>
+
+### LemonxNote 柠檬白板
+
+![banner](./banner/lemonxnote-banner.png)
+
+![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
+[![stars](https://img.shields.io/github/stars/lh11117/LemonxNote?style=flat&color=red)](https://github.com/lh11117/LemonxNote/stargazers)
+[![forks](https://img.shields.io/github/forks/lh11117/LemonxNote?style=flat&color=blue)](https://github.com/lh11117/LemonxNote/forks)
+[![Watchers](https://img.shields.io/github/watchers/lh11117/LemonxNote?style=flat&color=green)](https://github.com/lh11117/LemonxNote/watchers)
+[![Downloads](https://img.shields.io/github/downloads/lh11117/LemonxNote/total?style=flat&logo=github)](https://github.com/lh11117/LemonxNote/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/lh11117/LemonxNote?query=is%3Aopen&label=issues&color=purple)](https://github.com/lh11117/LemonxNote/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/lh11117/LemonxNote?style=flat)](https://github.com/lh11117/LemonxNote/discussions)
+[![Created At](https://img.shields.io/github/created-at/lh11117/LemonxNote)](https://github.com/lh11117/LemonxNote)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/lh11117/LemonxNote)](https://github.com/lh11117/LemonxNote/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/lh11117/LemonxNote)](https://github.com/lh11117/LemonxNote)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/lh11117/LemonxNote)](https://github.com/lh11117/LemonxNote)
+![GitHub License](https://img.shields.io/github/license/lh11117/LemonxNote?color=red)
+
+</div>
+
+一个用 C++ 和 Qt 开发的 白板软件。目前支持画布批注、擦除、移动画布、多页码等基础功能。更多功能还需等待后续更新。 **优点是内存占用非常的小（上图的217KB是因为这个内存占用计算了整个撤回库的内容）。**
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/lh11117/LemonxNote/">lh11117/LemonxNote</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/lh11117.png" width="20" height="20"/> <a href="https://github.com/lh11117/">linchh11117</a></td>
+</tr>
+</table>
+
 ## 📊 课表与看板类软件
 
 <div align="center">
@@ -861,7 +902,7 @@ StickyAttention 是一款适用于 Windows 系统教室一体机的作业显示�
 <br/>
 <br/>
 
-<img src="images/kaoshikanban-icon.svg" height="56" width="56"/> 
+<img src="https://raw.githubusercontent.com/ExamAware/dsz-exam-showboard/master/resources/icon.png" height="56" width="56"/> 
 
 ### 考试看板
 
@@ -1344,6 +1385,56 @@ TimerIn 是由 思锐工作室 开发的一款 桌面时钟小工具软件。支
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>开发者</b></td>
     <td><img src="https://github.com/SRInternet-Studio.png" width="20" height="20"/> <a href="https://github.com/SRInternet-Studio/">思锐工作室 SR-Studio</a></td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+<br/>
+
+<img src="images/examschedule-icon.png" height="56" width="56"/> 
+
+### ExamSchedule
+
+![banner](https://github.com/user-attachments/assets/0bcf81f7-956b-4bf5-9354-a282d168e972)
+
+[![stars](https://img.shields.io/github/stars/ExamAware/ExamSchedule?style=flat&color=red)](https://github.com/ExamAware/ExamSchedule/stargazers)
+[![forks](https://img.shields.io/github/forks/ExamAware/ExamSchedule?style=flat&color=blue)](https://github.com/ExamAware/ExamSchedule/forks)
+[![Watchers](https://img.shields.io/github/watchers/ExamAware/ExamSchedule?style=flat&color=green)](https://github.com/ExamAware/ExamSchedule/watchers)
+[![Downloads](https://img.shields.io/github/downloads/ExamAware/ExamSchedule/total?style=flat&logo=github)](https://github.com/ExamAware/ExamSchedule/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/ExamAware/ExamSchedule?query=is%3Aopen&label=issues&color=purple)](https://github.com/ExamAware/ExamSchedule/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/ExamAware/ExamSchedule?style=flat)](https://github.com/ExamAware/ExamSchedule/discussions)
+[![Created At](https://img.shields.io/github/created-at/ExamAware/ExamSchedule)](https://github.com/ExamAware/ExamSchedule)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/ExamAware/ExamSchedule)](https://github.com/ExamAware/ExamSchedule/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/ExamAware/ExamSchedule)](https://github.com/ExamAware/ExamSchedule)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/ExamAware/ExamSchedule)](https://github.com/ExamAware/ExamSchedule)
+![GitHub License](https://img.shields.io/github/license/ExamAware/ExamSchedule?color=red)
+
+</div>
+
+考试看板网页版。**一款显示当前时间与考试详细信息的看板类服务。**
+
+**ExamSchedule** 皆在提供一个简单明了的 Web 服务用于展示考试信息：可以实时显示当前时间、当前考试科目、考试起止时间、剩余时间及考试状态。支持设置时间偏移和考场信息，并保存到浏览器Cookie中。同时还内置了电子钟表的版本（也就是没有考试支持的考试看板）。
+
+🏷 **关键词**：<br/>
+![考试看板](https://img.shields.io/badge/考试看板-white)
+![考试倒计时](https://img.shields.io/badge/考试倒计时-white)
+![电子钟表](https://img.shields.io/badge/电子钟表-white)
+![多平台支持](https://img.shields.io/badge/多平台支持-white)
+![Web](https://img.shields.io/badge/Web-white)
+![移动端支持](https://img.shields.io/badge/移动端支持-white)
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/ExamAware/ExamSchedule/">ExamAware/ExamSchedule</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/MKStoler1024.png" width="20" height="20"/> <a href="https://github.com/MKStoler1024/">MKStoler1024</a></td>
 </tr>
 </table>
 
