@@ -92,13 +92,13 @@
 | - | - |
 | 🥈 [Ink Canvas](#ink-canvas) ![GitHub Last Commit](https://img.shields.io/github/last-commit/WXRIW/Ink-Canvas?label=updated) | <img src="https://github.com/WXRIW.png" width="20" height="20"/> `WXRIW` |
 | 🥇 [Ink Canvas Artistry](#ink-canvas-artistry) ![GitHub Last Commit](https://img.shields.io/github/last-commit/InkCanvas/Ink-Canvas-Artistry?label=updated) | <img src="https://github.com/ChangSakura.png" width="20" height="20"/> `ChangSakura` |
-| 🌟 [Ink Canvas Reborn](#ink-canvas-reborn) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Awesome-Iwb/Ink-Canvas-Reborn?label=updated) | <img src="https://github.com/aloisp28.png" width="20" height="20"/> `Dubi906w` |
+| [DeskPen](#deskpen) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Awesome-Iwb/Ink-Canvas-Reborn?label=updated) | <img src="https://github.com/aloisp28.png" width="20" height="20"/> `Dubi906w` |
 | 🥈 [智绘教 Inkeys](#智绘教-inkeys) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Alan-CRL/Inkeys?label=updated) | <img src="https://github.com/Alan-CRL.png" width="20" height="20"/> `Alan-CRL` |
 | 🌟 [SketchNow](#sketchnow) ![GitHub Last Commit](https://img.shields.io/github/last-commit/SketchNow/SketchNow.WPF?label=updated) | <img src="https://github.com/realybin.png" width="20" height="20"/> `realybin` |
 | [ppInk](#ppink) ![GitHub Last Commit](https://img.shields.io/github/last-commit/pubpub-zz/ppInk?label=updated) | <img src="https://github.com/pubpub-zz.png" width="20" height="20"/> `pubpub-zz` |
 | [Inkways](#inkways-wip) ![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d) | <img src="https://github.com/iNKORE-NET.png" width="20" height="20"/> `iNKORE Studios` |
 | [Inkways Legacy](#inkways-legacy) ![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d) | <img src="https://github.com/iNKORE-NET.png" width="20" height="20"/> `iNKORE Studios` |
-| [InkCanvasForClass](#inkcanvasforclass) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Awesome-Iwb/icc-0610fix?label=updated) | <img src="https://github.com/dubi906w.png" width="20" height="20"/> `Dubi906w` |
+| [InkCanvasForClass](#inkcanvasforclass) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Awesome-Iwb/icc-0610fix?label=updated) | <img src="https://github.com/aloisp28.png" width="20" height="20"/> `Dubi906w` |
 
 ### 📊 课表与看板类软件
 
@@ -289,9 +289,7 @@ Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动
 
 <img src="https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/raw/main/Ink-Canvas-Reborn-Logo.png" width="56" height="56"/>
 
-### Ink Canvas Reborn
-
-![banner](./banner/ink-canvas-reborn.png)
+### DeskPen
 
 ![Hot!](https://img.shields.io/badge/%E9%9D%9E%E5%B8%B8%E6%8E%A8%E8%8D%90-orange)
 [![stars](https://img.shields.io/github/stars/Awesome-Iwb/Ink-Canvas-Reborn?style=flat&color=red)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/stargazers)
@@ -309,7 +307,7 @@ Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动
 
 </div>
 
-Ink Canvas Reborn 是 Ink Canvas 画板的重生版，是基于 Ink Canvas 的设计理念和 UI 设计完全重构的一个项目，不基于任何先前项目的代码。相较于原版，ICR 提供了更加流畅高性能的体验、更易用的工具栏优化、以及部分新功能的合入。
+DeskPen 是 Ink Canvas 画板的重生版，是基于 Ink Canvas 的设计理念和 UI 设计完全重构的一个项目，不基于任何先前项目的代码。相较于原版，DeskPen 提供了更加流畅高性能的体验、更易用的工具栏优化、以及部分新功能的合入。
 
 🏷 **关键词**：<br/>
 ![屏幕批注](https://img.shields.io/badge/屏幕批注-white)
@@ -321,7 +319,7 @@ Ink Canvas Reborn 是 Ink Canvas 画板的重生版，是基于 Ink Canvas 的�
 ![Ink Canvas](https://img.shields.io/badge/Ink_Canvas-white)
 ![PPT批注](https://img.shields.io/badge/PPT批注-white)
 
-💬 **Dubi906w 锐评**：又出了一个 Ink Canvas 家族的重制版，不知道这次，他能否经受住时间的考验呢？反正我对此是很看好的。**（2025 年 1 月 30 日 最新消息，项目移交给另外一位大佬了，期待后续开发）**
+💬 **Dubi906w 锐评**：又出了一个 Ink Canvas 家族的重制版，不知道这次，他能否经受住时间的考验呢？反正我对此是很看好的。**（2025 年 2 月 25 日： 该项目已经转为闭源开发）**
 
 <table align="center">
 <tr>
@@ -337,7 +335,7 @@ Ink Canvas Reborn 是 Ink Canvas 画板的重生版，是基于 Ink Canvas 的�
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>开发者</b></td>
-    <td><img src="https://github.com/sxchojdesu87.png" width="20" height="20"/> <a href="https://github.com/sxchojdesu87/">SxChojDesu87</a></td>
+    <td><img src="https://github.com/aloisp28.png" width="20" height="20"/> <a href="https://github.com/aloisp28/">Dubi906w</a></td>
 </tr>
 </table>
 
