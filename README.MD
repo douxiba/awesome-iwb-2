@@ -569,7 +569,7 @@ Inkways 是一款由 iNKORE Studios 开发的集成式墨迹套件，你可以�
 
 <table align="center">
 <tr>
-    <td><img src="https://assets.inkore.net/logo/iNKORE.ico" width="18" height="18"></td>
+    <td><img src="https://github.com/iNKORE-NET.png" width="18" height="18"></td>
     <td><b>官网 (维护中)</b></td>
     <td><a href="https://inkore.net/products/inkways/">https://inkore.net/products/inkways/</a></td>
 </tr>
@@ -612,7 +612,7 @@ Inkways 是一款由 iNKORE Studios 开发的集成式墨迹套件，你可以�
 
 <table align="center">
 <tr>
-    <td><img src="https://assets.inkore.net/logo/iNKORE.ico" width="18" height="18"></td>
+    <td><img src="https://github.com/iNKORE-NET.png" width="18" height="18"></td>
     <td><b>官网 (维护中)</b></td>
     <td><a href="https://inkore.net/products/inkways/">https://inkore.net/products/inkways/</a></td>
 </tr>
