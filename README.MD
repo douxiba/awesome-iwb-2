@@ -2279,6 +2279,7 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/DryIce-cc"><img src="https://avatars.githubusercontent.com/u/165131008?v=4?s=100" width="100px;" alt="干冰DryIce"/><br /><sub><b>干冰DryIce</b></sub></a><br /><a href="#doc-DryIce-cc" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/alovelydoge"><img src="https://avatars.githubusercontent.com/u/156295679?v=4?s=100" width="100px;" alt="alovelydoge"/><br /><sub><b>alovelydoge</b></sub></a><br /><a href="#doc-alovelydoge" title="Documentation">📖</a> <a href="#bug-alovelydoge" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/WHMyyds"><img src="https://avatars.githubusercontent.com/u/123004192?v=4?s=100" width="100px;" alt="HM"/><br /><sub><b>HM</b></sub></a><br /><a href="#doc-WHMyyds" title="Documentation">📖</a> <a href="#bug-WHMyyds" title="Bug reports">🐛</a></td>
     </tr>
   </tbody>
 </table>
