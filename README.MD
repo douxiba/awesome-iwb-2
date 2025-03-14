@@ -34,12 +34,6 @@
 > [!IMPORTANT]
 > 本项目正在迁移到 智教联盟论坛，GitHub 仓库依旧会继续更新。
 
-> [!WARNING]
-> 本项目的网页版正在开发。
-
-> [!WARNING]
-> Awesome-Iwb 项目正在开发 aiwb-cli 用于创造自动化 Aiwb README 生成体验。
-
 ## 👂 提醒
 
 1. 若发现任何错误/过时信息，请通过提交 `Issue` 使我知晓。当然，您也可以自行修改后提交 `Pull Request` 。
@@ -54,7 +48,7 @@
 
 🚫 **严禁推荐、上传至本仓库或在本仓库公开分享 任何软件的破解版，开心版等版本的任何信息，违者将被封禁。**
 
-6. 若您开发的软件或项目在该列表上的，需要联系修改内容或移除内容的，请联系仓库维护者 `Dubi906w` 或组织内成员。
+6. 若您开发的软件或项目在该列表上的，需要联系修改内容或移除内容的，请联系仓库维护者或组织内成员。
 
 7. **目录中无法导航到对应项目介绍的，要么是我还没写，要么就是超链接出了问题。**
 
@@ -66,13 +60,11 @@
 
 9. **该列表仅供参考，信息可能会更新不及时！**
 
-10. 该项目解释权归 `Dubi906w` 所有。
+10. 该项目解释权与 **所有权** 归 `Awesome-Iwb` 组织内成员 所有。
 
 ## 👋 同类项目推荐
 
 [![Jursin/Awesome-Class-Softwares](https://github-readme-stats.vercel.app/api/pin/?username=Jursin&repo=Awesome-Class-Softwares&show_owner=true)](https://github.com/Jursin/Awesome-Class-Softwares)
-
-[![hello8693/awesome-whiteboard](https://github-readme-stats.vercel.app/api/pin/?username=hello8693&repo=awesome-whiteboard&show_owner=true)](https://github.com/hello8693/awesome-whiteboard)
 
 ## 📚 目录
 
