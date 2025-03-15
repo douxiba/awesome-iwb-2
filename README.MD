@@ -4,7 +4,7 @@
 
 <br/>
 
-# Awesome-Iwb
+# Awesome Iwb
 
 适用于教学一体机、教学触摸屏和红外教学白板的 Windows 平台实用软件推荐合集。**为广大电教倾情撰写。**
 
@@ -15,11 +15,14 @@
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)<br/>
 ![GitHub last commit](https://img.shields.io/github/last-commit/Awesome-Iwb/Awesome-Iwb)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https://github.com/Awesome-Iwb/Awesome-Iwb&label=Visitors&countColor=%23263759&style=flat)
-![Lastest Update](https://img.shields.io/badge/%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0-2025%E5%B9%B42%E6%9C%8825%E6%97%A5-orange)
+![Lastest Update](https://img.shields.io/badge/%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0-2025%E5%B9%B43%E6%9C%8815%E6%97%A5-orange)
 
 ![Repobeats Analyzer](https://repobeats.axiom.co/api/embed/71f72cdd85b0b13b41e368b54f1f94f3d378c9fa.svg "Repobeats analytics image")
 
 </div>
+
+> [!WARNING]
+> 目前有对 Awesome Iwb 的重大内容更新正在处理中，您看到的内容可能不完整或会出现错误，请以 本次内容更新完成后的版本 为准。本次更新开始于 **2025年 3 月 15 日** ， **预计在 2 周内完工** 。
 
 ---
 
@@ -68,7 +71,7 @@
 
 ## 📚 速览
 
-> **目前已经收录 42 个可用项目。**
+> **目前已经收录 43 个可用项目。 若包括正在处理中的项目，则有 57 个项目。**
 
 - 🥇 是指最推荐使用的、必装软件推荐，每个类别下至少有一个被标记的软件或项目。
 
@@ -110,6 +113,7 @@
 | [极序](#极序) ![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d) | 极序 |
 | [TimerIn](#timerin) ![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d) | <img src="https://github.com/SRInternet-Studio.png" width="20" height="20"/> `思锐工作室 SR-Studio` |
 | [ExamSchedule](#examschedule) ![GitHub Last Commit](https://img.shields.io/github/last-commit/ExamAware/ExamSchedule?label=updated) | <img src="https://github.com/MKStoler1024.png" width="20" height="20"/> `MKStoler1024` |
+| [Classworks](#classworks) ![GitHub Last Commit](https://img.shields.io/github/last-commit/ClassworksDev/Classworks?label=updated) | <img src="https://github.com/SunWuyuan.png" width="20" height="20"/> `孙悟元` |
 | ~~[CountBoard](#countboard)~~ (停更) | <img src="https://github.com/Gaoyongxian666.png" width="20" height="20"/> `gaoyongxian` |
 | ~~[灵动课表](#灵动课表)~~ (停更) | <img src="https://github.com/DuguSand.png" width="20" height="20"/> `DuguSand` |
 | ~~[ElectronClassSchedule](#electronclassschedule)~~ (停更) | <img src="https://github.com/EnderWolf006.png" width="20" height="20"/> `EnderWolf006` |
@@ -134,6 +138,8 @@
 | [CountDownControl](#countdowncontrol) ![GitHub Last Commit](https://img.shields.io/github/last-commit/cjhdevact/CountDownControl?label=updated) | <img src="https://github.com/cjhdevact.png" width="20" height="20"/> `CJH` |
 | [LockTime](#locktime) ![GitHub Last Commit](https://img.shields.io/github/last-commit/cjhdevact/LockTime?label=updated) | <img src="https://github.com/cjhdevact.png" width="20" height="20"/> `CJH` |
 | [UsefulControl](#usefulcontrol) ![GitHub Last Commit](https://img.shields.io/github/last-commit/cjhdevact/UsefulControl?label=updated) | <img src="https://github.com/cjhdevact.png" width="20" height="20"/> `CJH` |
+| [Rand 抽号器](#rand-抽号器) ![GitHub Last Commit](https://img.shields.io/github/last-commit/LuoYunXi0407/Rand?label=updated) | <img src="https://github.com/LuoYunXi0407.png" width="20" height="20"/> `LuoYunXi` |
+| [NamePicker](#namepicker) ![GitHub Last Commit](https://img.shields.io/github/last-commit/NamePickerOrg/NamePicker?label=updated) | <img src="https://github.com/LHGS-github.png" width="20" height="20"/> `LHGS-github` |
 
 
 <br/>
@@ -2257,6 +2263,51 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>开发者</b></td>
     <td><img src="https://github.com/cjhdevact.png" width="20" height="20"/> <a href="https://github.com/cjhdevact/">CJH</a></td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+<br/>
+
+<img src="./images/rand-icon.png" height="56" width="56"/> 
+
+### Rand 抽号器
+
+![banner](https://github.com/user-attachments/assets/9237f4df-c18e-4015-8b0b-a8d032880676)
+
+![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
+[![stars](https://img.shields.io/github/stars/LuoYunXi0407/Rand?style=flat&color=red)](https://github.com/LuoYunXi0407/Rand/stargazers)
+[![forks](https://img.shields.io/github/forks/LuoYunXi0407/Rand?style=flat&color=blue)](https://github.com/LuoYunXi0407/Rand/forks)
+[![Watchers](https://img.shields.io/github/watchers/LuoYunXi0407/Rand?style=flat&color=green)](https://github.com/LuoYunXi0407/Rand/watchers)
+[![Downloads](https://img.shields.io/github/downloads/LuoYunXi0407/Rand/total?style=flat&logo=github)](https://github.com/LuoYunXi0407/Rand/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/LuoYunXi0407/Rand?query=is%3Aopen&label=issues&color=purple)](https://github.com/LuoYunXi0407/Rand/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/LuoYunXi0407/Rand?style=flat)](https://github.com/LuoYunXi0407/Rand/discussions)
+[![Created At](https://img.shields.io/github/created-at/LuoYunXi0407/Rand)](https://github.com/LuoYunXi0407/Rand)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/LuoYunXi0407/Rand)](https://github.com/LuoYunXi0407/Rand/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/LuoYunXi0407/Rand)](https://github.com/LuoYunXi0407/Rand)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/LuoYunXi0407/Rand)](https://github.com/LuoYunXi0407/Rand)
+![GitHub License](https://img.shields.io/github/license/LuoYunXi0407/Rand?color=red)
+
+</div>
+
+Rand 是一款简洁、现代化、易用的抽号软件，专为触摸屏设备和Windows 7及以上版本操作系统设计，采用 Fluent Design 风格（不过没有用 iUWM），界面美观且易于操作。可以轻松配置班级名单和座号范围，支持单人和多人模式，保证抽号过程不重复，适用于各类场合的随机抽取。软件还提供暗色模式和自定义设置，能够满足不同需求。尽管当前功能已较为完善，但开发者未来还将优化平衡机制和增加其他功能。
+
+最好的是他支持 Windows 7（虽然是 .NET 9 开发的，听说有内存泄漏问题，等我过几天实测一下即可），32位和64位都支持。
+
+💬 **Dubi906w 锐评**：这是唯一一个我想试试看的 **随机点名软件** ，看起来完成度还是挺高的，过几天去学校电脑上看看用着如何。好用的话再在这里更新一下锐评。
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/LuoYunXi0407/Rand/">LuoYunXi0407/Rand</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/LuoYunXi0407.png" width="20" height="20"/> <a href="https://github.com/LuoYunXi0407/">LuoYunXi</a></td>
 </tr>
 </table>
 
