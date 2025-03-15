@@ -66,7 +66,7 @@
 
 [![Jursin/Awesome-Class-Softwares](https://github-readme-stats.vercel.app/api/pin/?username=Jursin&repo=Awesome-Class-Softwares&show_owner=true)](https://github.com/Jursin/Awesome-Class-Softwares)
 
-## 📚 目录
+## 📚 速览
 
 > **目前已经收录 42 个可用项目。**
 
@@ -84,14 +84,14 @@
 | - | - |
 | 🥈 [Ink Canvas](#ink-canvas) ![GitHub Last Commit](https://img.shields.io/github/last-commit/WXRIW/Ink-Canvas?label=updated) | <img src="https://github.com/WXRIW.png" width="20" height="20"/> `WXRIW` |
 | 🥇 [Ink Canvas Artistry](#ink-canvas-artistry) ![GitHub Last Commit](https://img.shields.io/github/last-commit/InkCanvas/Ink-Canvas-Artistry?label=updated) | <img src="https://github.com/ChangSakura.png" width="20" height="20"/> `ChangSakura` |
-| [DeskPen](#deskpen) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Awesome-Iwb/Ink-Canvas-Reborn?label=updated) | <img src="https://github.com/aloisp28.png" width="20" height="20"/> `Dubi906w` |
 | 🥈 [智绘教 Inkeys](#智绘教-inkeys) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Alan-CRL/Inkeys?label=updated) | <img src="https://github.com/Alan-CRL.png" width="20" height="20"/> `Alan-CRL` |
 | 🌟 [SketchNow](#sketchnow) ![GitHub Last Commit](https://img.shields.io/github/last-commit/SketchNow/SketchNow.WPF?label=updated) | <img src="https://github.com/realybin.png" width="20" height="20"/> `realybin` |
 | [ppInk](#ppink) ![GitHub Last Commit](https://img.shields.io/github/last-commit/pubpub-zz/ppInk?label=updated) | <img src="https://github.com/pubpub-zz.png" width="20" height="20"/> `pubpub-zz` |
 | [Inkways](#inkways-wip) ![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d) | <img src="https://github.com/iNKORE-NET.png" width="20" height="20"/> `iNKORE Studios` |
 | [Inkways Legacy](#inkways-legacy) ![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d) | <img src="https://github.com/iNKORE-NET.png" width="20" height="20"/> `iNKORE Studios` |
-| [InkCanvasForClass](#inkcanvasforclass) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Awesome-Iwb/icc-0610fix?label=updated) | <img src="https://github.com/aloisp28.png" width="20" height="20"/> `Dubi906w` |
-| 🔴 [LemonxNote](#lemonxnote-柠檬白板) ![GitHub Last Commit](https://img.shields.io/github/last-commit/lh11117/LemonxNote?label=updated) | <img src="https://github.com/lh11117.png" width="20" height="20"/> `linchh11117` |
+| [LemonxNote](#lemonxnote-柠檬白板) ![GitHub Last Commit](https://img.shields.io/github/last-commit/lh11117/LemonxNote?label=updated) | <img src="https://github.com/lh11117.png" width="20" height="20"/> `linchh11117` |
+| ~~[DeskPen](#deskpen)~~ (停更) | <img src="https://github.com/aloisp28.png" width="20" height="20"/> `Dubi906w` |
+| ~~[InkCanvasForClass](#inkcanvasforclass)~~ (停更) | <img src="https://github.com/aloisp28.png" width="20" height="20"/> `Dubi906w` |
 
 ### 📊 课表与看板类软件
 
@@ -109,7 +109,7 @@
 | [Ris_ClassTool](#ris_classtool-瑞思课堂工具) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Ris-Soft/Ris_ClassTool?label=updated) | <img src="https://github.com/Ris-Soft.png" width="20" height="20"/> `Ris-Soft` |
 | [极序](#极序) ![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d) | 极序 |
 | [TimerIn](#timerin) ![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d) | <img src="https://github.com/SRInternet-Studio.png" width="20" height="20"/> `思锐工作室 SR-Studio` |
-| 🔴 [ExamSchedule](#examschedule) ![GitHub Last Commit](https://img.shields.io/github/last-commit/ExamAware/ExamSchedule?label=updated) | <img src="https://github.com/MKStoler1024.png" width="20" height="20"/> `MKStoler1024` |
+| [ExamSchedule](#examschedule) ![GitHub Last Commit](https://img.shields.io/github/last-commit/ExamAware/ExamSchedule?label=updated) | <img src="https://github.com/MKStoler1024.png" width="20" height="20"/> `MKStoler1024` |
 | ~~[CountBoard](#countboard)~~ (停更) | <img src="https://github.com/Gaoyongxian666.png" width="20" height="20"/> `gaoyongxian` |
 | ~~[灵动课表](#灵动课表)~~ (停更) | <img src="https://github.com/DuguSand.png" width="20" height="20"/> `DuguSand` |
 | ~~[ElectronClassSchedule](#electronclassschedule)~~ (停更) | <img src="https://github.com/EnderWolf006.png" width="20" height="20"/> `EnderWolf006` |
@@ -273,63 +273,6 @@ Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>开发者</b></td>
     <td><img src="https://github.com/ChangSakura.png" width="20" height="20"/> <a href="https://github.com/ChangSakura/">ChangSakura</a></td>
-</tr>
-</table>
-
-<div align="center">
-
-<br/>
-<br/>
-
-<img src="https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/raw/main/Ink-Canvas-Reborn-Logo.png" width="56" height="56"/>
-
-### DeskPen
-
-![Hot!](https://img.shields.io/badge/%E9%9D%9E%E5%B8%B8%E6%8E%A8%E8%8D%90-orange)
-[![stars](https://img.shields.io/github/stars/Awesome-Iwb/Ink-Canvas-Reborn?style=flat&color=red)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/stargazers)
-[![forks](https://img.shields.io/github/forks/Awesome-Iwb/Ink-Canvas-Reborn?style=flat&color=blue)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/forks)
-[![Watchers](https://img.shields.io/github/watchers/Awesome-Iwb/Ink-Canvas-Reborn?style=flat&color=green)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/watchers)
-[![Downloads](https://img.shields.io/github/downloads/Awesome-Iwb/Ink-Canvas-Reborn/total?style=flat&logo=github)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/releases)<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/Awesome-Iwb/Ink-Canvas-Reborn?query=is%3Aopen&label=issues&color=purple)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/Awesome-Iwb/Ink-Canvas-Reborn?style=flat)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/discussions)
-[![Created At](https://img.shields.io/github/created-at/Awesome-Iwb/Ink-Canvas-Reborn)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/Awesome-Iwb/Ink-Canvas-Reborn)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/commits/master)<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/Awesome-Iwb/Ink-Canvas-Reborn)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/Awesome-Iwb/Ink-Canvas-Reborn)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn)
-![GitHub License](https://img.shields.io/github/license/Awesome-Iwb/Ink-Canvas-Reborn?color=red)
-[![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20195404368-white?style=flat&logo=qq)](https://qm.qq.com/q/PDfJCGLqwM)
-
-</div>
-
-DeskPen 是 Ink Canvas 画板的重生版，是基于 Ink Canvas 的设计理念和 UI 设计完全重构的一个项目，不基于任何先前项目的代码。相较于原版，DeskPen 提供了更加流畅高性能的体验、更易用的工具栏优化、以及部分新功能的合入。
-
-🏷 **关键词**：<br/>
-![屏幕批注](https://img.shields.io/badge/屏幕批注-white)
-![屏幕画板](https://img.shields.io/badge/屏幕画板-white)
-![桌面批注](https://img.shields.io/badge/桌面批注-white)
-![白板软件](https://img.shields.io/badge/白板软件-white)
-![形状识别](https://img.shields.io/badge/形状识别-white)
-![荧光笔](https://img.shields.io/badge/荧光笔-white)
-![Ink Canvas](https://img.shields.io/badge/Ink_Canvas-white)
-![PPT批注](https://img.shields.io/badge/PPT批注-white)
-
-💬 **Dubi906w 锐评**：又出了一个 Ink Canvas 家族的重制版，不知道这次，他能否经受住时间的考验呢？反正我对此是很看好的。**（2025 年 2 月 25 日： 该项目已经转为闭源开发）**
-
-<table align="center">
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>GitHub 1</b></td>
-    <td><a href="https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/">Awesome-Iwb/Ink-Canvas-Reborn</a></td>
-</tr>
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>GitHub 2</b></td>
-    <td><a href="https://github.com/InkCanvas/Ink-Canvas-Reborn/">InkCanvas/Ink-Canvas-Reborn</a></td>
-</tr>
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>开发者</b></td>
-    <td><img src="https://github.com/aloisp28.png" width="20" height="20"/> <a href="https://github.com/aloisp28/">Dubi906w</a></td>
 </tr>
 </table>
 
@@ -626,6 +569,65 @@ Inkways 是一款由 iNKORE Studios 开发的集成式墨迹套件，你可以�
 <br/>
 <br/>
 
+<img src="https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/raw/main/Ink-Canvas-Reborn-Logo.png" width="56" height="56"/>
+
+### DeskPen
+
+![Hot!](https://img.shields.io/badge/%E9%9D%9E%E5%B8%B8%E6%8E%A8%E8%8D%90-orange)
+[![stars](https://img.shields.io/github/stars/Awesome-Iwb/Ink-Canvas-Reborn?style=flat&color=red)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/stargazers)
+[![forks](https://img.shields.io/github/forks/Awesome-Iwb/Ink-Canvas-Reborn?style=flat&color=blue)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/forks)
+[![Watchers](https://img.shields.io/github/watchers/Awesome-Iwb/Ink-Canvas-Reborn?style=flat&color=green)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/watchers)
+[![Downloads](https://img.shields.io/github/downloads/Awesome-Iwb/Ink-Canvas-Reborn/total?style=flat&logo=github)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/Awesome-Iwb/Ink-Canvas-Reborn?query=is%3Aopen&label=issues&color=purple)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/Awesome-Iwb/Ink-Canvas-Reborn?style=flat)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/discussions)
+[![Created At](https://img.shields.io/github/created-at/Awesome-Iwb/Ink-Canvas-Reborn)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/Awesome-Iwb/Ink-Canvas-Reborn)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/Awesome-Iwb/Ink-Canvas-Reborn)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/Awesome-Iwb/Ink-Canvas-Reborn)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn)
+![GitHub License](https://img.shields.io/github/license/Awesome-Iwb/Ink-Canvas-Reborn?color=red)
+[![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20195404368-white?style=flat&logo=qq)](https://qm.qq.com/q/PDfJCGLqwM)
+
+</div>
+
+> **该项目已经停止更新。** 风轻抚着故事的种子，时间为其播种，亦为其滋养。岁月如水，既能让它在光阴中悄然萌发，也能让它在无情的流转中化为虚无，消逝于尘埃之中。
+
+DeskPen 是 Ink Canvas 画板的重生版，是基于 Ink Canvas 的设计理念和 UI 设计完全重构的一个项目，不基于任何先前项目的代码。相较于原版，DeskPen 提供了更加流畅高性能的体验、更易用的工具栏优化、以及部分新功能的合入。
+
+🏷 **关键词**：<br/>
+![屏幕批注](https://img.shields.io/badge/屏幕批注-white)
+![屏幕画板](https://img.shields.io/badge/屏幕画板-white)
+![桌面批注](https://img.shields.io/badge/桌面批注-white)
+![白板软件](https://img.shields.io/badge/白板软件-white)
+![形状识别](https://img.shields.io/badge/形状识别-white)
+![荧光笔](https://img.shields.io/badge/荧光笔-white)
+![Ink Canvas](https://img.shields.io/badge/Ink_Canvas-white)
+![PPT批注](https://img.shields.io/badge/PPT批注-white)
+
+💬 **Dubi906w 锐评**：又出了一个 Ink Canvas 家族的重制版，不知道这次，他能否经受住时间的考验呢？反正我对此是很看好的。**（2025 年 2 月 25 日： 该项目已经转为闭源开发）**
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub 1</b></td>
+    <td><a href="https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/">Awesome-Iwb/Ink-Canvas-Reborn</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub 2</b></td>
+    <td><a href="https://github.com/InkCanvas/Ink-Canvas-Reborn/">InkCanvas/Ink-Canvas-Reborn</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/aloisp28.png" width="20" height="20"/> <a href="https://github.com/aloisp28/">Dubi906w</a></td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+<br/>
+
 <img src="https://github.com/InkCanvas/InkCanvasForClass/raw/master/icc.png" width="56" height="56"/> 
 
 ### InkCanvasForClass
@@ -647,6 +649,8 @@ Inkways 是一款由 iNKORE Studios 开发的集成式墨迹套件，你可以�
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20979119289-white?style=flat&logo=qq)](https://qm.qq.com/q/1KuTeoJbco)
 
 </div>
+
+> **该项目已经停止更新。** 风轻抚着故事的种子，时间为其播种，亦为其滋养。岁月如水，既能让它在光阴中悄然萌发，也能让它在无情的流转中化为虚无，消逝于尘埃之中。
 
 Ink Canvas Artistry 的优化版本，重写了底层代码，优化了整体 UI 和程序性能，并带来了许多新功能（如鼠标手势，画面冻结，重制版形状绘制系统）。
 
@@ -767,6 +771,8 @@ ClassIsland 是一款适用于班级多媒体屏幕的课表信息显示工具�
 ![自动化](https://img.shields.io/badge/自动化-white)
 
 💬 **Dubi906w 锐评**：~~**非常好用，由你好微软草开发的课是地，使我开学必装**~~，支持多周轮换和临时课表，以及超高的自定义程度，CI 已经是目前最强大的桌面课表软件了，最近还上线了插件系统，可以通过自己开发插件来扩充 CI 的功能，非常推荐！
+
+💬 **HM 锐评**：classisland 目前来看没有课表软件比Ci好用（HelloWRC万岁！），但是整个软件配置比较复杂，不建议在班里电脑上盲开，建议先在家里设置好，研究明白再安到电脑上。如果你电脑水平较弱，那建议你别当电教移步其它软件
 
 <table align="center">
 <tr>
@@ -1201,6 +1207,8 @@ ClassBoard 是一款高自由度的，用于显示教学信息的壁纸软件，
 </div>
 
 **班级热搜排行榜** 是一款适用于班级多媒体大屏等场景，展示不同事件热度并支持投票的互动小工具。通过创新的热点的形式记录事件，以及投票的方式来提升不同事件的优先级，班级热搜能活跃氛围，更增进同学情谊。通过高自由度和流畅的交互设计以及 Material Design 3 先进的设计和动画风格，该软件对纯触摸交互也具有良好的兼容性。
+
+💬 **HM 锐评**：我估计是VB的通病，反应不灵敏（8代i5），其次建议开发一个延时更新列表功能，要不投票时榜单一跳一跳的不好操作，还有开机自启功能。 **以现在的体验来看，作为整活工具是可以的，作为投票器不好用，希望大佬进行优化。**
 
 🏷 **关键词**：<br/>
 ![桌面小组件](https://img.shields.io/badge/桌面小组件-white)
