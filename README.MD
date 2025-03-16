@@ -8,7 +8,41 @@
 
 适用于教学一体机、教学触摸屏和红外教学白板的 Windows 平台实用软件推荐合集。**为广大电教倾情撰写。**
 
-**🌟 每一个好的项目都值得被更多的人发现 🌟**
+**🌟 风带来故事的种子，时间使之发芽 🌟**
+
+<a href="./CONTRIBUTION.MD">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./images/navigation/贡献指南-白.svg">
+      <img alt="贡献指南" src="./images/navigation/贡献指南-黑.svg" height="48">
+    </picture>
+</a>&nbsp;
+<a href="https://github.com/Awesome-Iwb/Awesome-Iwb/issues/22">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./images/navigation/最新项目-白.svg">
+      <img alt="最新项目" src="./images/navigation/最新项目-黑.svg" height="48">
+    </picture>
+</a>&nbsp;
+<img alt="分隔符" height="48" src="./images/navigation/分隔符.svg" height="52">&nbsp;
+<a href="#%EF%B8%8F-屏幕批注与白板软件">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./images/navigation/白板软件-白.svg">
+      <img alt="白板软件" src="./images/navigation/白板软件-黑.svg" height="48">
+    </picture>
+</a>&nbsp;
+<a href="#-课表与看板类软件">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./images/navigation/课表看板-白.svg">
+      <img alt="课表看板" src="./images/navigation/课表看板-黑.svg" height="48">
+    </picture>
+</a>&nbsp;
+<a href="#%EF%B8%8F-辅助类软件与实用工具">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./images/navigation/工具辅助-白.svg">
+      <img alt="工具辅助" src="./images/navigation/工具辅助-黑.svg" height="48">
+    </picture>
+</a>&nbsp;
+
+<br/>
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0)
@@ -37,41 +71,16 @@
 > [!IMPORTANT]
 > 本项目正在迁移到 智教联盟论坛，GitHub 仓库依旧会继续更新。
 
-## 👂 提醒
-
-1. 若发现任何错误/过时信息，请通过提交 `Issue` 使我知晓。当然，您也可以自行修改后提交 `Pull Request` 。
-
-2. 欢迎添加内容！请按照当前已有格式添加。请确保您添加的软件对教学辅助有帮助或适合在班级一体机上使用，否则可能不会通过您的添加请求。
-
-3. 对于软件本体的错误或疑问，应在正确途径报告，而不是在本仓库发起 `Issue` 。
-
-4. ⚠️ **不允许直接将二进制分发包包体托管到该仓库内。** 但是您可以自行通过其他网盘服务托管后在 Aiwb 中附上网盘链接（🈲 禁止上传违法内容和软件的破解版、学习版、开心版和商业软件）
-
-5. 有商业版权的软件请先取得企业开发者的同意后再上传，否则您的上传可能会被我们移除或忽略。（ `iNKORE` 已被豁免）
-
-🚫 **严禁推荐、上传至本仓库或在本仓库公开分享 任何软件的破解版，开心版等版本的任何信息，违者将被封禁。**
-
-6. 若您开发的软件或项目在该列表上的，需要联系修改内容或移除内容的，请联系仓库维护者或组织内成员。
-
-7. **目录中无法导航到对应项目介绍的，要么是我还没写，要么就是超链接出了问题。**
-
-如果是后者，请通过添加 `Issue` 使我知晓。当然，您也可以自行修改问题后提交 `Pull Request` ，我会尽快审核后合并。
-
-8. **请在遵守中华人民共和国相关法律规定和您所在地区的当地法律法规的规定的情况下上传合法内容。**
-
-*严禁上传违法敏感内容，违者将被拉黑。*
-
-9. **该列表仅供参考，信息可能会更新不及时！**
-
-10. 该项目解释权与 **所有权** 归 `Awesome-Iwb` 组织内成员 所有。
-
 ## 👋 同类项目推荐
 
 [![Jursin/Awesome-Class-Softwares](https://github-readme-stats.vercel.app/api/pin/?username=Jursin&repo=Awesome-Class-Softwares&show_owner=true)](https://github.com/Jursin/Awesome-Class-Softwares)
 
 ## 📚 速览
 
-> **目前已经收录 43 个可用项目。 若包括正在处理中的项目，则有 57 个项目。**
+> **目前已经收录 47 个可用项目。**<br/>
+> **若包括正在处理中的项目，则有 57 个项目。**
+>
+> 活跃项目：37 个
 
 - 🥇 是指最推荐使用的、必装软件推荐，每个类别下至少有一个被标记的软件或项目。
 
@@ -113,7 +122,7 @@
 | [极序](#极序) ![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d) | 极序 |
 | [TimerIn](#timerin) ![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d) | <img src="https://github.com/SRInternet-Studio.png" width="20" height="20"/> `思锐工作室 SR-Studio` |
 | [ExamSchedule](#examschedule) ![GitHub Last Commit](https://img.shields.io/github/last-commit/ExamAware/ExamSchedule?label=updated) | <img src="https://github.com/MKStoler1024.png" width="20" height="20"/> `MKStoler1024` |
-| [Classworks](#classworks) ![GitHub Last Commit](https://img.shields.io/github/last-commit/ClassworksDev/Classworks?label=updated) | <img src="https://github.com/SunWuyuan.png" width="20" height="20"/> `孙悟元` |
+| 🔴 [Classworks](#classworks) ![GitHub Last Commit](https://img.shields.io/github/last-commit/ClassworksDev/Classworks?label=updated) | <img src="https://github.com/SunWuyuan.png" width="20" height="20"/> `孙悟元` |
 | ~~[CountBoard](#countboard)~~ (停更) | <img src="https://github.com/Gaoyongxian666.png" width="20" height="20"/> `gaoyongxian` |
 | ~~[灵动课表](#灵动课表)~~ (停更) | <img src="https://github.com/DuguSand.png" width="20" height="20"/> `DuguSand` |
 | ~~[ElectronClassSchedule](#electronclassschedule)~~ (停更) | <img src="https://github.com/EnderWolf006.png" width="20" height="20"/> `EnderWolf006` |
@@ -133,13 +142,15 @@
 | 🥈 [ENAL 希沃易登](#enal-希沃易登) ![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d) | <img src="https://static.nlrdev.top/developer-avatar/xiaocuitang.webp" width="20" height="20"/> `Xiaocuitang` |
 | [ExCaller](#ex-caller) ![GitHub Last Commit](https://img.shields.io/github/last-commit/typed-sigterm/ex-caller?label=updated) | <img src="https://github.com/typed-sigterm.png" width="20" height="20"/> `Typed SIGTERM` |
 | [ClassNamePicker](#classnamepicker) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Chengzi600/ClassNamePicker?label=updated) | <img src="https://github.com/Chengzi600.png" width="20" height="20"/> `Chengzi600` |
-| [SeewoHUB](#seewohub) ![GitHub Last Commit](https://img.shields.io/github/last-commit/CNwenwen/SeewoHUB?label=updated) | <img src="https://github.com/CNwenwen.png" width="20" height="20"/> `Hyjthfhtself` |
 | [SectionIstool](#sectionistool) ![GitHub Last Commit](https://img.shields.io/github/last-commit/SectionIstool/SectionIstool?label=updated) | <img src="https://github.com/lzy98276.png" width="20" height="20"/> `黎泽懿` |
 | [CountDownControl](#countdowncontrol) ![GitHub Last Commit](https://img.shields.io/github/last-commit/cjhdevact/CountDownControl?label=updated) | <img src="https://github.com/cjhdevact.png" width="20" height="20"/> `CJH` |
 | [LockTime](#locktime) ![GitHub Last Commit](https://img.shields.io/github/last-commit/cjhdevact/LockTime?label=updated) | <img src="https://github.com/cjhdevact.png" width="20" height="20"/> `CJH` |
 | [UsefulControl](#usefulcontrol) ![GitHub Last Commit](https://img.shields.io/github/last-commit/cjhdevact/UsefulControl?label=updated) | <img src="https://github.com/cjhdevact.png" width="20" height="20"/> `CJH` |
-| [Rand 抽号器](#rand-抽号器) ![GitHub Last Commit](https://img.shields.io/github/last-commit/LuoYunXi0407/Rand?label=updated) | <img src="https://github.com/LuoYunXi0407.png" width="20" height="20"/> `LuoYunXi` |
-| [NamePicker](#namepicker) ![GitHub Last Commit](https://img.shields.io/github/last-commit/NamePickerOrg/NamePicker?label=updated) | <img src="https://github.com/LHGS-github.png" width="20" height="20"/> `LHGS-github` |
+| 🥈 [Rand 抽号器](#rand-抽号器) ![GitHub Last Commit](https://img.shields.io/github/last-commit/LuoYunXi0407/Rand?label=updated) | <img src="https://github.com/LuoYunXi0407.png" width="20" height="20"/> `LuoYunXi` |
+| 🔴 [NamePicker](#namepicker) ![GitHub Last Commit](https://img.shields.io/github/last-commit/NamePickerOrg/NamePicker?label=updated) | <img src="https://github.com/LHGS-github.png" width="20" height="20"/> `LHGS-github` |
+| 🔴 [IslandCaller](#islandcaller) ![GitHub Last Commit](https://img.shields.io/github/last-commit/HUSX100/IslandCaller?label=updated) | <img src="https://github.com/HUSX100.png" width="20" height="20"/> `HUSX100` |
+| 🔴 ~~[ClassDashboard](#classdashboard)~~ (停更) | <img src="https://github.com/HUSX100.png" width="20" height="20"/> `HUSX100` |
+| ~~[SeewoHUB](#seewohub)~~ (停更) | <img src="https://github.com/CNwenwen.png" width="20" height="20"/> `Hyjthfhtself` |
 
 
 <br/>
@@ -1403,7 +1414,7 @@ TimerIn 是由 思锐工作室 开发的一款 桌面时钟小工具软件。支
 
 ### ExamSchedule
 
-![banner](https://github.com/user-attachments/assets/0bcf81f7-956b-4bf5-9354-a282d168e972)
+![banner](https://github.com/ExamAware/ExamSchedule/raw/main/doc/exam.png)
 
 [![stars](https://img.shields.io/github/stars/ExamAware/ExamSchedule?style=flat&color=red)](https://github.com/ExamAware/ExamSchedule/stargazers)
 [![forks](https://img.shields.io/github/forks/ExamAware/ExamSchedule?style=flat&color=blue)](https://github.com/ExamAware/ExamSchedule/forks)
@@ -1441,6 +1452,53 @@ TimerIn 是由 思锐工作室 开发的一款 桌面时钟小工具软件。支
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>开发者</b></td>
     <td><img src="https://github.com/MKStoler1024.png" width="20" height="20"/> <a href="https://github.com/MKStoler1024/">MKStoler1024</a></td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+<br/>
+
+### Classworks
+
+![banner](./banner/classworks-banner.png)
+
+![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
+[![stars](https://img.shields.io/github/stars/ClassworksDev/Classworks?style=flat&color=red)](https://github.com/ClassworksDev/Classworks/stargazers)
+[![forks](https://img.shields.io/github/forks/ClassworksDev/Classworks?style=flat&color=blue)](https://github.com/ClassworksDev/Classworks/forks)
+[![Watchers](https://img.shields.io/github/watchers/ClassworksDev/Classworks?style=flat&color=green)](https://github.com/ClassworksDev/Classworks/watchers)
+[![Downloads](https://img.shields.io/github/downloads/ClassworksDev/Classworks/total?style=flat&logo=github)](https://github.com/ClassworksDev/Classworks/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/ClassworksDev/Classworks?query=is%3Aopen&label=issues&color=purple)](https://github.com/ClassworksDev/Classworks/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/ClassworksDev/Classworks?style=flat)](https://github.com/ClassworksDev/Classworks/discussions)
+[![Created At](https://img.shields.io/github/created-at/ClassworksDev/Classworks)](https://github.com/ClassworksDev/Classworks)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/ClassworksDev/Classworks)](https://github.com/ClassworksDev/Classworks/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/ClassworksDev/Classworks)](https://github.com/ClassworksDev/Classworks)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/ClassworksDev/Classworks)](https://github.com/ClassworksDev/Classworks)
+![GitHub License](https://img.shields.io/github/license/ClassworksDev/Classworks?color=red)
+
+</div>
+
+[HomeworkBoard](#homeworkboard) 的继任者，一个全新的作业板。基于 Vue+Vuetify 开发，支持显示出勤情况，支持和 IslandCaller 联动快速启动随机点名工具。
+
+🏷 **关键词**：<br/>
+![作业看板](https://img.shields.io/badge/作业看板-white)
+![出勤看板](https://img.shields.io/badge/出勤看板-white)
+![多平台支持](https://img.shields.io/badge/多平台支持-white)
+![Web](https://img.shields.io/badge/Web-white)
+![Vue](https://img.shields.io/badge/Vue-white)
+![随机点名](https://img.shields.io/badge/随机点名-white)
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/ClassworksDev/Classworks/">ClassworksDev/Classworks</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/SunWuyuan.png" width="20" height="20"/> <a href="https://github.com/SunWuyuan/">孙悟元</a></td>
 </tr>
 </table>
 
@@ -2070,45 +2128,6 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
 <br/>
 <br/>
 
-<img src="https://github.com/user-attachments/assets/a0d2487f-7c3c-4dce-a3f9-125658d8386f" height="56" width="56"/> 
-
-### SeewoHUB
-
-![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
-[![stars](https://img.shields.io/github/stars/CNwenwen/SeewoHUB?style=flat&color=red)](https://github.com/CNwenwen/SeewoHUB/stargazers)
-[![forks](https://img.shields.io/github/forks/CNwenwen/SeewoHUB?style=flat&color=blue)](https://github.com/CNwenwen/SeewoHUB/forks)
-[![Watchers](https://img.shields.io/github/watchers/CNwenwen/SeewoHUB?style=flat&color=green)](https://github.com/CNwenwen/SeewoHUB/watchers)
-[![Downloads](https://img.shields.io/github/downloads/CNwenwen/SeewoHUB/total?style=flat&logo=github)](https://github.com/CNwenwen/SeewoHUB/releases)<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/CNwenwen/SeewoHUB?query=is%3Aopen&label=issues&color=purple)](https://github.com/CNwenwen/SeewoHUB/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/CNwenwen/SeewoHUB?style=flat)](https://github.com/CNwenwen/SeewoHUB/discussions)
-[![Created At](https://img.shields.io/github/created-at/CNwenwen/SeewoHUB)](https://github.com/CNwenwen/SeewoHUB)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/CNwenwen/SeewoHUB)](https://github.com/CNwenwen/SeewoHUB/commits/master)<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/CNwenwen/SeewoHUB)](https://github.com/CNwenwen/SeewoHUB)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/CNwenwen/SeewoHUB)](https://github.com/CNwenwen/SeewoHUB)
-![GitHub License](https://img.shields.io/github/license/CNwenwen/SeewoHUB?color=red)
-
-</div>
-
-一款方便、快捷的下载各类 希沃一体机教学软件 的软件
-
-<table align="center">
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>GitHub</b></td>
-    <td><a href="https://github.com/CNwenwen/SeewoHUB/">CNwenwen/SeewoHUB</a></td>
-</tr>
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>开发者</b></td>
-    <td><img src="https://github.com/CNwenwen.png" width="20" height="20"/> <a href="https://github.com/CNwenwen/">Hyjthfhtself</a></td>
-</tr>
-</table>
-
-<div align="center">
-
-<br/>
-<br/>
-
 <img src="https://github.com/SectionIstool/SectionIstool/raw/main/resources/SectionIstool_icon.png" height="56" width="56"/> 
 
 ### SectionIstool
@@ -2308,6 +2327,178 @@ Rand 是一款简洁、现代化、易用的抽号软件，专为触摸屏设备
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>开发者</b></td>
     <td><img src="https://github.com/LuoYunXi0407.png" width="20" height="20"/> <a href="https://github.com/LuoYunXi0407/">LuoYunXi</a></td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+<br/>
+
+<img src="https://github.com/NamePickerOrg.png" height="56" width="56"/> 
+
+### NamePicker
+
+![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
+[![stars](https://img.shields.io/github/stars/NamePickerOrg/NamePicker?style=flat&color=red)](https://github.com/NamePickerOrg/NamePicker/stargazers)
+[![forks](https://img.shields.io/github/forks/NamePickerOrg/NamePicker?style=flat&color=blue)](https://github.com/NamePickerOrg/NamePicker/forks)
+[![Watchers](https://img.shields.io/github/watchers/NamePickerOrg/NamePicker?style=flat&color=green)](https://github.com/NamePickerOrg/NamePicker/watchers)
+[![Downloads](https://img.shields.io/github/downloads/NamePickerOrg/NamePicker/total?style=flat&logo=github)](https://github.com/NamePickerOrg/NamePicker/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/NamePickerOrg/NamePicker?query=is%3Aopen&label=issues&color=purple)](https://github.com/NamePickerOrg/NamePicker/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/NamePickerOrg/NamePicker?style=flat)](https://github.com/NamePickerOrg/NamePicker/discussions)
+[![Created At](https://img.shields.io/github/created-at/NamePickerOrg/NamePicker)](https://github.com/NamePickerOrg/NamePicker)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/NamePickerOrg/NamePicker)](https://github.com/NamePickerOrg/NamePicker/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/NamePickerOrg/NamePicker)](https://github.com/NamePickerOrg/NamePicker)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/NamePickerOrg/NamePicker)](https://github.com/NamePickerOrg/NamePicker)
+![GitHub License](https://img.shields.io/github/license/NamePickerOrg/NamePicker?color=red)
+
+</div>
+
+NamePicker 是用 Python 开发的一款简洁的点名软件。提供了最基本的点名功能，还提供了人性化的配置修改界面（不过我还没试，过几天看看，他们倒是提供了网页版的修改工具），支持从外部读取名单，支持特殊的点名规则。
+
+💬 **Dubi906w 锐评**：看起来可以试试，有图有真相，过几天把图加上给大家看看。
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/NamePickerOrg/NamePicker/">NamePickerOrg/NamePicker</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub(编辑器)</b></td>
+    <td><a href="https://github.com/NamePickerOrg/NP-NameEditor/">NamePickerOrg/NP-NameEditor</a></td>
+</tr>
+<tr>
+    <td><img src="images/streamlit-icon.svg" width="18" height="18"></td>
+    <td><b>编辑器Web</b></td>
+    <td><a href="https://np-nameeditor.streamlit.app/">np-nameeditor.streamlit.app</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/LuoYunXi0407.png" width="20" height="20"/> <a href="https://github.com/LuoYunXi0407/">LuoYunXi</a></td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+<br/>
+
+<img src="./images/islandcaller-icon.png" height="56" width="56"/> 
+
+### IslandCaller
+
+![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
+[![stars](https://img.shields.io/github/stars/HUSX100/IslandCaller?style=flat&color=red)](https://github.com/HUSX100/IslandCaller/stargazers)
+[![forks](https://img.shields.io/github/forks/HUSX100/IslandCaller?style=flat&color=blue)](https://github.com/HUSX100/IslandCaller/forks)
+[![Watchers](https://img.shields.io/github/watchers/HUSX100/IslandCaller?style=flat&color=green)](https://github.com/HUSX100/IslandCaller/watchers)
+[![Downloads](https://img.shields.io/github/downloads/HUSX100/IslandCaller/total?style=flat&logo=github)](https://github.com/HUSX100/IslandCaller/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/HUSX100/IslandCaller?query=is%3Aopen&label=issues&color=purple)](https://github.com/HUSX100/IslandCaller/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/HUSX100/IslandCaller?style=flat)](https://github.com/HUSX100/IslandCaller/discussions)
+[![Created At](https://img.shields.io/github/created-at/HUSX100/IslandCaller)](https://github.com/HUSX100/IslandCaller)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HUSX100/IslandCaller)](https://github.com/HUSX100/IslandCaller/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/HUSX100/IslandCaller)](https://github.com/HUSX100/IslandCaller)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/HUSX100/IslandCaller)](https://github.com/HUSX100/IslandCaller)
+![GitHub License](https://img.shields.io/github/license/HUSX100/IslandCaller?color=red)
+
+</div>
+
+**IslandCaller 是一个基于 ClassIsland 提醒服务的轻量级点名器** ，用于在课堂上快速点名。输入班级名单后，可以通过桌面快捷方式快速点名。依赖 ClassIsland 的提醒服务，通过注册 URL 协议来创建桌面快捷方式或浏览器书签实现快速点名。
+
+💬 **Dubi906w 锐评**：有幸体验过该项目，但是目前来说真的很 **“轻量”** ，就只支持创建快捷方式到桌面。编辑名单的体验并不是很好。只能说，作为一个 ClassIsland 插件来说，依托于 ClassIsland 的提醒服务，安装方便，易于使用的确是优点，但是部分基本功能的缺乏，以及自定义性还有待加强，而且 ClassIsland 的提醒众所周知，文字都比较小，刚好抽选到的学生名字又是显示为提醒内容，导致可读性不高，看着不明显。希望后续能有所改进。
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/HUSX100/IslandCaller/">HUSX100/IslandCaller</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/HUSX100.png" width="20" height="20"/> <a href="https://github.com/HUSX100/">HUSX100</a></td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+<br/>
+
+<img src="./images/classdashboard-icon.png" height="56" width="56"/> 
+
+### ClassDashboard
+
+![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
+[![stars](https://img.shields.io/github/stars/HUSX100/ClassDashboard?style=flat&color=red)](https://github.com/HUSX100/ClassDashboard/stargazers)
+[![forks](https://img.shields.io/github/forks/HUSX100/ClassDashboard?style=flat&color=blue)](https://github.com/HUSX100/ClassDashboard/forks)
+[![Watchers](https://img.shields.io/github/watchers/HUSX100/ClassDashboard?style=flat&color=green)](https://github.com/HUSX100/ClassDashboard/watchers)
+[![Downloads](https://img.shields.io/github/downloads/HUSX100/ClassDashboard/total?style=flat&logo=github)](https://github.com/HUSX100/ClassDashboard/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/HUSX100/ClassDashboard?query=is%3Aopen&label=issues&color=purple)](https://github.com/HUSX100/ClassDashboard/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/HUSX100/ClassDashboard?style=flat)](https://github.com/HUSX100/ClassDashboard/discussions)
+[![Created At](https://img.shields.io/github/created-at/HUSX100/ClassDashboard)](https://github.com/HUSX100/ClassDashboard)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HUSX100/ClassDashboard)](https://github.com/HUSX100/ClassDashboard/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/HUSX100/ClassDashboard)](https://github.com/HUSX100/ClassDashboard)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/HUSX100/ClassDashboard)](https://github.com/HUSX100/ClassDashboard)
+![GitHub License](https://img.shields.io/github/license/HUSX100/ClassDashboard?color=red)
+
+</div>
+
+> 该项目已经停止更新。该开发者目前正在积极维护 [IslandCaller](#islandcaller) 项目
+
+一个班级希沃电脑桌面仪表盘。（Dubi906w留言：等待取得更多信息...）
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/CNwenwen/SeewoHUB/">CNwenwen/SeewoHUB</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/CNwenwen.png" width="20" height="20"/> <a href="https://github.com/CNwenwen/">Hyjthfhtself</a></td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+<br/>
+
+<img src="https://github.com/user-attachments/assets/a0d2487f-7c3c-4dce-a3f9-125658d8386f" height="56" width="56"/> 
+
+### SeewoHUB
+
+![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
+[![stars](https://img.shields.io/github/stars/CNwenwen/SeewoHUB?style=flat&color=red)](https://github.com/CNwenwen/SeewoHUB/stargazers)
+[![forks](https://img.shields.io/github/forks/CNwenwen/SeewoHUB?style=flat&color=blue)](https://github.com/CNwenwen/SeewoHUB/forks)
+[![Watchers](https://img.shields.io/github/watchers/CNwenwen/SeewoHUB?style=flat&color=green)](https://github.com/CNwenwen/SeewoHUB/watchers)
+[![Downloads](https://img.shields.io/github/downloads/CNwenwen/SeewoHUB/total?style=flat&logo=github)](https://github.com/CNwenwen/SeewoHUB/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/CNwenwen/SeewoHUB?query=is%3Aopen&label=issues&color=purple)](https://github.com/CNwenwen/SeewoHUB/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/CNwenwen/SeewoHUB?style=flat)](https://github.com/CNwenwen/SeewoHUB/discussions)
+[![Created At](https://img.shields.io/github/created-at/CNwenwen/SeewoHUB)](https://github.com/CNwenwen/SeewoHUB)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/CNwenwen/SeewoHUB)](https://github.com/CNwenwen/SeewoHUB/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/CNwenwen/SeewoHUB)](https://github.com/CNwenwen/SeewoHUB)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/CNwenwen/SeewoHUB)](https://github.com/CNwenwen/SeewoHUB)
+![GitHub License](https://img.shields.io/github/license/CNwenwen/SeewoHUB?color=red)
+
+</div>
+
+一款方便、快捷的下载各类 希沃一体机教学软件 的软件
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/CNwenwen/SeewoHUB/">CNwenwen/SeewoHUB</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/CNwenwen.png" width="20" height="20"/> <a href="https://github.com/CNwenwen/">Hyjthfhtself</a></td>
 </tr>
 </table>
 
