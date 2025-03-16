@@ -2,7 +2,7 @@
   "projectName": "Awesome-Iwb",
   "projectOwner": "Awesome-Iwb",
   "files": [
-    "README.MD"
+    "README.md"
   ],
   "commitType": "docs",
   "commitConvention": "angular",
