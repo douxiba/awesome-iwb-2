@@ -1465,7 +1465,7 @@ TimerIn 是由 思锐工作室 开发的一款 桌面时钟小工具软件。支
 
 ### Classworks
 
-![banner](./banner/classworks-banner.png)
+![banner](https://github.com/ClassworksDev/Classworks/blob/main/images/banner.png?raw=true)
 
 ![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
 [![stars](https://img.shields.io/github/stars/ClassworksDev/Classworks?style=flat&color=red)](https://github.com/ClassworksDev/Classworks/stargazers)
@@ -1482,7 +1482,7 @@ TimerIn 是由 思锐工作室 开发的一款 桌面时钟小工具软件。支
 
 </div>
 
-[HomeworkBoard](#homeworkboard) 的继任者，一个全新的作业板。基于 Vue+Vuetify 开发，支持显示出勤情况，支持和 IslandCaller 联动快速启动随机点名工具。
+[HomeworkBoard](#homeworkboard) 的继任者，一个全新的作业板。基于 Vue+Vuetify 开发，可以在班级内记录并排版清晰地展示作业、快捷记录出勤情况，支持本地/云端存储，快捷唤起 Islandcaller 等等功能，并不断更新中。
 
 🏷 **关键词**：<br/>
 ![作业看板](https://img.shields.io/badge/作业看板-white)
@@ -1491,6 +1491,7 @@ TimerIn 是由 思锐工作室 开发的一款 桌面时钟小工具软件。支
 ![Web](https://img.shields.io/badge/Web-white)
 ![Vue](https://img.shields.io/badge/Vue-white)
 ![随机点名](https://img.shields.io/badge/随机点名-white)
+![ClassIsland](https://img.shields.io/badge/ClassIsland-white)
 
 <table align="center">
 <tr>
