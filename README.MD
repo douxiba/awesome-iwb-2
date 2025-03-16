@@ -13,35 +13,36 @@
 <a href="./CONTRIBUTION.MD">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./images/navigation/贡献指南-白.svg">
-      <img alt="贡献指南" src="./images/navigation/贡献指南-黑.svg" height="48">
+      <img alt="贡献指南" src="./images/navigation/贡献指南-黑.svg" height="52">
     </picture>
 </a>&nbsp;
 <a href="https://github.com/Awesome-Iwb/Awesome-Iwb/issues/22">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./images/navigation/最新项目-白.svg">
-      <img alt="最新项目" src="./images/navigation/最新项目-黑.svg" height="48">
+      <img alt="最新项目" src="./images/navigation/最新项目-黑.svg" height="52">
     </picture>
 </a>&nbsp;
-<img alt="分隔符" height="48" src="./images/navigation/分隔符.svg" height="52">&nbsp;
+<img alt="分隔符" height="52" src="./images/navigation/分隔符.svg">&nbsp;
 <a href="#%EF%B8%8F-屏幕批注与白板软件">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./images/navigation/白板软件-白.svg">
-      <img alt="白板软件" src="./images/navigation/白板软件-黑.svg" height="48">
+      <img alt="白板软件" src="./images/navigation/白板软件-黑.svg" height="52">
     </picture>
 </a>&nbsp;
 <a href="#-课表与看板类软件">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./images/navigation/课表看板-白.svg">
-      <img alt="课表看板" src="./images/navigation/课表看板-黑.svg" height="48">
+      <img alt="课表看板" src="./images/navigation/课表看板-黑.svg" height="52">
     </picture>
 </a>&nbsp;
 <a href="#%EF%B8%8F-辅助类软件与实用工具">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./images/navigation/工具辅助-白.svg">
-      <img alt="工具辅助" src="./images/navigation/工具辅助-黑.svg" height="48">
+      <img alt="工具辅助" src="./images/navigation/工具辅助-黑.svg" height="52">
     </picture>
 </a>&nbsp;
 
+<br/>
 <br/>
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
