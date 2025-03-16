@@ -12,7 +12,7 @@
 
 **🌟 风带来故事的种子，时间使之发芽 🌟**
 
-<a href="./CONTRIBUTION.MD">
+<a href="./CONTRIBUTING.md">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./images/navigation/贡献指南-白.svg">
       <img alt="贡献指南" src="./images/navigation/贡献指南-黑.svg" height="52">
