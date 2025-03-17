@@ -283,6 +283,8 @@ Ink Canvas 的优化版本，添加了更多功能（比如自动收纳、自动
 
 💬 **Dubi906w 锐评**：非常推荐，除掉 ICC，是唯一用着比较舒服的屏幕批注软件，自动收纳有点小问题（2024 年 9 月 21 日，希沃白板 5 和希沃系软件的 Popup 弹窗会出 Bug），图片插入还是测试版，不过依旧还是好用！
 
+💬 **HM 锐评**：
+
 <table align="center">
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
@@ -1017,6 +1019,8 @@ ExtraIsland 是一个 ClassIsland 插件，为 ClassIsland 提供了一些小小
 
 💬 **Dubi906w 锐评**：目前 ClassIsland 功能最全的插件，非它莫属。
 
+💬 **HM 锐评**：
+
 <table align="center">
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
@@ -1399,7 +1403,7 @@ TimerIn 是由 思锐工作室 开发的一款 桌面时钟小工具软件。支
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>官网</b></td>
-    <td><a href="https://timerin.sr-studio.top/">https://timerin.sr-studio.top/</a></td>
+    <td><a href="https://timerin.sr-studio.top/">https://timerin.sr-studio.top（已无法访问）/</a></td>
 </tr>
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
