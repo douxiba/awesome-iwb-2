@@ -52,7 +52,7 @@
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)<br/>
 ![GitHub last commit](https://img.shields.io/github/last-commit/awesome-iwb/awesome-iwb)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https://github.com/awesome-iwb/awesome-iwb&label=Visitors&countColor=%23263759&style=flat)
-![Lastest Update](https://img.shields.io/badge/%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0-2025%E5%B9%B43%E6%9C%8816%E6%97%A5-orange)
+![Lastest Update](https://img.shields.io/badge/%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0-2025%E5%B9%B43%E6%9C%8821%E6%97%A5-orange)
 
 ![Repobeats Analyzer](https://repobeats.axiom.co/api/embed/71f72cdd85b0b13b41e368b54f1f94f3d378c9fa.svg "Repobeats analytics image")
 
@@ -66,17 +66,13 @@
 ## ⚠️ 注意
 
 > [!IMPORTANT]
-> 在使用任何软件之前，应仔细阅读其仓库中的 README 或其他形式的说明。
+> 在使用任何软件之前，应仔细阅读其仓库中的 README 或其他形式的说明。本文档旨在推荐以下优质软件，尽可能详细展现其功能，如欲提出问题，请前往对应开源仓库/交流平台。
 
 > [!WARNING]
-> 以下软件均为免费，如遇收费提示请注意甄别！
+> 以下软件均为免费或非买断制，如遇收费提示请注意甄别是否为盗版软件！
 
 > [!IMPORTANT]
 > 本项目正在迁移到 智教联盟论坛，GitHub 仓库依旧会继续更新。
-
-## 👋 同类项目推荐
-
-[![Jursin/Awesome-Class-Softwares](https://github-readme-stats.vercel.app/api/pin/?username=Jursin&repo=Awesome-Class-Softwares&show_owner=true)](https://github.com/Jursin/Awesome-Class-Softwares)
 
 ## 📚 速览
 
@@ -2558,21 +2554,32 @@ NamePicker 是用 Python 开发的一款简洁的点名软件。提供了最基�
 
 - <image src="https://github.com/ClassIsland.png" height="18"/> **[ClassIsland Hub](https://hub.classisland.tech/)** - 展示亿些 ClassIsland 交流群/频道里面的乐子。
 
+- **[RinlitHub](https://mcableblank.github.io/RinlitHub/)** - Class-Widgets 开发者的Hub，收集 CW 交流群里面的乐子。
+
 - <image src="./images/misaka-space-icon.png" height="18"/> **[电教委入门指南](https://tutorial.misaka.space/)** - 从小白到高手，轻松玩转班级一体机。
 
 - <image src="./images/misaka-space-icon.png" height="18"/> **[seewoGeekWiki](https://wiki.misaka.space/)** - 希沃业绩售后冲击部官方 Wiki。
 
+- **[希沃折腾手册](https://kdocs.cn/l/coHT3CUcoQDV)** - 希沃一体机折腾手册，整理了许多一体机折腾的教程。
+
+- **[智教联盟论坛](https://forum.smart-teach.cn/)** - 专属于电教委的论坛，轻松玩转板机一体机。
+
+## 👋 同类项目推荐
+
+[![Jursin/Awesome-Class-Softwares](https://github-readme-stats.vercel.app/api/pin/?username=Jursin&repo=Awesome-Class-Softwares&show_owner=true)](https://github.com/Jursin/Awesome-Class-Softwares)
+
+
 ## 🫓 大饼们
 
-1. 上传蓝奏云、Telegram 和 MediaFire 的网盘 Releases 备份。（）
+1. 上传蓝奏云、Telegram 和 MediaFire 的网盘 Releases 备份。
 2. 在 gitlab，gitcode 上创建镜像仓库。
-3. 补全各个项目的官方网站，QQ 群，宣传视频链接。
-4. 为部分项目单独创建页面。
+3. 补全各个项目的官方网站，QQ 群，宣传视频链接（抄袭一下隔壁acs的链接聚合😂）。
+4. 为部分项目单独创建页面，来存放有关该项目周边的项目如插件一类。
 5. 为部分开发者单独创建页面，存放其相关联的其他项目和存储库。
 6. 添加新项目。
-7. 让 aiwb 自动化（实现 aiwb-cli，让 aiwb 的 README 从源数据自动化生成与排序）。
-8. 实现项目和开发者活跃度指数。
 
 ## Copyright
 
 Copyright 2025 HARKOTEK Studio. All right reserved.
+
+Copyright 2025 Dubi906w.
