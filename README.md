@@ -57,7 +57,7 @@
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)<br/>
 ![GitHub last commit](https://img.shields.io/github/last-commit/awesome-iwb/awesome-iwb)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https://github.com/awesome-iwb/awesome-iwb&label=Visitors&countColor=%23263759&style=flat)
-![Lastest Update](https://img.shields.io/badge/%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0-2025%E5%B9%B43%E6%9C%8821%E6%97%A5-orange)
+![Lastest Update](https://img.shields.io/badge/%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0-2025%E5%B9%B43%E6%9C%8822%E6%97%A5-orange)
 
 ![Repobeats Analyzer](https://repobeats.axiom.co/api/embed/71f72cdd85b0b13b41e368b54f1f94f3d378c9fa.svg "Repobeats analytics image")
 
