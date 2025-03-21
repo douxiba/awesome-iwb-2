@@ -4,7 +4,12 @@
 
 <br/>
 
-# Awesome Iwb
+<h1>
+<picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./images/fontlogo/aiwb-font-white.png">
+      <img alt="贡献指南" src="./images/fontlogo/aiwb-font-dark.png" height="28">
+    </picture>
+</h1>
 
 全网收集最全的适用于教学一体机、教学触摸屏<br/>
 和红外教学白板的 Windows 平台实用软件推荐合集。<br/>
