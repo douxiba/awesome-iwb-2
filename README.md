@@ -7,7 +7,7 @@
 <h1>
 <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./images/fontlogo/aiwb-font-white.png">
-      <img alt="贡献指南" src="./images/fontlogo/aiwb-font-dark.png" height="28">
+      <img alt="aiwb-logo" src="./images/fontlogo/aiwb-font-dark.png" height="28">
     </picture>
 </h1>
 
@@ -64,7 +64,7 @@
 </div>
 
 > [!WARNING]
-> 目前有对 Awesome Iwb 的重大内容更新正在处理中，您看到的内容可能不完整或会出现错误，请以 本次内容更新完成后的版本 为准。本次更新开始于 **2025年 3 月 15 日** ， **预计在 2 周内完工** 。
+> Awesome Iwb 暂缓维护（因为手动维护太麻烦了）。目前本人全部精力正在放在 aiwb-web（网页版）的开发上。网页版预计5月份上线，发布后将停止维护 Awesome Iwb GitHub 版本（或许后面会使用网页版的元数据做成自动生成的 README 版本，但谁能笃定呢？）。（注意：这不是愚人节笑话）
 
 ---
 
