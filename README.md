@@ -557,8 +557,6 @@ Inkways 是一款由 iNKORE Studios 开发的集成式墨迹套件，你可以�
 
 ### Inkways Legacy
 
-![banner](banner/inkways-classic.png)
-
 ![专有软件](https://img.shields.io/badge/%E4%B8%93%E6%9C%89%E8%BD%AF%E4%BB%B6-%23dc2626?style=flat&labelColor=%237f1d1d)
 ![Design](https://img.shields.io/badge/Fluent%20Design%20System-003E92)
 ![Price](https://img.shields.io/badge/price-free-green)
