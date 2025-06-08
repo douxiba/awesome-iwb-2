@@ -64,7 +64,8 @@
 </div>
 
 > [!WARNING]
-> Awesome Iwb 将在五一节发布内容更新。目前本人全部精力正在放在 aiwb-web（网页版）的开发上。网页版预计5月份上线，发布后将停止维护 Awesome Iwb GitHub 版本（或许后面会使用网页版的元数据做成自动生成的 README 版本，但谁能笃定呢？）。
+> 由于Dubi906w的个人原因，Awesome Iwb markdown版本目前已暂时由我维护。aiwb-web已停止开发。
+>— —2,2,3-三甲基戊烷（2-2-3-trimethylpentane）
 
 ---
 
