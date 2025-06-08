@@ -101,6 +101,7 @@
 | 🥈 ~~[Ink Canvas](#ink-canvas)~~ ![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/WXRIW.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/WXRIW.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/WXRIW"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-WXRIW-white?style=flat-square&logo=github&logoColor=white&color=rgba(0%2C0%2C0%2C0)"><img src="https://img.shields.io/badge/-WXRIW-white?style=flat-square&logo=github&logoColor=black&color=rgba(255%2C255%2C255%2C0)" height="20"/></picture></a> |
 | 🥇 [Ink Canvas Artistry](#ink-canvas-artistry) ![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/WuChanging.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/WuChanging.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/WuChanging"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-WuChanging-white?style=flat-square&logo=github&logoColor=white&color=rgba(0%2C0%2C0%2C0)"><img src="https://img.shields.io/badge/-WuChanging-white?style=flat-square&logo=github&logoColor=black&color=rgba(255%2C255%2C255%2C0)" height="20"/></picture></a> |
 | 🥈 [智绘教 Inkeys](#智绘教-inkeys) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Alan-CRL/Inkeys?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Alan-CRL.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Alan-CRL.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Alan-CRL"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Alan--CRL-white?style=flat-square&logo=github&logoColor=white&color=rgba(0%2C0%2C0%2C0)"><img src="https://img.shields.io/badge/-Alan--CRL-white?style=flat-square&logo=github&logoColor=black&color=rgba(255%2C255%2C255%2C0)" height="20"/></picture></a> |
+| 🌟 [ICC-CE](#icc-ce) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/CJKmkp/ICC-CE?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/CJKmkp.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/CJKmkp.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/CJKmkp"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-CJKmkp-black?style=flat-square&logo=github&logoColor=white&color=white"><img src="https://img.shields.io/badge/-CJKmkp-black?style=flat-square&logo=github&logoColor=black&color=white" height="20"/></picture></a> |
 | 🌟 [SketchNow](#sketchnow) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/SketchNow/SketchNow.WPF?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/realybin.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/realybin.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/realybin"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-realybin-white?style=flat-square&logo=github&logoColor=white&color=rgba(0%2C0%2C0%2C0)"><img src="https://img.shields.io/badge/-realybin-white?style=flat-square&logo=github&logoColor=black&color=rgba(255%2C255%2C255%2C0)" height="20"/></picture></a> |
 | [ppInk](#ppink) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/pubpub-zz/ppInk?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/pubpub-zz.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/pubpub-zz.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/pubpub-zz"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-pubpub--zz-white?style=flat-square&logo=github&logoColor=white&color=rgba(0%2C0%2C0%2C0)"><img src="https://img.shields.io/badge/-pubpub--zz-white?style=flat-square&logo=github&logoColor=black&color=rgba(255%2C255%2C255%2C0)" height="20"/></picture></a> |
 | [Inkways](#inkways-wip) ![闭源](https://img.shields.io/badge/%E9%97%AD%E6%BA%90-%23ca8a04?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/iNKORE-NET.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/iNKORE-NET.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/iNKORE-NET"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-iNKORE--NET-white?style=flat-square&logo=github&logoColor=white&color=rgba(0%2C0%2C0%2C0)"><img src="https://img.shields.io/badge/-iNKORE--NET-white?style=flat-square&logo=github&logoColor=black&color=rgba(255%2C255%2C255%2C0)" height="20"/></picture></a> |
@@ -108,6 +109,7 @@
 | [LemonxNote](#lemonxnote-柠檬白板) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/lh11117/LemonxNote?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/lh11117.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/lh11117.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/lh11117"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-lh11117-white?style=flat-square&logo=github&logoColor=white&color=rgba(0%2C0%2C0%2C0)"><img src="https://img.shields.io/badge/-lh11117-white?style=flat-square&logo=github&logoColor=black&color=rgba(255%2C255%2C255%2C0)" height="20"/></picture></a> |
 | ~~[DeskPen](#deskpen)~~ ![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/aloisp28.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/aloisp28.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/aloisp28"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-aloisp28-white?style=flat-square&logo=github&logoColor=white&color=rgba(0%2C0%2C0%2C0)"><img src="https://img.shields.io/badge/-aloisp28-white?style=flat-square&logo=github&logoColor=black&color=rgba(255%2C255%2C255%2C0)" height="20"/></picture></a> |
 | ~~[InkCanvasForClass](#inkcanvasforclass)~~ ![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/aloisp28.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/aloisp28.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/aloisp28"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-aloisp28-white?style=flat-square&logo=github&logoColor=white&color=rgba(0%2C0%2C0%2C0)"><img src="https://img.shields.io/badge/-aloisp28-white?style=flat-square&logo=github&logoColor=black&color=rgba(255%2C255%2C255%2C0)" height="20"/></picture></a> |
+
 
 ### 📊 课表与看板类软件
 
@@ -400,7 +402,71 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 <br/>
 <br/>
 
+<div align="center">
+<br/>
+<br/>
+<img src="https://github.com/awesome-iwb/icc-ce/raw/main/icc.png" width="56" height="56"/> 
+
+
+
+### ICC-CE
+
+![banner](https://github.com/user-attachments/assets/09f98879-06a4-4de2-8fc0-b9affdd7b966)
+
+
+
+
+![New!](https://img.shields.io/badge/新项目-blue)
+[![stars](https://img.shields.io/github/stars/CJKmkp/ICC-CE?style=flat&color=red)](https://github.com/CJKmkp/ICC-CE/stargazers)
+[![forks](https://img.shields.io/github/forks/CJKmkp/ICC-CE?style=flat&color=blue)](https://github.com/CJKmkp/ICC-CE/forks)
+[![Watchers](https://img.shields.io/github/watchers/CJKmkp/ICC-CE?style=flat&color=green)](https://github.com/CJKmkp/ICC-CE/watchers)
+[![Downloads](https://img.shields.io/github/downloads/CJKmkp/ICC-CE/total?style=flat&logo=github)](https://github.com/CJKmkp/ICC-CE/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/CJKmkp/ICC-CE?query=is%3Aopen&label=issues&color=purple)](https://github.com/CJKmkp/ICC-CE/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/CJKmkp/ICC-CE?style=flat)](https://github.com/CJKmkp/ICC-CE/discussions)
+[![Created At](https://img.shields.io/github/created-at/CJKmkp/ICC-CE)](https://github.com/CJKmkp/ICC-CE)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/CJKmkp/ICC-CE)](https://github.com/CJKmkp/ICC-CE/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/CJKmkp/ICC-CE)](https://github.com/CJKmkp/ICC-CE)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/CJKmkp/ICC-CE)](https://github.com/CJKmkp/ICC-CE)
+![GitHub License](https://img.shields.io/github/license/CJKmkp/ICC-CE?color=red)
+[![交流群](https://img.shields.io/badge/交流群%201054377349-white?style=flat&logo=qq)](https://qm.qq.com/q/vno1nrxlf2)
+
+</div>
+
+Ink Canvas for Class 的社区版本，支持 Windows 平台。它基于 icc-0610fix 开发，具有流畅的绘图体验和丰富的功能。该应用界面简洁直观，支持多种画笔工具和图层管理，能够满足多种场景下的屏幕绘图需求，适合教学、会议、设计等多种用途。
+
+ICC-CE 项目近期创建，开发者正在积极开发和优化中。虽然功能还在不断完善，但已经展现出很大的潜力，未来可能会提供更多高级功能。
+
+🏷 **关键词**：<br/>
+![屏幕绘图](https://img.shields.io/badge/屏幕绘图-white)
+![屏幕批注](https://img.shields.io/badge/屏幕批注-white)
+![桌面批注](https://img.shields.io/badge/桌面批注-white)
+![PPT批注](https://img.shields.io/badge/PPT批注-white)
+![白板软件](https://img.shields.io/badge/白板软件-white)
+![自动收纳](https://img.shields.io/badge/自动收纳-white)
+![边缘手势屏蔽](https://img.shields.io/badge/边缘手势屏蔽-white)
+![Ink Canvas](https://img.shields.io/badge/Ink_Canvas-white)
+
+💬 **2,2,3-三甲基戊烷 锐评**：~~太好了，是ICC社区版，我们有救了！~~ 众所周知，Ink Canvas for Class在一段时间之前就停更了，而这个社区版则完美弥补了停更所造成的空白，也是IC系列为数不多的活跃项目。~~ICC石山还是太多了~~，目前这个社区版还有诸多大大小小的的bug亟待解决和部分操作逻辑的优化（~~历史遗留问题是吧……~~），请诸位遇到bug尽量发个issue，好让开发者定位问题，谢谢。
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/CJKmkp/ICC-CE/">CJKmkp/ICC-CE</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/CJKmkp.png" width="20" height="20"/> <a href="https://github.com/CJKmkp/">CJKmkp</a></td>
+</tr>
+</table>
+
+<div align="center">
+<br/>
+<br/>
 <img src="https://avatars.githubusercontent.com/u/181708430?s=48&v=4" width="56" height="56"/> 
+
+
 
 ### SketchNow
 
