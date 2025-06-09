@@ -742,10 +742,10 @@ DeskPen 是 Ink Canvas 画板的重生版，是基于 Ink Canvas 的设计理念
 
 </div>
 
-> **该项目已经停止更新。** 风轻抚着故事的种子，时间为其播种，亦为其滋养。岁月如水，既能让它在光阴中悄然萌发，也能让它在无情的流转中化为虚无，消逝于尘埃之中。推荐使用[正在活跃开发的ICC社区版（ICC-CE）](https://github.com/Awesome-Iwb/Awesome-Iwb#icc-ce)
+> **该项目已经停止更新。** 风轻抚着故事的种子，时间为其播种，亦为其滋养。岁月如水，既能让它在光阴中悄然萌发，也能让它在无情的流转中化为虚无，消逝于尘埃之中。推荐使用[正在活跃开发的ICC社区版（ICC-CE）](https://github.com/Awesome-Iwb/Awesome-Iwb#icc-ce)      
 Ink Canvas Artistry 的优化版本，重写了底层代码，优化了整体 UI 和程序性能，并带来了许多新功能（如鼠标手势，画面冻结，重制版形状绘制系统）。
 
-InkCanvasForClass 是基于 ChangSakura 的 Ink Canvas Artistry 项目二次开发而来。该项目着重于优化原项目的 UI 设计，使其更便于课堂使用，同时也在积极开发新功能，修理原项目的不合理之处。最近开放了 `icc-0610fix` 仓库，修复 InkCanvasForClass 0610 版本的 Bug 并发布 Release。
+InkCanvasForClass 是基于 ChangSakura 的 Ink Canvas Artistry 项目二次开发而来。该项目着重于优化原项目的 UI 设计，使其更便于课堂使用，同时也在积极开发新功能，修理原项目的不合理之处。最近开放了 `icc-0610fix` 仓库，修复 InkCanvasForClass 0610 版本的 Bug 并发布 Release。（**2025年6月9日由 2,2,3-三甲基戊烷 更新：icc-0610fix、icc-0607fix已停更并归档**）
 
 🏷 **关键词**：<br/>
 ![屏幕批注](https://img.shields.io/badge/屏幕批注-white)
