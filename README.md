@@ -108,7 +108,6 @@
 | [Inkways](#inkways-wip) ![闭源](https://img.shields.io/badge/%E9%97%AD%E6%BA%90-%23ca8a04?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/iNKORE-NET.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/iNKORE-NET.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/iNKORE-NET"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-iNKORE--NET-white?style=flat-square&logo=github&logoColor=white&color=rgba(0%2C0%2C0%2C0)"><img src="https://img.shields.io/badge/-iNKORE--NET-white?style=flat-square&logo=github&logoColor=black&color=rgba(255%2C255%2C255%2C0)" height="20"/></picture></a> |
 | [Inkways Legacy](#inkways-legacy) ![闭源](https://img.shields.io/badge/%E9%97%AD%E6%BA%90-%23ca8a04?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/iNKORE-NET.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/iNKORE-NET.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/iNKORE-NET"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-iNKORE--NET-white?style=flat-square&logo=github&logoColor=white&color=rgba(0%2C0%2C0%2C0)"><img src="https://img.shields.io/badge/-iNKORE--NET-white?style=flat-square&logo=github&logoColor=black&color=rgba(255%2C255%2C255%2C0)" height="20"/></picture></a> |
 | [LemonxNote](#lemonxnote-柠檬白板) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/lh11117/LemonxNote?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/lh11117.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/lh11117.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/lh11117"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-lh11117-white?style=flat-square&logo=github&logoColor=white&color=rgba(0%2C0%2C0%2C0)"><img src="https://img.shields.io/badge/-lh11117-white?style=flat-square&logo=github&logoColor=black&color=rgba(255%2C255%2C255%2C0)" height="20"/></picture></a> |
-| ~~[DeskPen](#deskpen)~~ ![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/aloisp28.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/aloisp28.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/aloisp28"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-aloisp28-white?style=flat-square&logo=github&logoColor=white&color=rgba(0%2C0%2C0%2C0)"><img src="https://img.shields.io/badge/-aloisp28-white?style=flat-square&logo=github&logoColor=black&color=rgba(255%2C255%2C255%2C0)" height="20"/></picture></a> |
 | ~~[InkCanvasForClass](#inkcanvasforclass)~~ ![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/aloisp28.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/aloisp28.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/aloisp28"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-aloisp28-white?style=flat-square&logo=github&logoColor=white&color=rgba(0%2C0%2C0%2C0)"><img src="https://img.shields.io/badge/-aloisp28-white?style=flat-square&logo=github&logoColor=black&color=rgba(255%2C255%2C255%2C0)" height="20"/></picture></a> |
 
 
@@ -424,7 +423,7 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 [![Downloads](https://img.shields.io/github/downloads/CJKmkp/ICC-CE/total?style=flat&logo=github)](https://github.com/CJKmkp/ICC-CE/releases)<br/>
 [![GitHub Issues](https://img.shields.io/github/issues-search/CJKmkp/ICC-CE?query=is%3Aopen&label=issues&color=purple)](https://github.com/CJKmkp/ICC-CE/issues)
 [![GitHub Discussions](https://img.shields.io/github/discussions/CJKmkp/ICC-CE?style=flat)](https://github.com/CJKmkp/ICC-CE/discussions)
-[![Created At](https://img.shields.io/github/created-at/CJKmkp/ICC-CE)](https://github.com/CJKmkp/ICC-CE)
+[![创建d At](https://img.shields.io/github/created-at/CJKmkp/ICC-CE)](https://github.com/CJKmkp/ICC-CE)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/CJKmkp/ICC-CE)](https://github.com/CJKmkp/ICC-CE/commits/master)<br/>
 [![GitHub Language Count](https://img.shields.io/github/languages/count/CJKmkp/ICC-CE)](https://github.com/CJKmkp/ICC-CE)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/CJKmkp/ICC-CE)](https://github.com/CJKmkp/ICC-CE)
@@ -661,64 +660,7 @@ Inkways 是一款由 iNKORE Studios 开发的集成式墨迹套件，你可以�
 <br/>
 <br/>
 
-<img src="https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/raw/main/Ink-Canvas-Reborn-Logo.png" width="56" height="56"/>
 
-### DeskPen
-
-![Hot!](https://img.shields.io/badge/%E9%9D%9E%E5%B8%B8%E6%8E%A8%E8%8D%90-orange)
-[![stars](https://img.shields.io/github/stars/Awesome-Iwb/Ink-Canvas-Reborn?style=flat&color=red)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/stargazers)
-[![forks](https://img.shields.io/github/forks/Awesome-Iwb/Ink-Canvas-Reborn?style=flat&color=blue)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/forks)
-[![Watchers](https://img.shields.io/github/watchers/Awesome-Iwb/Ink-Canvas-Reborn?style=flat&color=green)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/watchers)
-[![Downloads](https://img.shields.io/github/downloads/Awesome-Iwb/Ink-Canvas-Reborn/total?style=flat&logo=github)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/releases)<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/Awesome-Iwb/Ink-Canvas-Reborn?query=is%3Aopen&label=issues&color=purple)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/Awesome-Iwb/Ink-Canvas-Reborn?style=flat)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/discussions)
-[![Created At](https://img.shields.io/github/created-at/Awesome-Iwb/Ink-Canvas-Reborn)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/Awesome-Iwb/Ink-Canvas-Reborn)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/commits/master)<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/Awesome-Iwb/Ink-Canvas-Reborn)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/Awesome-Iwb/Ink-Canvas-Reborn)](https://github.com/Awesome-Iwb/Ink-Canvas-Reborn)
-![GitHub License](https://img.shields.io/github/license/Awesome-Iwb/Ink-Canvas-Reborn?color=red)
-[![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20195404368-white?style=flat&logo=qq)](https://qm.qq.com/q/PDfJCGLqwM)
-
-</div>
-
-> **该项目已经停止更新。** 风轻抚着故事的种子，时间为其播种，亦为其滋养。岁月如水，既能让它在光阴中悄然萌发，也能让它在无情的流转中化为虚无，消逝于尘埃之中。
-
-DeskPen 是 Ink Canvas 画板的重生版，是基于 Ink Canvas 的设计理念和 UI 设计完全重构的一个项目，不基于任何先前项目的代码。相较于原版，DeskPen 提供了更加流畅高性能的体验、更易用的工具栏优化、以及部分新功能的合入。
-
-🏷 **关键词**：<br/>
-![屏幕批注](https://img.shields.io/badge/屏幕批注-white)
-![屏幕画板](https://img.shields.io/badge/屏幕画板-white)
-![桌面批注](https://img.shields.io/badge/桌面批注-white)
-![白板软件](https://img.shields.io/badge/白板软件-white)
-![形状识别](https://img.shields.io/badge/形状识别-white)
-![荧光笔](https://img.shields.io/badge/荧光笔-white)
-![Ink Canvas](https://img.shields.io/badge/Ink_Canvas-white)
-![PPT批注](https://img.shields.io/badge/PPT批注-white)
-
-💬 **Dubi906w 锐评**：又出了一个 Ink Canvas 家族的重制版，不知道这次，他能否经受住时间的考验呢？反正我对此是很看好的。**（2025 年 2 月 25 日： 该项目已经转为闭源开发）**
-
-<table align="center">
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>GitHub 1</b></td>
-    <td><a href="https://github.com/Awesome-Iwb/Ink-Canvas-Reborn/">Awesome-Iwb/Ink-Canvas-Reborn</a></td>
-</tr>
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>GitHub 2</b></td>
-    <td><a href="https://github.com/InkCanvas/Ink-Canvas-Reborn/">InkCanvas/Ink-Canvas-Reborn</a></td>
-</tr>
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>开发者</b></td>
-    <td><img src="https://github.com/aloisp28.png" width="20" height="20"/> <a href="https://github.com/aloisp28/">Dubi906w</a></td>
-</tr>
-</table>
-
-<div align="center">
-
-<br/>
-<br/>
 
 <img src="https://github.com/InkCanvas/InkCanvasForClass/raw/master/icc.png" width="56" height="56"/> 
 
