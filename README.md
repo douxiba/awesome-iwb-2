@@ -98,6 +98,7 @@
 | 名称 | 开发者 |
 | - | - |
 | 🥈 ~~[Ink Canvas](#ink-canvas)~~ ![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/WXRIW.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/WXRIW.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/WXRIW">WXRIW</a> |
+| 🥈 [Ink Canvas Plus](#ink-canvas-plus) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/clover-yan/Ink-Canvas-Plus?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/clover-yan.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/clover-yan.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/clover-yan">Clover Yan</a> |
 | 🥇 [Ink Canvas Artistry](#ink-canvas-artistry) ![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/WuChanging.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/WuChanging.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/WuChanging">WuChanging</a> |
 | 🥈 [智绘教Inkeys](#智绘教inkeys) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Alan-CRL/Inkeys?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Alan-CRL.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Alan-CRL.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Alan-CRL">Alan-CRL</a> |
 | 🌟 [ICC-CE](#icc-ce) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/CJKmkp/ICC-CE?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/CJKmkp.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/CJKmkp.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/CJKmkp">CJKmkp</a> |
@@ -207,7 +208,7 @@
 
 Ink Canvas 画板是一款轻量级画板软件，基于 WPF/C#，其针对希沃一体机进行了特别优化，与预装的“希沃白板 5”软件相比，启动速度大幅度提升（提升 5-10 倍），系统资源占用更小，使用体验更佳。
 
-学校从传统投影仪换成了希沃白板，由于自带的“希沃白板”软件太难用，也没有同类好用的画板软件，所以开发了该画板。（IC 已死，有事也别烧纸，等重制版吧）
+学校从传统投影仪换成了希沃白板，由于自带的“希沃白板”软件太难用，也没有同类好用的画板软件，所以开发了该画板。（IC 已死，有事也别烧纸，~~等重制版吧~~ **向下翻翻，去用icp吧**）
 
 🏷 **关键词**：<br/>
 ![屏幕批注](https://img.shields.io/badge/屏幕批注-white)
@@ -239,6 +240,63 @@ Ink Canvas 画板是一款轻量级画板软件，基于 WPF/C#，其针对希�
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>开发者</b></td>
     <td><img src="https://github.com/WXRIW.png" width="20" height="20"/> <a href="https://github.com/WXRIW/">WXRIW</a></td>
+</tr>
+</table>
+
+<div align="center">
+<br/>
+<br/>
+<img src="https://github.com/clover-yan/Ink-Canvas-Plus/raw/master/Ink%20Canvas/Resources/InkCanvas.png?raw=true" width="56" height="56"/>
+
+
+### Ink Canvas Plus
+
+
+![Hot!](https://img.shields.io/badge/%E9%9D%9E%E5%B8%B8%E6%8E%A8%E8%8D%90-orange)
+[![stars](https://img.shields.io/github/stars/clover-yan/Ink-Canvas-Plus?style=flat&color=red)](https://github.com/clover-yan/Ink-Canvas-Plus/stargazers)
+[![forks](https://img.shields.io/github/forks/clover-yan/Ink-Canvas-Plus?style=flat&color=blue)](https://github.com/clover-yan/Ink-Canvas-Plus/forks)
+[![Watchers](https://img.shields.io/github/watchers/clover-yan/Ink-Canvas-Plus?style=flat&color=green)](https://github.com/clover-yan/Ink-Canvas-Plus/watchers)
+[![Downloads](https://img.shields.io/github/downloads/clover-yan/Ink-Canvas-Plus/total?style=flat&logo=github)](https://github.com/clover-yan/Ink-Canvas-Plus/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/clover-yan/Ink-Canvas-Plus?query=is%3Aopen&label=issues&color=purple)](https://github.com/clover-yan/Ink-Canvas-Plus/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/clover-yan/Ink-Canvas-Plus?style=flat)](https://github.com/clover-yan/Ink-Canvas-Plus/discussions)
+[![创建d At](https://img.shields.io/github/created-at/clover-yan/Ink-Canvas-Plus)](https://github.com/clover-yan/Ink-Canvas-Plus)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/clover-yan/Ink-Canvas-Plus)](https://github.com/clover-yan/Ink-Canvas-Plus/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/clover-yan/Ink-Canvas-Plus)](https://github.com/clover-yan/Ink-Canvas-Plus)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/clover-yan/Ink-Canvas-Plus)](https://github.com/clover-yan/Ink-Canvas-Plus)
+![GitHub License](https://img.shields.io/github/license/clover-yan/Ink-Canvas-Plus?color=red)
+
+</div>
+
+Ink Canvas Plus 是一款由 Clover Yan 维护、复刻自 WXRIW/Ink Canvas 的 Windows 画板应用，旨在优化各方面的使用体验，并尽可能保留原版 Ink Canvas 的操作体验。并且提供了更为简洁直观的用户界面，并修复了诸多原版 Ink Canvas 的问题，易于上手，非常适合课堂教学和个人笔记等场景。无论你是学生、教师还是专业人士，都能轻松使用这款应用进行绘图和笔记。
+
+
+
+🏷 **关键词**：<br/>
+![屏幕绘图](https://img.shields.io/badge/屏幕绘图-white)
+![屏幕批注](https://img.shields.io/badge/屏幕批注-white)
+![桌面批注](https://img.shields.io/badge/桌面批注-white)
+![PPT批注](https://img.shields.io/badge/PPT批注-white)
+![白板软件](https://img.shields.io/badge/白板软件-white)
+![边缘手势屏蔽](https://img.shields.io/badge/边缘手势屏蔽-white)
+![Ink Canvas](https://img.shields.io/badge/Ink_Canvas-white)
+
+💬 **2,2,3-三甲基戊烷 锐评**：俗话说的好：“（对于开源屏幕批注软件）要稳定inkeys，要好用icp。”而其中的icp便是原版ic的延续，继承了原版ic简洁易用的特点。真心希望后续发展越来越好！
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/clover-yan/Ink-Canvas-Plus">clover-yan/Ink-Canvas-Plus</></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://images.weserv.nl/?url=github.com/clover-yan.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/> <a href="https://github.com/clover-yan">Clover Yan</a></td>
+</tr>
+<tr>
+    <td><img src="https://raw.githubusercontent.com/clover-yan/Ink-Canvas-Plus/master/Ink%20Canvas/Resources/InkCanvas.png" width="18" height="18"></td>
+    <td><b>官网</b></td>
+    <td><a href="https://khyan.top/ic+">https://khyan.top/ic+</a></td>
 </tr>
 </table>
 
@@ -395,12 +453,7 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 </tr>
 </table>
 
-<div align="center">
 
-<br/>
-<br/>
-
-<div align="center">
 <br/>
 <br/>
 <img src="https://github.com/awesome-iwb/icc-ce/raw/main/icc.png" width="56" height="56"/> 
