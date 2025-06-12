@@ -285,6 +285,11 @@ Ink Canvas Plus 是一款由 Clover Yan 维护、复刻自 WXRIW/Ink Canvas 的 
 
 <table align="center">
 <tr>
+    <td><img src="https://raw.githubusercontent.com/clover-yan/Ink-Canvas-Plus/master/Ink%20Canvas/Resources/InkCanvas.png" width="18" height="18"></td>
+    <td><b>官网</b></td>
+    <td><a href="https://khyan.top/ic+">https://khyan.top/ic+</a></td>
+</tr>
+<tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>GitHub</b></td>
     <td><a href="https://github.com/clover-yan/Ink-Canvas-Plus">clover-yan/Ink-Canvas-Plus</></td>
@@ -293,11 +298,6 @@ Ink Canvas Plus 是一款由 Clover Yan 维护、复刻自 WXRIW/Ink Canvas 的 
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>开发者</b></td>
     <td><img src="https://images.weserv.nl/?url=github.com/clover-yan.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/> <a href="https://github.com/clover-yan">Clover Yan</a></td>
-</tr>
-<tr>
-    <td><img src="https://raw.githubusercontent.com/clover-yan/Ink-Canvas-Plus/master/Ink%20Canvas/Resources/InkCanvas.png" width="18" height="18"></td>
-    <td><b>官网</b></td>
-    <td><a href="https://khyan.top/ic+">https://khyan.top/ic+</a></td>
 </tr>
 </table>
 
