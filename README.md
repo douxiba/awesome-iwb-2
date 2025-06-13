@@ -80,10 +80,10 @@
 
 ## 📚 速览
 
-> **目前已经收录 49 个可用项目。**<br/>
+> **目前已经收录 50 个可用项目。**<br/>
 > **若包括正在处理中的项目，则有 58 个项目。**
 >
-> 活跃项目：39 个
+> 活跃项目：40 个
 
 - 🥇 是指最推荐使用的、必装软件推荐，每个类别下至少有一个被标记的软件或项目。
 
@@ -155,6 +155,7 @@
 | 🥈 [Rand 抽号器](#rand-抽号器) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/LuoYunXi0407/Rand?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/LuoYunXi0407.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/LuoYunXi0407.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/LuoYunXi0407">LuoYunXi0407</a> |
 | 🔴 [NamePicker](#namepicker) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/NamePickerOrg/NamePicker?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/LHGS-github.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/LHGS-github.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/LHGS-github">LHGS-github</a> |
 | 🔴 [IslandCaller](#islandcaller) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/HUSX100/IslandCaller?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/HUSX100.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/HUSX100.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/HUSX100">HUSX100</a> |
+| 🔴 [SecRandom](#secrandom) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/SECTL/SecRandom?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/SECTL.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/SECTL.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/SECTL">SECTL</a> |
 | 🔴 ~~[ClassDashboard](#classdashboard)~~ (停更) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/HUSX100.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/HUSX100.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/HUSX100">HUSX100</a> |
 | ~~[SeewoHUB](#seewohub)~~ (停更) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/CNwenwen.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/CNwenwen.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/CNwenwen">CNwenwen</a> |
 
@@ -2555,11 +2556,67 @@ NamePicker 是用 Python 开发的一款简洁的点名软件。提供了最基�
 </table>
 
 <div align="center">
+<br/>
+<br/>
+<img src="https://github.com/SECTL/SecRandom/blob/main/resources/SecRandom.png" width="56" height="56"/>
+
+
+### SecRandom
+
+![banner](https://forum.smart-teach.cn/assets/files/2025-06-07/1749311172-363995-cce7f258-8151-4889-a37b-a185ad59b377.png)
+
+
+
+[![stars](https://img.shields.io/github/stars/SECTL/SecRandom?style=flat&color=red)](https://github.com/SECTL/SecRandom/stargazers)
+[![forks](https://img.shields.io/github/forks/SECTL/SecRandom?style=flat&color=blue)](https://github.com/SECTL/SecRandom/forks)
+[![Watchers](https://img.shields.io/github/watchers/SECTL/SecRandom?style=flat&color=green)](https://github.com/SECTL/SecRandom/watchers)
+[![Downloads](https://img.shields.io/github/downloads/SECTL/SecRandom/total?style=flat&logo=github)](https://github.com/SECTL/SecRandom/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/SECTL/SecRandom?query=is%3Aopen&label=issues&color=purple)](https://github.com/SECTL/SecRandom/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/SECTL/SecRandom?style=flat)](https://github.com/SECTL/SecRandom/discussions)
+[![创建d At](https://img.shields.io/github/created-at/SECTL/SecRandom)](https://github.com/SECTL/SecRandom)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/SECTL/SecRandom)](https://github.com/SECTL/SecRandom/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/SECTL/SecRandom)](https://github.com/SECTL/SecRandom)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/SECTL/SecRandom)](https://github.com/SECTL/SecRandom)
+![GitHub License](https://img.shields.io/github/license/SECTL/SecRandom?color=red)
+[![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20833875216-white?style=flat&logo=qq)](https://qm.qq.com/q/iWcfaPHn7W)
+
+</div>
+
+SecRandom 是一个便捷且现代化的随机抽取工具，支持多种抽取方式，如抽单人、抽多人、抽小组、抽性别等，适用于教学、会议等多种场景。它具备语音提示、历史记录、详细抽取记录等功能，并支持多班级名单管理，提供独立抽取与设置界面，拥有便捷悬浮窗设计和自动清除抽取记录功能。
+
+
+🏷 **关键词**：<br/>
+![随机抽取](https://img.shields.io/badge/%E9%9A%8F%E6%9C%BA%E6%8A%BD%E5%8F%96-white)
+![语音提示](https://img.shields.io/badge/%E8%AF%AD%E9%9F%B3%E6%8F%90%E7%A4%BA-white)
+![历史记录](https://img.shields.io/badge/%E5%8E%86%E5%8F%B2%E8%AE%B0%E5%BD%95-white)
+![班级管理](https://img.shields.io/badge/%E7%8F%AD%E7%BA%A7%E7%AE%A1%E7%90%86-white)
+![公平抽取](https://img.shields.io/badge/%E5%85%AC%E5%B9%B3%E6%8A%BD%E5%8F%96-white)
+
+💬 **2,2,3-三甲基戊烷 锐评**：SecRandom以其现代化的界面和丰富的功能，在众多随机抽取工具中脱颖而出。其公平抽取机制和动态权重系统确保了抽取过程的公正性，适合各种需要公平分配的场景。虽然项目还在发展中，但已经赢得了广泛的用户关注和好评。
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/SECTL/SecRandom">SECTL/SecRandom</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/SECTL.png" width="20" height="20"/> <a href="https://github.com/SECTL">SECTL</a></td>
+</tr>
+</table>
+
+
+
+<div align="center">
 
 <br/>
 <br/>
 
 <img src="./images/classdashboard-icon.png" height="56" width="56"/> 
+
+
 
 ### ClassDashboard
 
