@@ -120,6 +120,7 @@
 | 🥈 [考试看板](#考试看板) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/ExamAware/dsz-exam-showboard?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Hello8693.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Hello8693.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Hello8693">Hello8693</a> |
 | 🌟 [ExtraIsland](#extraisland) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/LiPolymer/ExtraIsland?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/LiPolymer.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/LiPolymer.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/LiPolymer">LiPolymer</a> |
 | 🥈 [Class Widgets](#class-widgets) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/RinLit-233-shiroko/Class-Widgets?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/RinLit-233-shiroko.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/RinLit-233-shiroko.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/RinLit-233-shiroko">RinLit-233-shiroko</a> |
+| 🔴 [凌云班级组件](#凌云班级组件) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Yamikani-Flipped/LingYun-Class-Widgets?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Yamikani-Flipped.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Yamikani-Flipped.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Yamikani-Flipped">Yamikani-Flipped</a> |
 | [Education Clock](#education-clock) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Return-Log/Education-Clock?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Return-Log.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Return-Log.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Return-Log">Return-Log</a> |
 | [ClassBoardSharp](#classboardsharp) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Candlest/ClassBoardSharp?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Candlest.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Candlest.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Candlest">Candlest</a> |
 | [班级热搜排行](#class-hot-search-班级热搜排行) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/SRInternet-Studio/Class_Hot_Search?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/SRInternet-Studio.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/SRInternet-Studio.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/SRInternet-Studio">SRInternet-Studio</a> |
@@ -1161,6 +1162,68 @@ ExtraIsland 是一个 ClassIsland 插件，为 ClassIsland 提供了一些小小
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>开发者</b></td>
     <td><img src="https://github.com/RinLit-233-shiroko.png" width="20" height="20"/> <a href="https://github.com/RinLit-233-shiroko/">RinLit</a></td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+<br/>
+
+<div align="center">
+<br/>
+<br/>
+<img src="https://raw.githubusercontent.com/Yamikani-Flipped/LingYun-Class-Widgets/refs/heads/main/Resource/ico/LINGYUN.ico" width="56" height="56"/>
+
+
+### 凌云班级组件
+
+![banner](https://github.com/Yamikani-Flipped/LingYun-Class-Widgets/blob/main/Resource/png/%E5%87%8C%E4%BA%91%E7%8F%AD%E7%BA%A7%E7%BB%84%E4%BB%B6.png)
+
+
+
+[![stars](https://img.shields.io/github/stars/Yamikani-Flipped/LingYun-Class-Widgets?style=flat&color=red)](https://github.com/Yamikani-Flipped/LingYun-Class-Widgets/stargazers)
+[![forks](https://img.shields.io/github/forks/Yamikani-Flipped/LingYun-Class-Widgets?style=flat&color=blue)](https://github.com/Yamikani-Flipped/LingYun-Class-Widgets/forks)
+[![Watchers](https://img.shields.io/github/watchers/Yamikani-Flipped/LingYun-Class-Widgets?style=flat&color=green)](https://github.com/Yamikani-Flipped/LingYun-Class-Widgets/watchers)
+[![Downloads](https://img.shields.io/github/downloads/Yamikani-Flipped/LingYun-Class-Widgets/total?style=flat&logo=github)](https://github.com/Yamikani-Flipped/LingYun-Class-Widgets/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/Yamikani-Flipped/LingYun-Class-Widgets?query=is%3Aopen&label=issues&color=purple)](https://github.com/Yamikani-Flipped/LingYun-Class-Widgets/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/Yamikani-Flipped/LingYun-Class-Widgets?style=flat)](https://github.com/Yamikani-Flipped/LingYun-Class-Widgets/discussions)
+[![创建d At](https://img.shields.io/github/created-at/Yamikani-Flipped/LingYun-Class-Widgets)](https://github.com/Yamikani-Flipped/LingYun-Class-Widgets)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/Yamikani-Flipped/LingYun-Class-Widgets)](https://github.com/Yamikani-Flipped/LingYun-Class-Widgets/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/Yamikani-Flipped/LingYun-Class-Widgets)](https://github.com/Yamikani-Flipped/LingYun-Class-Widgets)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/Yamikani-Flipped/LingYun-Class-Widgets)](https://github.com/Yamikani-Flipped/LingYun-Class-Widgets)
+![GitHub License](https://img.shields.io/github/license/Yamikani-Flipped/LingYun-Class-Widgets?color=red)
+[![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20917509031-white?style=flat&logo=qq)](https://qm.qq.com/q/KN7UVWFr6C)
+
+</div>
+
+凌云班级组件 LingYun Class Widgets 是一个功能丰富的桌面工具，专为班级管理和教学设计。它支持桌面显示时间、日期、值日表、今明日课程等信息，拥有息屏显示功能，适合自习和专注场景。软件支持集中控制和云同步，方便多班级管理，同时提供自动更新功能和课表编辑工具，支持CSES通用课程表格式，能够处理调课情况并提供上下课提醒功能。
+
+
+
+🏷 **关键词**：<br/>
+![桌面显示](https://img.shields.io/badge/%E6%A1%8C%E9%9D%A2%E6%98%BE%E7%A4%BA-white)
+![课程表管理](https://img.shields.io/badge/%E8%AF%BE%E7%A8%8B%E8%A1%A8%E7%AE%A1%E7%90%86-white)
+![息屏显示](https://img.shields.io/badge/%E6%81%AF%E5%B1%8F%E6%98%BE%E7%A4%BA-white)
+![桌面小组件](https://img.shields.io/badge/桌面小组件-white)
+
+💬 **2,2,3-三甲基戊烷 锐评**：尽管借鉴了CW的部分UI文件，但仍然不失为一个不错的软件，对于一些地方有自己的创新，并且独具一格的息屏显示也是一大卖点，此外可以显示值日生之类的信息。
+
+<table align="center">
+<tr>
+    <td><img src="https://raw.githubusercontent.com/Yamikani-Flipped/LingYun-Class-Widgets/refs/heads/main/Resource/ico/LINGYUN.ico" width="18" height="18"></td>
+    <td><b>临时官网</b></td>
+    <td><a href="https://lingyun-6e2.pages.dev/">https://lingyun-6e2.pages.dev/</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/Yamikani-Flipped/LingYun-Class-Widgets/">Yamikani-Flipped/LingYun-Class-Widgets</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/Yamikani-Flipped.png" width="20" height="20"/> <a href="https://github.com/Yamikani-Flipped/">Yamikani-Flipped</a></td>
 </tr>
 </table>
 
