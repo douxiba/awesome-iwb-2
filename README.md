@@ -57,7 +57,7 @@
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)<br/>
 ![GitHub last commit](https://img.shields.io/github/last-commit/awesome-iwb/awesome-iwb)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https://github.com/awesome-iwb/awesome-iwb&label=Visitors&countColor=%23263759&style=flat)
-![Lastest Update](https://img.shields.io/badge/%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0-2025%E5%B9%B46%E6%9C%8812%E6%97%A5-orange)
+![Lastest Update](https://img.shields.io/badge/%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0-2025%E5%B9%B46%E6%9C%8813%E6%97%A5-orange)
 
 ![Repobeats Analyzer](https://repobeats.axiom.co/api/embed/71f72cdd85b0b13b41e368b54f1f94f3d378c9fa.svg "Repobeats analytics image")
 
@@ -80,10 +80,10 @@
 
 ## 📚 速览
 
-> **目前已经收录 48 个可用项目。**<br/>
+> **目前已经收录 49 个可用项目。**<br/>
 > **若包括正在处理中的项目，则有 58 个项目。**
 >
-> 活跃项目：38 个
+> 活跃项目：39 个
 
 - 🥇 是指最推荐使用的、必装软件推荐，每个类别下至少有一个被标记的软件或项目。
 
@@ -1207,7 +1207,7 @@ ExtraIsland 是一个 ClassIsland 插件，为 ClassIsland 提供了一些小小
 ![息屏显示](https://img.shields.io/badge/%E6%81%AF%E5%B1%8F%E6%98%BE%E7%A4%BA-white)
 ![桌面小组件](https://img.shields.io/badge/桌面小组件-white)
 
-💬 **2,2,3-三甲基戊烷 锐评**：尽管借鉴了CW的部分UI文件，但仍然不失为一个不错的软件，对于一些地方有自己的创新，并且独具一格的息屏显示也是一大卖点，此外可以显示值日生之类的信息。
+💬 **2,2,3-三甲基戊烷 锐评**：尽管借鉴了CW的部分UI文件，但仍然不失为一个不错的软件，对于一些地方有自己的创新，并且独具一格的息屏显示也是一大卖点，此外还可以显示值日生之类的信息。
 
 <table align="center">
 <tr>
