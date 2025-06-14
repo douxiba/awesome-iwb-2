@@ -638,8 +638,8 @@ ppInk is a user-friendly on-screen annotation software for Windows, compatible w
 ![Price](https://img.shields.io/badge/price-freemium-green)
 ![Platforms](https://img.shields.io/badge/win%20%7C%20linux%20%7C%20android%20%7C%20ios%20%7C%20web-brightgreen?label=supports
 )<br/>
-[![Discord](https://img.shields.io/discord/1092738458805608561?style=social&label=Discord&logo=discord)](http://www.inkore.net/invito/discord)
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=social&logo=telegram)](http://www.inkore.net/invito/telegram-zh)
+[![Discord](https://img.shields.io/discord/1092738458805608561?style=social&label=Discord&logo=discord)](https://www.inkore.net/invito/discord)
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=social&logo=telegram)](https://www.inkore.net/invito/telegram-zh)
 [![QQ](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20825759306-white?style=flat&logo=qq)](https://qm.qq.com/q/VMym9nrlim)
 
 </div>
