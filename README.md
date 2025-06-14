@@ -648,7 +648,7 @@ ppInk is a user-friendly on-screen annotation software for Windows, compatible w
 >
 > 团队目前正集中资源进行基础设施建设和其他项目的开发，同时部分成员正在进行技术深造。预计 2026 年中下旬将启动 Inkways 的全面开发工作。在此期间，您也可以看看推荐列表中其他优秀作品，或[加入我们的社区](https://www.inkore.net/community?topics=inkways&locales=zh-cn)第一时间获取最新动态。
 >
-> 除官方网站及其社交媒体外，任何关于 Inkways的 "小道消息" 均**不可信**；Inkways 不存在绿色版 / Windows XP 特别版等非官方版本；目前没有终身激活的买断计划，任何此类销售**均为诈骗**。请大家理性上网，**不信谣不传谣**！遇到可疑信息请通过[官方验证通道](https://www.inkore.net/imposters)辨认真伪。本公司任何产品都不允许在闲鱼(二次)销售！
+> 除官方网站及其社交媒体外，任何关于 Inkways 的 "小道消息" 均**不可信**；Inkways 不存在绿色版 / Windows XP 特别版等非官方版本；目前没有终身激活的买断计划，任何此类销售**均为诈骗**。请大家理性上网，**不信谣不传谣**！遇到可疑信息请通过[官方验证通道](https://www.inkore.net/imposters)辨认真伪。本公司任何产品都不允许在闲鱼(二次)销售！
 > 
 > *此讯息最后更新于 06/14/2025。*
 
