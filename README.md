@@ -105,7 +105,7 @@
 | 🌟 [SketchNow](#sketchnow) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/SketchNow/SketchNow.WPF?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/realybin.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/realybin.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/realybin">realybin</a> |
 | [ppInk](#ppink) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/pubpub-zz/ppInk?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/pubpub-zz.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/pubpub-zz.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/pubpub-zz">pubpub-zz</a> |
 | [Inkways](#inkways-wip) ![闭源](https://img.shields.io/badge/%E9%97%AD%E6%BA%90-%23ca8a04?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/iNKORE-NET.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/iNKORE-NET.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/iNKORE-NET">iNKORE-NET</a> |
-| [Inkways Legacy](#inkways-legacy) ![闭源](https://img.shields.io/badge/%E9%97%AD%E6%BA%90-%23ca8a04?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/iNKORE-NET.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/iNKORE-NET.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/iNKORE-NET">iNKORE-NET</a> |
+| [~~Inkways Legacy~~](#inkways-legacy) ![闭源](https://img.shields.io/badge/%E9%97%AD%E6%BA%90-%23ca8a04?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/iNKORE-NET.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/iNKORE-NET.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/iNKORE-NET">iNKORE-NET</a> |
 | [LemonxNote](#lemonxnote-柠檬白板) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/lh11117/LemonxNote?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/lh11117.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/lh11117.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/lh11117">lh11117</a> |
 | ~~[InkCanvasForClass](#inkcanvasforclass)~~ ![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/aloisp28.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/aloisp28.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp; Dubi906w |
 
@@ -647,7 +647,7 @@ ppInk is a user-friendly on-screen annotation software for Windows, compatible w
 
 > [!note]
 >
-> 本软件仍在~~画饼~~开发阶段，如有需要请先使用 Inkways Legacy，或加入社区以获取最新消息。
+> 本软件仍在~~画饼~~开发阶段，如有需要请先使用 Inkways Legacy，或加入社区以获取最新消息。**最新消息：该软件的开发团队正在维护另一个项目，且团队中的部分成员已经去深造了，目前几乎只有一人在维护。（2025年6月14日更新）**
 
 Inkways 是一款由 iNKORE Studios 开发的集成式墨迹套件，你可以将它用于记录笔记，文稿演示，批注演示文稿，视频展台等。Inkways 旨在将 Ink，Presentation，Flow 等核心概念融合在一起并无缝带入到生活和工作流程的各个角落。
 
@@ -658,7 +658,7 @@ Inkways 是一款由 iNKORE Studios 开发的集成式墨迹套件，你可以�
 <table align="center">
 <tr>
     <td><img src="https://github.com/iNKORE-NET.png" width="18" height="18"></td>
-    <td><b>官网 (维护中)</b></td>
+    <td><b>官网 (不可用)</b></td>
     <td><a href="https://inkore.net/products/inkways/">https://inkore.net/products/inkways/</a></td>
 </tr>
 <tr>
@@ -688,6 +688,8 @@ Inkways 是一款由 iNKORE Studios 开发的集成式墨迹套件，你可以�
 
 </div>
 
+>**该项目已经绝版**，现在几乎没有可下载的地方
+
 完全契合 Windows 11 风格的，轻量但全能并适用于教学场景的墨迹套件。支持插入文本图片，模拟和原生压感，撤消重做，多页文档... 本套件包含笔记，画板，桌面画笔和 PowerPoint 助手。
 
 🏷 **关键词**：`Fluent Design System` `多插件` `多功能套件` `笔记`
@@ -699,7 +701,7 @@ Inkways 是一款由 iNKORE Studios 开发的集成式墨迹套件，你可以�
 <table align="center">
 <tr>
     <td><img src="https://github.com/iNKORE-NET.png" width="18" height="18"></td>
-    <td><b>官网 (维护中)</b></td>
+    <td><b>官网 (不可用)</b></td>
     <td><a href="https://inkore.net/products/inkways/">https://inkore.net/products/inkways/</a></td>
 </tr>
 <tr>
