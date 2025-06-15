@@ -64,8 +64,12 @@
 </div>
 
 > [!WARNING]
-> 由于Dubi906w的个人原因，Awesome Iwb markdown版本目前已暂时由我维护。aiwb-web已停止开发。      
->— —2,2,3-三甲基戊烷（2-2-3-trimethylpentane）
+> 由于DotteringDoge471（Dubi906w）的个人事务原因，awesome-iwb/awesome-iwb 仓库现已暂时移交给 2,2,3-三甲基戊烷（2-2-3-trimethylpentane）运营维护、他将有权利负责本仓库 markdown 文件的更新与维护并处理社区需求。aiwb-web已经转入闭源开发。
+>
+> 本项目最终解释权归 DotteringDoge471（Dubi906w）所有。
+
+> [!WARNING]
+> 本项目正在寻找新的长期维护着，有意者请联系：kriastans@protonmail.com（附上github username和参与意愿介绍）。
 
 ---
 
