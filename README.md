@@ -469,9 +469,6 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 
 ![banner](https://github.com/user-attachments/assets/09f98879-06a4-4de2-8fc0-b9affdd7b966)
 
-
-
-
 ![New!](https://img.shields.io/badge/新项目-blue)
 [![stars](https://img.shields.io/github/stars/CJKmkp/ICC-CE?style=flat&color=red)](https://github.com/CJKmkp/ICC-CE/stargazers)
 [![forks](https://img.shields.io/github/forks/CJKmkp/ICC-CE?style=flat&color=blue)](https://github.com/CJKmkp/ICC-CE/forks)
@@ -488,7 +485,7 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 
 </div>
 
-Ink Canvas for Class 的社区版本，支持 Windows 平台。它基于 icc-0610fix 开发，具有流畅的绘图体验和丰富的功能。该应用界面简洁直观，支持多种画笔工具和图层管理，能够满足多种场景下的屏幕绘图需求，适合教学、会议、设计等多种用途。
+InkCanvasForClass 的社区版本，支持 Windows 平台。它基于 icc-0610fix 开发，具有流畅的绘图体验和丰富的功能。该应用界面简洁直观，支持多种画笔工具和图层管理，能够满足多种场景下的屏幕绘图需求，适合教学、会议、设计等多种用途。
 
 ICC-CE 项目近期创建，开发者正在积极开发和优化中。虽然功能还在不断完善，但已经展现出很大的潜力，未来可能会提供更多高级功能。
 
@@ -502,7 +499,7 @@ ICC-CE 项目近期创建，开发者正在积极开发和优化中。虽然功�
 ![边缘手势屏蔽](https://img.shields.io/badge/边缘手势屏蔽-white)
 ![Ink Canvas](https://img.shields.io/badge/Ink_Canvas-white)
 
-💬 **2,2,3-三甲基戊烷 锐评**：~~太好了，是ICC社区版，我们有救了！~~ 众所周知，Ink Canvas for Class在不久之前就停更了，而这个社区版则完美弥补了停更所造成的空白，也是IC系列为数不多的活跃项目。~~ICC石山还是太多了~~，目前这个社区版还有诸多大大小小的的bug亟待解决和部分操作逻辑的优化（~~历史遗留问题是吧……~~），请诸位遇到bug尽量发个issue，好让开发者定位问题，谢谢。
+💬 **2,2,3-三甲基戊烷 锐评**：~~太好了，是ICC社区版，我们有救了！~~ 众所周知，InkCanvasForClass 在不久之前就停更了，而这个社区版则完美弥补了停更所造成的空白，也是IC系列为数不多的活跃项目。~~ICC石山还是太多了~~，目前这个社区版还有诸多大大小小的的bug亟待解决和部分操作逻辑的优化（~~历史遗留问题是吧……~~），请诸位遇到bug尽量发个issue，好让开发者定位问题，谢谢。
 
 <table align="center">
 <tr>
