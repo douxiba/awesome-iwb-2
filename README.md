@@ -110,7 +110,6 @@
 | [ppInk](#ppink) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/pubpub-zz/ppInk?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/pubpub-zz.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/pubpub-zz.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/pubpub-zz">pubpub-zz</a> |
 | [Inkways](#inkways-wip) ![闭源](https://img.shields.io/badge/%E9%97%AD%E6%BA%90-%23ca8a04?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/iNKORE-NET.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/iNKORE-NET.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/iNKORE-NET">iNKORE-NET</a> |
 | [LemonxNote](#lemonxnote-柠檬白板) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/lh11117/LemonxNote?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/lh11117.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/lh11117.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/lh11117">lh11117</a> |
-| ~~[InkCanvasForClass](#inkcanvasforclass)~~ ![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/aloisp28.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/aloisp28.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp; Dubi906w |
 
 
 ### 📊 课表与看板类软件
@@ -674,71 +673,6 @@ Inkways 是一款由 iNKORE Studios 开发的集成式墨迹解决方案，你�
     <td>
       <a href="https://github.com/iNKORE-NET/">@iNKORE-NET</a>
     </td>
-</tr>
-</table>
-
-<div align="center">
-
-<br/>
-<br/>
-
-
-<img src="https://github.com/InkCanvas/InkCanvasForClass/raw/master/icc.png" width="56" height="56"/> 
-
-### InkCanvasForClass
-
-![banner](https://github.com/InkCanvas/InkCanvasForClass/raw/master/icc-github-illustrations.png)
-
-![GNOME](https://img.shields.io/badge/GNOME-003E92)
-[![stars](https://img.shields.io/github/stars/Awesome-Iwb/icc-0610fix?style=flat&color=red)](https://github.com/Awesome-Iwb/icc-0610fix/stargazers)
-[![forks](https://img.shields.io/github/forks/Awesome-Iwb/icc-0610fix?style=flat&color=blue)](https://github.com/Awesome-Iwb/icc-0610fix/forks)
-[![Watchers](https://img.shields.io/github/watchers/Awesome-Iwb/icc-0610fix?style=flat&color=green)](https://github.com/Awesome-Iwb/icc-0610fix/watchers)
-[![Downloads](https://img.shields.io/github/downloads/Awesome-Iwb/icc-0610fix/total?style=flat&logo=github)](https://github.com/Awesome-Iwb/icc-0610fix/releases)<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/Awesome-Iwb/icc-0610fix?query=is%3Aopen&label=issues&color=purple)](https://github.com/Awesome-Iwb/icc-0610fix/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/Awesome-Iwb/icc-0610fix?style=flat)](https://github.com/Awesome-Iwb/icc-0610fix/discussions)
-[![Created At](https://img.shields.io/github/created-at/Awesome-Iwb/icc-0610fix)](https://github.com/Awesome-Iwb/icc-0610fix)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/Awesome-Iwb/icc-0610fix)](https://github.com/Awesome-Iwb/icc-0610fix/commits/master)<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/Awesome-Iwb/icc-0610fix)](https://github.com/Awesome-Iwb/icc-0610fix)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/Awesome-Iwb/icc-0610fix?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIGZpbGw9IndoaXRlIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkMjPC90aXRsZT48cGF0aCBkPSJNMS4xOTQgNy41NDN2OC45MTNjMCAxLjEwMy41ODggMi4xMjIgMS41NDQgMi42NzRsNy43MTggNC40NTZhMy4wODYgMy4wODYgMCAwIDAgMy4wODggMGw3LjcxOC00LjQ1NmEzLjA4NyAzLjA4NyAwIDAgMCAxLjU0NC0yLjY3NFY3LjU0M2EzLjA4NCAzLjA4NCAwIDAgMC0xLjU0NC0yLjY3M0wxMy41NDQuNDE0YTMuMDg2IDMuMDg2IDAgMCAwLTMuMDg4IDBMMi43MzggNC44N2EzLjA4NSAzLjA4NSAwIDAgMC0xLjU0NCAyLjY3M1ptNS40MDMgMi45MTR2My4wODdhLjc3Ljc3IDAgMCAwIC43NzIuNzcyLjc3My43NzMgMCAwIDAgLjc3Mi0uNzcyLjc3My43NzMgMCAwIDEgMS4zMTctLjU0Ni43NzUuNzc1IDAgMCAxIC4yMjYuNTQ2IDIuMzE0IDIuMzE0IDAgMSAxLTQuNjMxIDB2LTMuMDg3YzAtLjYxNS4yNDQtMS4yMDMuNjc5LTEuNjM3YTIuMzEyIDIuMzEyIDAgMCAxIDMuMjc0IDBjLjQzNC40MzQuNjc4IDEuMDIzLjY3OCAxLjYzN2EuNzY5Ljc2OSAwIDAgMS0uMjI2LjU0NS43NjcuNzY3IDAgMCAxLTEuMDkxIDAgLjc3Ljc3IDAgMCAxLS4yMjYtLjU0NS43Ny43NyAwIDAgMC0uNzcyLS43NzIuNzcxLjc3MSAwIDAgMC0uNzcyLjc3MlptMTIuMzUgMy4wODdhLjc3Ljc3IDAgMCAxLS43NzIuNzcyaC0uNzcydi43NzJhLjc3My43NzMgMCAwIDEtMS41NDQgMHYtLjc3MmgtMS41NDR2Ljc3MmEuNzczLjc3MyAwIDAgMS0xLjMxNy41NDYuNzc1Ljc3NSAwIDAgMS0uMjI2LS41NDZ2LS43NzJIMTJhLjc3MS43NzEgMCAxIDEgMC0xLjU0NGguNzcydi0xLjU0M0gxMmEuNzcuNzcgMCAxIDEgMC0xLjU0NGguNzcydi0uNzcyYS43NzMuNzczIDAgMCAxIDEuMzE3LS41NDYuNzc1Ljc3NSAwIDAgMSAuMjI2LjU0NnYuNzcyaDEuNTQ0di0uNzcyYS43NzMuNzczIDAgMCAxIDEuNTQ0IDB2Ljc3MmguNzcyYS43NzIuNzcyIDAgMCAxIDAgMS41NDRoLS43NzJ2MS41NDNoLjc3MmEuNzc2Ljc3NiAwIDAgMSAuNzcyLjc3MlptLTMuMDg4LTIuMzE1aC0xLjU0NHYxLjU0M2gxLjU0NHYtMS41NDNaIi8%2BPC9zdmc%2B)](https://github.com/Awesome-Iwb/icc-0610fix)
-![GitHub License](https://img.shields.io/github/license/Awesome-Iwb/icc-0610fix?color=red)
-[![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%20979119289-white?style=flat&logo=qq)](https://qm.qq.com/q/1KuTeoJbco)
-
-</div>
-
-> **该项目已经停止更新。** 风轻抚着故事的种子，时间为其播种，亦为其滋养。岁月如水，既能让它在光阴中悄然萌发，也能让它在无情的流转中化为虚无，消逝于尘埃之中。推荐使用[正在活跃开发的ICC社区版（ICC-CE）](#icc-ce)      
-Ink Canvas Artistry 的优化版本，重写了底层代码，优化了整体 UI 和程序性能，并带来了许多新功能（如鼠标手势，画面冻结，重制版形状绘制系统）。
-
-InkCanvasForClass 是基于 ChangSakura 的 Ink Canvas Artistry 项目二次开发而来。该项目着重于优化原项目的 UI 设计，使其更便于课堂使用，同时也在积极开发新功能，修理原项目的不合理之处。最近开放了 `icc-0610fix` 仓库，修复 InkCanvasForClass 0610 版本的 Bug 并发布 Release。（**2025年6月9日由 2,2,3-三甲基戊烷 更新：icc-0610fix、icc-0607fix已停更并归档**）
-
-🏷 **关键词**：<br/>
-![屏幕批注](https://img.shields.io/badge/屏幕批注-white)
-![屏幕画板](https://img.shields.io/badge/屏幕画板-white)
-![桌面批注](https://img.shields.io/badge/桌面批注-white)
-![PPT批注](https://img.shields.io/badge/PPT批注-white)
-![白板软件](https://img.shields.io/badge/白板软件-white)
-![自动收纳](https://img.shields.io/badge/自动收纳-white)
-![边缘手势屏蔽](https://img.shields.io/badge/边缘手势屏蔽-white)
-![Ink Canvas](https://img.shields.io/badge/Ink_Canvas-white)
-
-💬 **Dubi906w 锐评**：那你还是很有生活啊。哪个大佬来修修 icc 的屎山！
-
-🧨 **祝各位 2025 年（蛇年越🐍越多）新年快乐**：快过年了，不要再讨论什么课表软件，icc，希沃破解，电教之类的了。你带你的 ClassIsland 和 Class-Widgets 回到家并不能给你带来任何实质性作用，朋友们兜里掏出一大把钱吃喝玩乐，你默默的在家里摆弄你的歌词岛插件，还有啥 CI 插件，黑板贴二开。亲戚朋友吃饭问你收获了什么，你说我写了个 CW 的一键替代 CI 的插件，搞了个破解希沃管家破密码的工具，还给 Aiwb 交了几个 PR，亲戚们懵逼了，你还在心里默默嘲笑他们，笑他们不懂你的 CI 插件开发，IC 二开，也笑他们用个屏幕批注还在用希沃白板自带的屏幕批注，课表还在黑板上手写。你父母的同事都在说自己的子女一年的收获，儿子买了个房，女儿买了个车，姑娘升职加薪了，你的父母默默无言，说我的儿子写了个 icc，说是班上的电脑更好用了。
-
-<table align="center">
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>GitHub(v.0610fix)</b></td>
-    <td><a href="https://github.com/Awesome-Iwb/icc-0610fix/">Awesome-Iwb/icc-0610fix</a></td>
-</tr>
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>GitHub(latest)</b></td>
-    <td><a href="https://github.com/Awesome-Iwb/InkCanvasForClass/">Awesome-Iwb/InkCanvasForClass</a></td>
-</tr>
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>开发者</b></td>
-    <td><img src="https://github.com/aloisp28.png" width="20" height="20"/> <a href="https://github.com/aloisp28/">Dubi906w</a></td>
 </tr>
 </table>
 
