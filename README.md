@@ -158,7 +158,6 @@
 | 🔴 [NamePicker](#namepicker) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/NamePickerOrg/NamePicker?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/LHGS-github.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/LHGS-github.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/LHGS-github">LHGS-github</a> |
 | 🔴 [IslandCaller](#islandcaller) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/HUSX100/IslandCaller?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/HUSX100.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/HUSX100.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/HUSX100">HUSX100</a> |
 | 🔴 [SecRandom](#secrandom) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/SECTL/SecRandom?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/SECTL.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/SECTL.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/SECTL">SECTL</a> |
-| 🔴 ~~[ClassDashboard](#classdashboard)~~ (停更) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/HUSX100.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/HUSX100.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/HUSX100">HUSX100</a> |
 | ~~[SeewoHUB](#seewohub)~~ (停更) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/CNwenwen.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/CNwenwen.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/CNwenwen">CNwenwen</a> |
 
 
@@ -2516,48 +2515,7 @@ SecRandom 是一个便捷且现代化的随机抽取工具，支持多种抽取�
 
 
 
-<div align="center">
 
-<br/>
-<br/>
-
-<img src="./images/classdashboard-icon.png" height="56" width="56"/> 
-
-
-
-### ClassDashboard
-
-![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
-[![stars](https://img.shields.io/github/stars/HUSX100/ClassDashboard?style=flat&color=red)](https://github.com/HUSX100/ClassDashboard/stargazers)
-[![forks](https://img.shields.io/github/forks/HUSX100/ClassDashboard?style=flat&color=blue)](https://github.com/HUSX100/ClassDashboard/forks)
-[![Watchers](https://img.shields.io/github/watchers/HUSX100/ClassDashboard?style=flat&color=green)](https://github.com/HUSX100/ClassDashboard/watchers)
-[![Downloads](https://img.shields.io/github/downloads/HUSX100/ClassDashboard/total?style=flat&logo=github)](https://github.com/HUSX100/ClassDashboard/releases)<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/HUSX100/ClassDashboard?query=is%3Aopen&label=issues&color=purple)](https://github.com/HUSX100/ClassDashboard/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/HUSX100/ClassDashboard?style=flat)](https://github.com/HUSX100/ClassDashboard/discussions)
-[![Created At](https://img.shields.io/github/created-at/HUSX100/ClassDashboard)](https://github.com/HUSX100/ClassDashboard)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/HUSX100/ClassDashboard)](https://github.com/HUSX100/ClassDashboard/commits/master)<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/HUSX100/ClassDashboard)](https://github.com/HUSX100/ClassDashboard)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/HUSX100/ClassDashboard)](https://github.com/HUSX100/ClassDashboard)
-![GitHub License](https://img.shields.io/github/license/HUSX100/ClassDashboard?color=red)
-
-</div>
-
-> 该项目已经停止更新。该开发者目前正在积极维护 [IslandCaller](#islandcaller) 项目
-
-一个班级希沃电脑桌面仪表盘。（Dubi906w留言：等待取得更多信息...）
-
-<table align="center">
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>GitHub</b></td>
-    <td><a href="https://github.com/CNwenwen/SeewoHUB/">CNwenwen/SeewoHUB</a></td>
-</tr>
-<tr>
-    <td><img src="images/github-icon.svg" width="18" height="18"></td>
-    <td><b>开发者</b></td>
-    <td><img src="https://github.com/CNwenwen.png" width="20" height="20"/> <a href="https://github.com/CNwenwen/">Hyjthfhtself</a></td>
-</tr>
-</table>
 
 <div align="center">
 
@@ -2597,6 +2555,8 @@ SecRandom 是一个便捷且现代化的随机抽取工具，支持多种抽取�
     <td><img src="https://github.com/CNwenwen.png" width="20" height="20"/> <a href="https://github.com/CNwenwen/">Hyjthfhtself</a></td>
 </tr>
 </table>
+
+</div>
 
 ## 🙏 贡献者和特别感谢
 
@@ -2656,7 +2616,7 @@ SecRandom 是一个便捷且现代化的随机抽取工具，支持多种抽取�
 
 - **[希沃折腾手册](https://kdocs.cn/l/coHT3CUcoQDV)** - 希沃一体机折腾手册，整理了许多一体机折腾的教程。
 
-- **[智教联盟论坛](https://forum.smart-teach.cn/)** - 专属于电教委的论坛，轻松玩转板机一体机。
+- **[智教联盟论坛](https://forum.smart-teach.cn/)** - 专属于电教委的论坛，轻松玩转班级一体机。
 
 ## 👋 同类项目推荐
 
@@ -2674,6 +2634,4 @@ SecRandom 是一个便捷且现代化的随机抽取工具，支持多种抽取�
 
 ## Copyright
 
-Copyright 2025 HARKOTEK Studio. All right reserved.
-
-Copyright 2025 Dubi906w.
+© Copyright 2024-2025 DotteringDoge471(Dubi906w) & Aris & 2,2,3-三甲基戊烷（2-2-3-trimethylpentane）
