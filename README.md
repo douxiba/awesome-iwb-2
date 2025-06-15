@@ -69,7 +69,7 @@
 > 本项目最终解释权归 DotteringDoge471（Dubi906w）所有。
 
 > [!WARNING]
-> 本项目正在寻找新的长期维护着，有意者请联系：kriastans@protonmail.com（附上github username和参与意愿介绍）。
+> 本项目正在寻找新的长期维护者，有意者请联系：kriastans@protonmail.com（附上github username和参与意愿介绍）。
 
 ---
 
