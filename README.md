@@ -1494,7 +1494,7 @@ TimerIn 是由 思锐工作室 开发的一款 桌面时钟小工具软件。支
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>GitHub</b></td>
-    <td><a href="https://github.com/SRInternet-Studio/TimerIn_Releases">SRInternet-Studio/TimerIn_Releases</a></td>
+    <td><a href="https://github.com/SRInternet-Studio/TimerIn_Releases">SRInternet-Studio/TimerIn_Releases（仅供下载）</a></td>
 </tr>
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
