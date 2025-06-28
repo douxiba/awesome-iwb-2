@@ -480,6 +480,7 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 [![GitHub Language Count](https://img.shields.io/github/languages/count/CJKmkp/ICC-CE)](https://github.com/CJKmkp/ICC-CE)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/CJKmkp/ICC-CE)](https://github.com/CJKmkp/ICC-CE)
 ![GitHub License](https://img.shields.io/github/license/CJKmkp/ICC-CE?color=red)
+[![Discord](https://img.shields.io/discord/1383039050184917053?style=social&label=Discord&logo=discord)](https://discord.gg/ahj7eJWhEG)
 [![交流群](https://img.shields.io/badge/交流群%201054377349-white?style=flat&logo=qq)](https://qm.qq.com/q/vno1nrxlf2)
 
 </div>
