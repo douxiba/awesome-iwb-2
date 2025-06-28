@@ -2578,7 +2578,7 @@ SecRandom 是一个便捷且现代化的随机抽取工具，支持多种抽取�
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/DryIce-cc"><img src="https://avatars.githubusercontent.com/u/165131008?v=4?s=100" width="100px;" alt="干冰DryIce"/><br /><sub><b>干冰DryIce</b></sub></a><br /><a href="#doc-DryIce-cc" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/alovelydoge"><img src="https://avatars.githubusercontent.com/u/156295679?v=4?s=100" width="100px;" alt="alovelydoge"/><br /><sub><b>alovelydoge</b></sub></a><br /><a href="#doc-alovelydoge" title="Documentation">📖</a> <a href="#bug-alovelydoge" title="Bug reports">🐛</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/WHMyyds"><img src="https://avatars.githubusercontent.com/u/123004192?v=4?s=100" width="100px;" alt="HM"/><br /><sub><b>HM</b></sub></a><br /><a href="#doc-WHMyyds" title="Documentation">📖</a> <a href="#bug-WHMyyds" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/makitoid"><img src="https://avatars.githubusercontent.com/u/123004192?v=4?s=100" width="100px;" alt="Makitoid"/><br /><sub><b>Makitoid</b></sub></a><br /><a href="#doc-Makitoid" title="Documentation">📖</a> <a href="#bug-Makitoid" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://wuyuan.dev"><img src="https://avatars.githubusercontent.com/u/88357633?v=4?s=100" width="100px;" alt="孙悟元"/><br /><sub><b>孙悟元</b></sub></a><br /><a href="#doc-SunWuyuan" title="Documentation">📖</a> <a href="#bug-SunWuyuan" title="Bug reports">🐛</a> <a href="#content-SunWuyuan" title="Content">🖋</a></td>
     </tr>
   </tbody>
