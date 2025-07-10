@@ -110,6 +110,7 @@
 | [ppInk](#ppink) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/pubpub-zz/ppInk?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/pubpub-zz.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/pubpub-zz.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/pubpub-zz">pubpub-zz</a> |
 | [Inkways](#inkways-wip) ![闭源](https://img.shields.io/badge/%E9%97%AD%E6%BA%90-%23ca8a04?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/iNKORE-NET.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/iNKORE-NET.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/iNKORE-NET">iNKORE-NET</a> |
 | [LemonxNote](#lemonxnote-柠檬白板) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/lh11117/LemonxNote?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/lh11117.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/lh11117.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/lh11117">lh11117</a> |
+| [🔴Ink Canvas Better](#ink-canvas-better) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/BaiYang2238/Ink-Canvas-Better?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/BaiYang2238.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/BaiYang2238.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/BaiYang2238">BaiYang2238</a> |
 
 
 ### 📊 课表与看板类软件
@@ -712,6 +713,57 @@ Inkways 是一款由 iNKORE Studios 开发的集成式墨迹解决方案，你�
     <td><img src="https://github.com/lh11117.png" width="20" height="20"/> <a href="https://github.com/lh11117/">linchh11117</a></td>
 </tr>
 </table>
+
+
+<div align="center">
+<br/>
+<br/>
+<img src="https://github.com/BaiYang2238/Ink-Canvas-Better/raw/master/Images/Ink%20Canvas%20Better.png" width="56" height="56"/>
+
+
+### Ink Canvas Better
+
+
+
+
+[![stars](https://img.shields.io/github/stars/BaiYang2238/Ink-Canvas-Better?style=flat&color=red)](https://github.com/BaiYang2238/Ink-Canvas-Better/stargazers)
+[![forks](https://img.shields.io/github/forks/BaiYang2238/Ink-Canvas-Better?style=flat&color=blue)](https://github.com/BaiYang2238/Ink-Canvas-Better/forks)
+[![Watchers](https://img.shields.io/github/watchers/BaiYang2238/Ink-Canvas-Better?style=flat&color=green)](https://github.com/BaiYang2238/Ink-Canvas-Better/watchers)
+[![Downloads](https://img.shields.io/github/downloads/BaiYang2238/Ink-Canvas-Better/total?style=flat&logo=github)](https://github.com/BaiYang2238/Ink-Canvas-Better/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/BaiYang2238/Ink-Canvas-Better?query=is%3Aopen&label=issues&color=purple)](https://github.com/BaiYang2238/Ink-Canvas-Better/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/BaiYang2238/Ink-Canvas-Better?style=flat)](https://github.com/BaiYang2238/Ink-Canvas-Better/discussions)
+[![创建d At](https://img.shields.io/github/created-at/BaiYang2238/Ink-Canvas-Better)](https://github.com/BaiYang2238/Ink-Canvas-Better)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/BaiYang2238/Ink-Canvas-Better)](https://github.com/BaiYang2238/Ink-Canvas-Better/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/BaiYang2238/Ink-Canvas-Better)](https://github.com/BaiYang2238/Ink-Canvas-Better)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/BaiYang2238/Ink-Canvas-Better)](https://github.com/BaiYang2238/Ink-Canvas-Better)
+![GitHub License](https://img.shields.io/github/license/BaiYang2238/Ink-Canvas-Better?color=red)
+
+</div>
+
+Ink Canvas Better 是一款基于 InkCanvas/Ink-Canvas-Artistry 开发的 Windows 画板应用，使用 WPF/C# 构建。它在原版 Ink Canvas 的基础上进行了优化和改进，移除了一些非核心功能（如点名工具和计时器），专注于提供更流畅的绘图体验和更简洁的界面。该软件支持多种绘图工具和图层管理功能，适合教学、会议和设计等多种用途。
+
+
+🏷 **关键词**：<br/>
+![屏幕绘图](https://img.shields.io/badge/%E5%B1%8F%E5%B9%95%E7%BB%98%E5%9B%BE-white)
+![绘图工具](https://img.shields.io/badge/%E7%BB%98%E5%9B%BE%E5%B7%A5%E5%85%B7-white)
+![简洁界面](https://img.shields.io/badge/%E7%AE%80%E6%B4%81%E7%95%8C%E9%9D%A6-white)
+![教学工具](https://img.shields.io/badge/%E6%95%99%E5%AD%A6%E5%B7%A5%E5%85%B7-white)
+
+💬 **2,2,3-三甲基戊烷 锐评**：~~蕾姆了，IC系也是后继有人上了~~Ink Canvas Better原来是作者使用IC及其他分支软件时发现一些需要的功能存在缺失而开发的此分支，期待项目后续的发展
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/BaiYang2238/Ink-Canvas-Better">BaiYang2238/Ink-Canvas-Better</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/BaiYang2238.png?s=48&v=4" width="20" height="20"/> <a href="https://github.com/BaiYang2238">BaiYang2238</a></td>
+</tr>
+</table>
+
 
 ## 📊 课表与看板类软件
 
