@@ -105,7 +105,7 @@
 | 🥈 [Ink Canvas Plus](#ink-canvas-plus) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/clover-yan/Ink-Canvas-Plus?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/clover-yan.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/clover-yan.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/clover-yan">Clover Yan</a> |
 | 🥇 [Ink Canvas Artistry](#ink-canvas-artistry) ![停更](https://img.shields.io/badge/%E5%81%9C%E6%9B%B4-%23b91c1c?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/WuChanging.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/WuChanging.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/WuChanging">WuChanging</a> |
 | 🥈 [智绘教Inkeys](#智绘教inkeys) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Alan-CRL/Inkeys?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Alan-CRL.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Alan-CRL.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Alan-CRL">Alan-CRL</a> |
-| 🌟 [ICC-CE](#icc-ce) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/CJKmkp/ICC-CE?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/CJKmkp.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/CJKmkp.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/CJKmkp">CJKmkp</a> |
+| 🌟 [ICC-CE](#icc-ce) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/InkCanvasForClass/community?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/CJKmkp.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/CJKmkp.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/CJKmkp">CJKmkp</a> |
 | 🌟 [SketchNow](#sketchnow) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/SketchNow/SketchNow.WPF?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/realybin.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/realybin.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/realybin">realybin</a> |
 | [ppInk](#ppink) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/pubpub-zz/ppInk?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/pubpub-zz.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/pubpub-zz.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/pubpub-zz">pubpub-zz</a> |
 | [Inkways](#inkways-wip) ![闭源](https://img.shields.io/badge/%E9%97%AD%E6%BA%90-%23ca8a04?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/iNKORE-NET.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/iNKORE-NET.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/iNKORE-NET">iNKORE-NET</a> |
@@ -462,7 +462,7 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 <div align="center">
 <br/>
 <br/>
-<img src="https://github.com/awesome-iwb/icc-ce/raw/main/icc.png" width="56" height="56"/> 
+<img src="https://github.com/InkCanvasForClass/community/raw/main/icc.png" width="56" height="56"/> 
 
 
 
@@ -471,17 +471,17 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 ![banner](https://github.com/user-attachments/assets/09f98879-06a4-4de2-8fc0-b9affdd7b966)
 
 ![New!](https://img.shields.io/badge/新项目-blue)
-[![stars](https://img.shields.io/github/stars/CJKmkp/ICC-CE?style=flat&color=red)](https://github.com/CJKmkp/ICC-CE/stargazers)
-[![forks](https://img.shields.io/github/forks/CJKmkp/ICC-CE?style=flat&color=blue)](https://github.com/CJKmkp/ICC-CE/forks)
-[![Watchers](https://img.shields.io/github/watchers/CJKmkp/ICC-CE?style=flat&color=green)](https://github.com/CJKmkp/ICC-CE/watchers)
-[![Downloads](https://img.shields.io/github/downloads/CJKmkp/ICC-CE/total?style=flat&logo=github)](https://github.com/CJKmkp/ICC-CE/releases)<br/>
-[![GitHub Issues](https://img.shields.io/github/issues-search/CJKmkp/ICC-CE?query=is%3Aopen&label=issues&color=purple)](https://github.com/CJKmkp/ICC-CE/issues)
-[![GitHub Discussions](https://img.shields.io/github/discussions/CJKmkp/ICC-CE?style=flat)](https://github.com/CJKmkp/ICC-CE/discussions)
-[![创建d At](https://img.shields.io/github/created-at/CJKmkp/ICC-CE)](https://github.com/CJKmkp/ICC-CE)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/CJKmkp/ICC-CE)](https://github.com/CJKmkp/ICC-CE/commits/master)<br/>
-[![GitHub Language Count](https://img.shields.io/github/languages/count/CJKmkp/ICC-CE)](https://github.com/CJKmkp/ICC-CE)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/CJKmkp/ICC-CE)](https://github.com/CJKmkp/ICC-CE)
-![GitHub License](https://img.shields.io/github/license/CJKmkp/ICC-CE?color=red)
+[![stars](https://img.shields.io/github/stars/InkCanvasForClass/community?style=flat&color=red)](https://github.com/InkCanvasForClass/community/stargazers)
+[![forks](https://img.shields.io/github/forks/InkCanvasForClass/community?style=flat&color=blue)](https://github.com/InkCanvasForClass/community/forks)
+[![Watchers](https://img.shields.io/github/watchers/InkCanvasForClass/community?style=flat&color=green)](https://github.com/InkCanvasForClass/community/watchers)
+[![Downloads](https://img.shields.io/github/downloads/InkCanvasForClass/community/total?style=flat&logo=github)](https://github.com/InkCanvasForClass/community/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/InkCanvasForClass/community?query=is%3Aopen&label=issues&color=purple)](https://github.com/InkCanvasForClass/community/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/InkCanvasForClass/community?style=flat)](https://github.com/InkCanvasForClass/community/discussions)
+[![创建d At](https://img.shields.io/github/created-at/InkCanvasForClass/community)](https://github.com/InkCanvasForClass/community)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/InkCanvasForClass/community)](https://github.com/InkCanvasForClass/community/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/InkCanvasForClass/community)](https://github.com/InkCanvasForClass/community)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/InkCanvasForClass/community)](https://github.com/InkCanvasForClass/community)
+![GitHub License](https://img.shields.io/github/license/InkCanvasForClass/community?color=red)
 [![Discord](https://img.shields.io/discord/1383039050184917053?style=social&label=Discord&logo=discord)](https://discord.gg/ahj7eJWhEG)
 [![交流群](https://img.shields.io/badge/交流群%201054377349-white?style=flat&logo=qq)](https://qm.qq.com/q/vno1nrxlf2)
 
@@ -507,7 +507,7 @@ ICC-CE 项目近期创建，开发者正在积极开发和优化中。虽然功�
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>GitHub</b></td>
-    <td><a href="https://github.com/CJKmkp/ICC-CE/">CJKmkp/ICC-CE</a></td>
+    <td><a href="https://github.com/InkCanvasForClass/community/">InkCanvasForClass/community</a></td>
 </tr>
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
