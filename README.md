@@ -2446,6 +2446,7 @@ Rand 是一款简洁、现代化、易用的抽号软件，专为触摸屏设备
 [![GitHub Language Count](https://img.shields.io/github/languages/count/NamePickerOrg/NamePicker)](https://github.com/NamePickerOrg/NamePicker)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/NamePickerOrg/NamePicker)](https://github.com/NamePickerOrg/NamePicker)
 ![GitHub License](https://img.shields.io/github/license/NamePickerOrg/NamePicker?color=red)
+[![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%202153027375-white?style=flat&logo=qq)](https://qm.qq.com/q/rK6hj5ABNY)
 
 </div>
 
@@ -2590,7 +2591,7 @@ SecRandom 是一个便捷且现代化的随机抽取工具，支持多种抽取�
 [![GitHub Language Count](https://img.shields.io/github/languages/count/xuanxuan1231/RandPicker)](https://github.com/xuanxuan1231/RandPicker)
 [![GitHub Top Language](https://img.shields.io/github/languages/top/xuanxuan1231/RandPicker)](https://github.com/xuanxuan1231/RandPicker)
 ![GitHub License](https://img.shields.io/github/license/xuanxuan1231/RandPicker?color=red)
-[![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%202153027375-white?style=flat&logo=qq)](https://qm.qq.com/q/rK6hj5ABNY)
+
 
 </div>
 
