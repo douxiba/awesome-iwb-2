@@ -2463,14 +2463,9 @@ NamePicker 是用 Python 开发的一款简洁的点名软件。提供了最基�
     <td><a href="https://github.com/NamePickerOrg/NP-NameEditor/">NamePickerOrg/NP-NameEditor</a></td>
 </tr>
 <tr>
-    <td><img src="images/streamlit-icon.svg" width="18" height="18"></td>
-    <td><b>编辑器Web</b></td>
-    <td><a href="https://np-nameeditor.streamlit.app/">np-nameeditor.streamlit.app</a></td>
-</tr>
-<tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>开发者</b></td>
-    <td><img src="https://github.com/LuoYunXi0407.png" width="20" height="20"/> <a href="https://github.com/LuoYunXi0407/">LuoYunXi</a></td>
+    <td><img src="https://github.com/LHGS-github.png" width="20" height="20"/> <a href="https://github.com/LHGS-github">LHGS-github</a></td>
 </tr>
 </table>
 
