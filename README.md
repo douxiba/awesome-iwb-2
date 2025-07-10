@@ -2432,6 +2432,8 @@ Rand 是一款简洁、现代化、易用的抽号软件，专为触摸屏设备
 
 ### NamePicker
 
+![Banner](https://github.com/user-attachments/assets/e11babe0-b073-4828-9c99-0fcb524f32f3)
+
 ![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
 [![stars](https://img.shields.io/github/stars/NamePickerOrg/NamePicker?style=flat&color=red)](https://github.com/NamePickerOrg/NamePicker/stargazers)
 [![forks](https://img.shields.io/github/forks/NamePickerOrg/NamePicker?style=flat&color=blue)](https://github.com/NamePickerOrg/NamePicker/forks)
@@ -2447,11 +2449,18 @@ Rand 是一款简洁、现代化、易用的抽号软件，专为触摸屏设备
 
 </div>
 
-NamePicker 是用 Python 开发的一款简洁的点名软件。提供了最基本的点名功能，还提供了人性化的配置修改界面（不过我还没试，过几天看看，他们倒是提供了网页版的修改工具），支持从外部读取名单，支持特殊的点名规则。
+NamePicker 是用 Python 开发的一款简洁的点名软件。提供了最基本的点名功能，还提供了人性化的配置修改界面，支持从外部读取名单，支持特殊的点名规则。
 
 💬 **Dubi906w 锐评**：看起来可以试试，有图有真相，过几天把图加上给大家看看。
 
+💬 **2,2,3-三甲基戊烷 锐评**：整体来说不错，此外这款软件采用了由RinLit开发的RinUI，太豪堪了，RinLit yyds！！！
+
 <table align="center">
+<tr>
+    <td><img src="images/bilibili-icon.svg" width="18" height="18"></td>
+    <td><b>B站宣传视频</b></td>
+    <td><a href="https://www.bilibili.com/video/BV1tZGwzvEra/">BV1tZGwzvEra</a></td>
+</tr>
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>GitHub</b></td>
