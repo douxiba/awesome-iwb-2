@@ -468,7 +468,7 @@ Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示
 
 ### ICC-CE
 
-![banner](https://github.com/user-attachments/assets/09f98879-06a4-4de2-8fc0-b9affdd7b966)
+![banner](https://github.com/user-attachments/assets/598634da-dec5-473c-9765-ce8dcb3a3f76)
 
 ![New!](https://img.shields.io/badge/新项目-blue)
 [![stars](https://img.shields.io/github/stars/InkCanvasForClass/community?style=flat&color=red)](https://github.com/InkCanvasForClass/community/stargazers)
