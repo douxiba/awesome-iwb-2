@@ -158,6 +158,7 @@
 | 🔴 [NamePicker](#namepicker) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/NamePickerOrg/NamePicker?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/LHGS-github.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/LHGS-github.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/LHGS-github">LHGS-github</a> |
 | 🔴 [IslandCaller](#islandcaller) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/HUSX100/IslandCaller?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/HUSX100.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/HUSX100.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/HUSX100">HUSX100</a> |
 | 🔴 [SecRandom](#secrandom) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/SECTL/SecRandom?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/SECTL.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/SECTL.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/SECTL">SECTL</a> |
+| 🔴 [RandPicker](#randpicker) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/xuanxuan1231/RandPicker?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/xuanxuan1231.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/xuanxuan1231.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/xuanxuan1231">xuanxuan1231</a> |
 | ~~[SeewoHUB](#seewohub)~~ (停更) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/CNwenwen.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/CNwenwen.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/CNwenwen">CNwenwen</a> |
 
 
@@ -2514,6 +2515,56 @@ SecRandom 是一个便捷且现代化的随机抽取工具，支持多种抽取�
 </tr>
 </table>
 
+
+<div align="center">
+<br/>
+<br/>
+<img src="https://github.com/xuanxuan1231/RandPicker/raw/main/img/Logo.png" width="56" height="56"/>
+
+
+### RandPicker
+
+
+
+
+![New!](https://img.shields.io/badge/RandPicker-blue)
+[![stars](https://img.shields.io/github/stars/xuanxuan1231/RandPicker?style=flat&color=red)](https://github.com/xuanxuan1231/RandPicker/stargazers)
+[![forks](https://img.shields.io/github/forks/xuanxuan1231/RandPicker?style=flat&color=blue)](https://github.com/xuanxuan1231/RandPicker/forks)
+[![Watchers](https://img.shields.io/github/watchers/xuanxuan1231/RandPicker?style=flat&color=green)](https://github.com/xuanxuan1231/RandPicker/watchers)
+[![Downloads](https://img.shields.io/github/downloads/xuanxuan1231/RandPicker/total?style=flat&logo=github)](https://github.com/xuanxuan1231/RandPicker/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/xuanxuan1231/RandPicker?query=is%3Aopen&label=issues&color=purple)](https://github.com/xuanxuan1231/RandPicker/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/xuanxuan1231/RandPicker?style=flat)](https://github.com/xuanxuan1231/RandPicker/discussions)
+[![创建d At](https://img.shields.io/github/created-at/xuanxuan1231/RandPicker)](https://github.com/xuanxuan1231/RandPicker)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/xuanxuan1231/RandPicker)](https://github.com/xuanxuan1231/RandPicker/commits/master)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/xuanxuan1231/RandPicker)](https://github.com/xuanxuan1231/RandPicker)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/xuanxuan1231/RandPicker)](https://github.com/xuanxuan1231/RandPicker)
+![GitHub License](https://img.shields.io/github/license/xuanxuan1231/RandPicker?color=red)
+
+</div>
+
+RandPicker 是一款简单易用的随机抽取工具，支持多种抽取方式，如随机抽取单人、多人、小组等，适用于教学、会议、抽奖等多种场景。它具备语音提示、历史记录、详细抽取记录等功能，并支持多班级名单管理，提供独立抽取与设置界面，拥有便捷悬浮窗设计和自动清除抽取记录功能。
+
+🏷 **关键词**：<br/>
+![随机抽取](https://img.shields.io/badge/%E9%9A%8F%E6%9C%BA%E6%8A%BD%E5%8F%96-white)
+![语音提示](https://img.shields.io/badge/%E8%AF%AD%E9%9F%B3%E6%8F%90%E7%A4%BA-white)
+![历史记录](https://img.shields.io/badge/%E5%8E%86%E5%8F%B2%E8%AE%B%E5%BD%95-white)
+![班级管理](https://img.shields.io/badge/%E7%8F%AD%E7%BA%A7%E7%AE%A1%E7%90%86-white)
+![公平抽取](https://img.shields.io/badge/%E5%85%AC%E5%B9%B3%E6%8A%BD%E5%8F%96-white)
+
+
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/xuanxuan1231/RandPicker">xuanxuan1231/RandPicker</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/xuanxuan1231.png?s=48&v=4" width="20" height="20"/> <a href="https://github.com/xuanxuan1231">xuanxuan1231</a></td>
+</tr>
+</table>
 
 
 
