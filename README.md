@@ -2564,6 +2564,11 @@ RandPicker 是一款简单易用的随机抽取工具，支持多种抽取方式
     <td><b>开发者</b></td>
     <td><img src="https://github.com/xuanxuan1231.png?s=48&v=4" width="20" height="20"/> <a href="https://github.com/xuanxuan1231">xuanxuan1231</a></td>
 </tr>
+<tr>
+    <td><img src="https://github.com/xuanxuan1231/RandPicker/raw/main/img/Logo.png" width="18" height="18"></td>
+    <td><b>官网</b></td>
+    <td><a href="https://xuanxuan1231.github.io/RandPicker/">https://xuanxuan1231.github.io/RandPicker/</a></td>
+</tr>
 </table>
 
 
