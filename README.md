@@ -57,7 +57,7 @@
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)<br/>
 ![GitHub last commit](https://img.shields.io/github/last-commit/awesome-iwb/awesome-iwb)
 ![Visitors](https://api.visitorbadge.io/api/combined?path=https://github.com/awesome-iwb/awesome-iwb&label=Visitors&countColor=%23263759&style=flat)
-![Lastest Update](https://img.shields.io/badge/%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0-2025%E5%B9%B47%E6%9C%8810%E6%97%A5-orange)
+![Lastest Update](https://img.shields.io/badge/%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0-2025%E5%B9%B47%E6%9C%8811%E6%97%A5-orange)
 [![交流群](https://img.shields.io/badge/-%E4%BA%A4%E6%B5%81%E7%BE%A4%201004548404-white?style=flat&logo=qq)](https://qm.qq.com/q/im8ZtJpkZy)
 ![Repobeats Analyzer](https://repobeats.axiom.co/api/embed/71f72cdd85b0b13b41e368b54f1f94f3d378c9fa.svg "Repobeats analytics image")
 
@@ -110,7 +110,7 @@
 | [ppInk](#ppink) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/pubpub-zz/ppInk?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/pubpub-zz.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/pubpub-zz.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/pubpub-zz">pubpub-zz</a> |
 | [Inkways](#inkways-wip) ![闭源](https://img.shields.io/badge/%E9%97%AD%E6%BA%90-%23ca8a04?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/iNKORE-NET.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/iNKORE-NET.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/iNKORE-NET">iNKORE-NET</a> |
 | [LemonxNote](#lemonxnote-柠檬白板) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/lh11117/LemonxNote?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/lh11117.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/lh11117.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/lh11117">lh11117</a> |
-| [🔴Ink Canvas Better](#ink-canvas-better) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/BaiYang2238/Ink-Canvas-Better?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/BaiYang2238.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/BaiYang2238.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/BaiYang2238">BaiYang2238</a> |
+| 🔴 [Ink Canvas Better](#ink-canvas-better) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/BaiYang2238/Ink-Canvas-Better?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/BaiYang2238.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/BaiYang2238.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/BaiYang2238">BaiYang2238</a> |
 
 
 ### 📊 课表与看板类软件
@@ -149,6 +149,7 @@
 | [OpenLuckyRandom](#openluckyrandom) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/WhatDamon/OpenLuckyRandom?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/WhatDamon.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/WhatDamon.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/WhatDamon">WhatDamon</a> |
 | [MythwareToolkit](#mythwaretoolkit) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/BengbuGuards/MythwareToolkit?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/BengbuGuards.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/BengbuGuards.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/BengbuGuards">BengbuGuards</a> |
 | 🥈 [ENAL 希沃易登](#enal-希沃易登) ![闭源](https://img.shields.io/badge/%E9%97%AD%E6%BA%90-%23ca8a04?style=flat&label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=https://raw.githubusercontent.com/awesome-iwb/awesome-iwb/master/images/xiaocuitang-avatar.png&v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/awesome-iwb/awesome-iwb/master/images/xiaocuitang-avatar.png&v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://i.iceawa.com/">Xiaocuitang</a> |
+| 🔴 [Auto Login for EasiNote](#auto-login-for-easinote) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/hxabcd/auto-login-for-easinote?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/hxabcd.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/hxabcd.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/hxabcd">hxabcd</a> |
 | [ExCaller](#ex-caller) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/typed-sigterm/ex-caller?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/typed-sigterm.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/typed-sigterm.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/typed-sigterm">typed-sigterm</a> |
 | [ClassNamePicker](#classnamepicker) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Chengzi600/ClassNamePicker?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Chengzi600.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Chengzi600.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Chengzi600">Chengzi600</a> |
 | [SectionIstool](#sectionistool) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/SectionIstool/SectionIstool?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/lzy98276.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/lzy98276.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/lzy98276">lzy98276</a> |
@@ -2138,12 +2139,61 @@ PPT 触屏辅助 此程序让你能在 Windows 10/11 中更高效地以“单击
 </tr>
 </table>
 
+
+<div align="center">
+<br/>
+<br/>
+
+### Auto Login for EasiNote
+
+
+
+[![stars](https://img.shields.io/github/stars/hxabcd/auto-login-for-easinote?style=flat&color=red)](https://github.com/hxabcd/auto-login-for-easinote/stargazers)
+[![forks](https://img.shields.io/github/forks/hxabcd/auto-login-for-easinote?style=flat&color=blue)](https://github.com/hxabcd/auto-login-for-easinote/forks)
+[![Watchers](https://img.shields.io/github/watchers/hxabcd/auto-login-for-easinote?style=flat&color=green)](https://github.com/hxabcd/auto-login-for-easinote/watchers)
+[![Downloads](https://img.shields.io/github/downloads/hxabcd/auto-login-for-easinote/total?style=flat&logo=github)](https://github.com/hxabcd/auto-login-for-easinote/releases)<br/>
+[![GitHub Issues](https://img.shields.io/github/issues-search/hxabcd/auto-login-for-easinote?query=is%3Aopen&label=issues&color=purple)](https://github.com/hxabcd/auto-login-for-easinote/issues)
+[![GitHub Discussions](https://img.shields.io/github/discussions/hxabcd/auto-login-for-easinote?style=flat)](https://github.com/hxabcd/auto-login-for-easinote/discussions)
+[![创建d At](https://img.shields.io/github/created-at/hxabcd/auto-login-for-easinote)](https://github.com/hxabcd/auto-login-for-easinote)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/hxabcd/auto-login-for-easinote)](https://github.com/hxabcd/auto-login-for-easinote/commits/main)<br/>
+[![GitHub Language Count](https://img.shields.io/github/languages/count/hxabcd/auto-login-for-easinote)](https://github.com/hxabcd/auto-login-for-easinote)
+[![GitHub Top Language](https://img.shields.io/github/languages/top/hxabcd/auto-login-for-easinote)](https://github.com/hxabcd/auto-login-for-easinote)
+![GitHub License](https://img.shields.io/github/license/hxabcd/auto-login-for-easinote?color=red)
+
+</div>
+
+Auto Login for EasiNote 是一个轻量级 CLI 工具，用 Python 编写，专门用于**一键自动登录希沃白板**。它基于 PyAutoGUI 实现图像识别与自动点击，能在希沃一体机或 Windows 电脑上完成账号密码输入与登录操作。支持与 [ClassIsland](https://github.com/ClassIsland/ClassIsland) 的「自动化」功能联动，实现**按课表自动切换老师账号**，大大提升课堂效率。
+
+项目已在一台 Windows 10 希沃一体机上长期实测，稳定性良好；如遇误触打断，工具会自动重试。提供 4K 适配、登录前预警提示、日志输出等贴心选项，满足不同教学场景需求。
+
+🏷 **关键词**：<br/>
+![希沃白板](https://img.shields.io/badge/%E5%B8%8C%E6%B2%83%E7%99%BD%E6%9D%BF-white)
+![自动登录](https://img.shields.io/badge/%E8%87%AA%E5%8A%A8%E7%99%BB%E5%BD%95-white)
+![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-white)
+![ClassIsland](https://img.shields.io/badge/ClassIsland-white)
+![CLI工具](https://img.shields.io/badge/CLI%E5%B7%A5%E5%85%B7-white)
+
+💬 **2,2,3-三甲基戊烷 锐评**：在希沃白板账号切换频繁的班级里，这款小工具简直是救星！一条命令就完成登录，配合 ClassIsland 还能按课表自动切号，彻底告别“上课 3 分钟，登录 5 分钟”的尴尬。作者贴心地加了 4K 适配和确认弹窗，既稳又人性化。~~可惜这么好的工具我们班一般用不到，因为没几个老师用EN5的~~
+
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/hxabcd/auto-login-for-easinote">hxabcd/auto-login-for-easinote</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/hxabcd.png?s=48&v=4" width="20" height="20"/> <a href="https://github.com/hxabcd">hxabcd</a></td>
+</tr>
+</table>
+
+### ex-caller
+
 <div align="center">
 
 <br/>
 <br/>
-
-### ex-caller
 
 ![banner](https://github.com/typed-sigterm/ex-caller/raw/main/static/demo.webp)
 
