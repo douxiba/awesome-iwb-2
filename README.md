@@ -2482,7 +2482,7 @@ Rand 是一款简洁、现代化、易用的抽号软件，专为触摸屏设备
 
 ### NamePicker
 
-![Banner](https://github.com/user-attachments/assets/e11babe0-b073-4828-9c99-0fcb524f32f3)
+![Banner](https://github.com/user-attachments/assets/8815546a-345e-4146-9542-dd6d85904d8e)
 
 ![New!](https://img.shields.io/badge/%E6%96%B0%E4%BA%BA%E5%87%BA%E9%81%93-blue)
 [![stars](https://img.shields.io/github/stars/NamePickerOrg/NamePicker?style=flat&color=red)](https://github.com/NamePickerOrg/NamePicker/stargazers)
